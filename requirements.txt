@@ -1,0 +1,8 @@
+streamlit
+numpy
+openai
+langchain-openai
+langchain-chroma
+requests
+pillow
+python-dotenv
