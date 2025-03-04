@@ -1,4 +1,4 @@
-name: Auto-Update Movies Weekly & Deploy to Hugging Face
+name: Auto-Update Vector Database Weekly & Deploy to Hugging Face
 
 on:
   schedule:
