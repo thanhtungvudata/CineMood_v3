@@ -345,9 +345,9 @@
         "title": "Wicked",
         "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
         "release_date": "2024-11-20",
-        "popularity": 751.017,
-        "vote_average": 6.901,
-        "vote_count": 1857,
+        "popularity": 525.093,
+        "vote_average": 6.904,
+        "vote_count": 1866,
         "genres": [
             "Drama",
             "Romance",
@@ -1475,54 +1475,6 @@
         ]
     },
     {
-        "id": 1356039,
-        "title": "Counterattack",
-        "overview": "When a hostage rescue mission creates a new enemy, Capt. Guerrero and his elite soldiers must face an ambush by a criminal group.",
-        "release_date": "2025-02-27",
-        "popularity": 112.244,
-        "vote_average": 8.5,
-        "vote_count": 188,
-        "genres": [
-            "Action",
-            "Adventure",
-            "Thriller"
-        ],
-        "runtime": 85,
-        "original_language": "es",
-        "spoken_languages": [
-            "Spanish"
-        ],
-        "status": "Released",
-        "budget": 0,
-        "revenue": 0,
-        "production_companies": [
-            "Draco Films"
-        ],
-        "production_countries": [
-            "Mexico"
-        ],
-        "tagline": "",
-        "homepage": "https://www.netflix.com/title/81936018",
-        "imdb_id": "tt23648788",
-        "poster_path": "https://image.tmdb.org/t/p/w500/lI2uFlSEkwXKljqiry7coaJ6wIS.jpg",
-        "main_cast": [
-            "Luis Alberti",
-            "No\u00e9 Hern\u00e1ndez",
-            "Leonardo Alonso",
-            "Luis Curiel",
-            "Guillermo Nava"
-        ],
-        "director": "Chava Cartas",
-        "keywords": [
-            "mexico",
-            "usa\u2013mexico border",
-            "special forces",
-            "military",
-            "narcos",
-            "murcielagos"
-        ]
-    },
-    {
         "id": 1028196,
         "title": "Nickel Boys",
         "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
@@ -1592,6 +1544,54 @@
             "boxing match",
             "tallahassee",
             "bold"
+        ]
+    },
+    {
+        "id": 1356039,
+        "title": "Counterattack",
+        "overview": "When a hostage rescue mission creates a new enemy, Capt. Guerrero and his elite soldiers must face an ambush by a criminal group.",
+        "release_date": "2025-02-27",
+        "popularity": 112.244,
+        "vote_average": 8.5,
+        "vote_count": 188,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "runtime": 85,
+        "original_language": "es",
+        "spoken_languages": [
+            "Spanish"
+        ],
+        "status": "Released",
+        "budget": 0,
+        "revenue": 0,
+        "production_companies": [
+            "Draco Films"
+        ],
+        "production_countries": [
+            "Mexico"
+        ],
+        "tagline": "",
+        "homepage": "https://www.netflix.com/title/81936018",
+        "imdb_id": "tt23648788",
+        "poster_path": "https://image.tmdb.org/t/p/w500/lI2uFlSEkwXKljqiry7coaJ6wIS.jpg",
+        "main_cast": [
+            "Luis Alberti",
+            "No\u00e9 Hern\u00e1ndez",
+            "Leonardo Alonso",
+            "Luis Curiel",
+            "Guillermo Nava"
+        ],
+        "director": "Chava Cartas",
+        "keywords": [
+            "mexico",
+            "usa\u2013mexico border",
+            "special forces",
+            "military",
+            "narcos",
+            "murcielagos"
         ]
     },
     {
@@ -1840,6 +1840,59 @@
         ]
     },
     {
+        "id": 604685,
+        "title": "Den of Thieves 2: Pantera",
+        "overview": "Big Nick is back on the hunt in Europe and closing in on Donnie, who is embroiled in the treacherous and unpredictable world of diamond thieves and the infamous Panther mafia, as they plot a massive heist of the world's largest diamond exchange.",
+        "release_date": "2025-01-08",
+        "popularity": 191.886,
+        "vote_average": 6.7,
+        "vote_count": 297,
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "runtime": 144,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 40000000,
+        "revenue": 54586117,
+        "production_companies": [
+            "Diamond Film Productions",
+            "G-BASE",
+            "Tucker Tooley Entertainment",
+            "Lionsgate",
+            "Entertainment One Features"
+        ],
+        "production_countries": [
+            "Canada",
+            "United States of America"
+        ],
+        "tagline": "The score isn't settled.",
+        "homepage": "https://www.denofthieves.movie",
+        "imdb_id": "tt8008948",
+        "poster_path": "https://image.tmdb.org/t/p/w500/p6Zz0gETvkC33Pst1h6sh9Js6x.jpg",
+        "main_cast": [
+            "Gerard Butler",
+            "O'Shea Jackson Jr.",
+            "Evin Ahmad",
+            "Salvatore Esposito",
+            "Meadow Williams"
+        ],
+        "director": "Christian Gudegast",
+        "keywords": [
+            "diamond",
+            "ex-cop",
+            "heist",
+            "vengeance",
+            "crime",
+            "vibrant"
+        ]
+    },
+    {
         "id": 1187417,
         "title": "Rumours",
         "overview": "En route to the annual G7 summit, the seven leaders of the world\u2019s wealthiest liberal democracies get lost in the woods and face increasing peril while attempting to draft a provisional statement regarding a global crisis.",
@@ -2009,59 +2062,6 @@
         ]
     },
     {
-        "id": 604685,
-        "title": "Den of Thieves 2: Pantera",
-        "overview": "Big Nick is back on the hunt in Europe and closing in on Donnie, who is embroiled in the treacherous and unpredictable world of diamond thieves and the infamous Panther mafia, as they plot a massive heist of the world's largest diamond exchange.",
-        "release_date": "2025-01-08",
-        "popularity": 191.886,
-        "vote_average": 6.7,
-        "vote_count": 297,
-        "genres": [
-            "Action",
-            "Crime",
-            "Thriller"
-        ],
-        "runtime": 144,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 40000000,
-        "revenue": 54586117,
-        "production_companies": [
-            "Diamond Film Productions",
-            "G-BASE",
-            "Tucker Tooley Entertainment",
-            "Lionsgate",
-            "Entertainment One Features"
-        ],
-        "production_countries": [
-            "Canada",
-            "United States of America"
-        ],
-        "tagline": "The score isn't settled.",
-        "homepage": "https://www.denofthieves.movie",
-        "imdb_id": "tt8008948",
-        "poster_path": "https://image.tmdb.org/t/p/w500/p6Zz0gETvkC33Pst1h6sh9Js6x.jpg",
-        "main_cast": [
-            "Gerard Butler",
-            "O'Shea Jackson Jr.",
-            "Evin Ahmad",
-            "Salvatore Esposito",
-            "Meadow Williams"
-        ],
-        "director": "Christian Gudegast",
-        "keywords": [
-            "diamond",
-            "ex-cop",
-            "heist",
-            "vengeance",
-            "crime",
-            "vibrant"
-        ]
-    },
-    {
         "id": 539972,
         "title": "Kraven the Hunter",
         "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
@@ -2195,6 +2195,47 @@
         ]
     },
     {
+        "id": 1426142,
+        "title": "Sosyal Climbers",
+        "overview": "Stuck with a massive debt after falling for a scam, two wannabe socialites create elaborate fake identities to swindle the rich out of their money.",
+        "release_date": "2025-02-26",
+        "popularity": 114.316,
+        "vote_average": 5.0,
+        "vote_count": 5,
+        "genres": [
+            "Romance",
+            "Comedy"
+        ],
+        "runtime": 102,
+        "original_language": "tl",
+        "spoken_languages": [
+            "English",
+            "Tagalog"
+        ],
+        "status": "Released",
+        "budget": 0,
+        "revenue": 0,
+        "production_companies": [
+            "ABS-CBN Studios"
+        ],
+        "production_countries": [
+            "Philippines"
+        ],
+        "tagline": "True love. Fake lives.",
+        "homepage": "https://www.netflix.com/title/81765818",
+        "imdb_id": "tt35624097",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cr6y0nWdfPb3yZT9Iz63zTE1dQE.jpg",
+        "main_cast": [
+            "Maris Racal",
+            "Anthony Jennings",
+            "Ricky Davao",
+            "Carmi Martin",
+            "Bart Guingona"
+        ],
+        "director": "Jason Paul Laxamana",
+        "keywords": []
+    },
+    {
         "id": 120,
         "title": "The Lord of the Rings: The Fellowship of the Ring",
         "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
@@ -2319,67 +2360,6 @@
             "female friendship",
             "romcom",
             "sequel"
-        ]
-    },
-    {
-        "id": 671,
-        "title": "Harry Potter and the Philosopher's Stone",
-        "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard\u2014with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths\u2014and about the villain who's to blame.",
-        "release_date": "2001-11-16",
-        "popularity": 158.009,
-        "vote_average": 7.903,
-        "vote_count": 27952,
-        "genres": [
-            "Adventure",
-            "Fantasy"
-        ],
-        "runtime": 152,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 125000000,
-        "revenue": 976475550,
-        "production_companies": [
-            "Warner Bros. Pictures",
-            "Heyday Films",
-            "1492 Pictures"
-        ],
-        "production_countries": [
-            "United Kingdom",
-            "United States of America"
-        ],
-        "tagline": "Let the magic begin.",
-        "homepage": "https://www.warnerbros.com/movies/harry-potter-and-sorcerers-stone/",
-        "imdb_id": "tt0241527",
-        "poster_path": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
-        "main_cast": [
-            "Daniel Radcliffe",
-            "Rupert Grint",
-            "Emma Watson",
-            "Richard Harris",
-            "Tom Felton"
-        ],
-        "director": "Chris Columbus",
-        "keywords": [
-            "witch",
-            "school friend",
-            "friendship",
-            "london, england",
-            "based on novel or book",
-            "magic",
-            "boarding school",
-            "child hero",
-            "school of witchcraft",
-            "chosen one",
-            "school",
-            "ghost",
-            "fantasy world",
-            "wizard",
-            "based on young adult novel",
-            "owl",
-            "joyous"
         ]
     },
     {
@@ -3598,119 +3578,63 @@
         ]
     },
     {
-        "id": 1221404,
-        "title": "Crayon Shin-chan the Movie: Our Dinosaur Diary",
-        "overview": "Follow the friendship between the Nobara family's pet dog Shiro and a \"small dinosaur\". Their connection helps the growth of Shinnosuke and the Kusakabe Defense Squad.",
-        "release_date": "2024-08-09",
-        "popularity": 107.192,
-        "vote_average": 5.675,
-        "vote_count": 20,
+        "id": 348,
+        "title": "Alien",
+        "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+        "release_date": "1979-05-25",
+        "popularity": 76.118,
+        "vote_average": 8.161,
+        "vote_count": 15080,
         "genres": [
-            "Animation",
-            "Adventure",
-            "Comedy",
-            "Family"
+            "Horror",
+            "Science Fiction"
         ],
-        "runtime": 106,
-        "original_language": "ja",
-        "spoken_languages": [
-            "Japanese"
-        ],
-        "status": "Released",
-        "budget": 0,
-        "revenue": 21478573,
-        "production_companies": [
-            "Shin-Ei Animation",
-            "Futabasha",
-            "Asatsu-DK",
-            "TV Asahi",
-            "TOHO"
-        ],
-        "production_countries": [
-            "Japan"
-        ],
-        "tagline": "When a brief encounter sparks a heartfelt bond.",
-        "homepage": "https://www.shinchan-movie.com/2024/",
-        "imdb_id": "tt30400536",
-        "poster_path": "https://image.tmdb.org/t/p/w500/n7YcOeqPOmvQ2PUatn4UqV5YStj.jpg",
-        "main_cast": [
-            "Yumiko Kobayashi",
-            "Miki Narahashi",
-            "Toshiyuki Morikawa",
-            "Satomi Korogi",
-            "Mari Mashiba"
-        ],
-        "director": "Shinobu Sasaki",
-        "keywords": [
-            "kindergarten",
-            "dinosaur",
-            "based on manga",
-            "seinen",
-            "anime"
-        ]
-    },
-    {
-        "id": 12444,
-        "title": "Harry Potter and the Deathly Hallows: Part 1",
-        "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
-        "release_date": "2010-11-17",
-        "popularity": 107.431,
-        "vote_average": 7.744,
-        "vote_count": 19329,
-        "genres": [
-            "Adventure",
-            "Fantasy"
-        ],
-        "runtime": 146,
+        "runtime": 117,
         "original_language": "en",
         "spoken_languages": [
-            "English"
+            "English",
+            "Spanish"
         ],
         "status": "Released",
-        "budget": 250000000,
-        "revenue": 954305868,
+        "budget": 11000000,
+        "revenue": 104931801,
         "production_companies": [
-            "Warner Bros. Pictures",
-            "Heyday Films"
+            "20th Century Fox",
+            "Brandywine Productions"
         ],
         "production_countries": [
-            "United Kingdom",
             "United States of America"
         ],
-        "tagline": "Nowhere is safe.",
-        "homepage": "https://www.warnerbros.com/movies/harry-potter-and-deathly-hallows-part-1/",
-        "imdb_id": "tt0926084",
-        "poster_path": "https://image.tmdb.org/t/p/w500/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+        "tagline": "In space, no one can hear you scream.",
+        "homepage": "https://www.20thcenturystudios.com/movies/alien",
+        "imdb_id": "tt0078748",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
         "main_cast": [
-            "Daniel Radcliffe",
-            "Emma Watson",
-            "Rupert Grint",
-            "Toby Jones",
-            "Helena Bonham Carter"
+            "Tom Skerritt",
+            "Sigourney Weaver",
+            "Veronica Cartwright",
+            "Harry Dean Stanton",
+            "John Hurt"
         ],
-        "director": "David Yates",
+        "director": "Ridley Scott",
         "keywords": [
-            "witch",
-            "friendship",
-            "london, england",
-            "corruption",
-            "escape",
-            "teleportation",
-            "isolation",
-            "magic",
-            "bravery",
-            "radio",
-            "road trip",
-            "shelter",
-            "tension",
-            "attack",
-            "werewolf",
-            "ghost",
-            "road movie",
-            "wizard",
-            "mysterious",
-            "christmas",
-            "based on young adult novel"
+            "android",
+            "spacecraft",
+            "space marine",
+            "biology",
+            "dystopia",
+            "countdown",
+            "space suit",
+            "beheading",
+            "space travel",
+            "cowardice",
+            "alien",
+            "space",
+            "female protagonist",
+            "parasite",
+            "space opera",
+            "cosmos",
+            "xenomorph"
         ]
     },
     {
@@ -3826,6 +3750,58 @@
             "maximus",
             "serene",
             "defiant"
+        ]
+    },
+    {
+        "id": 1138194,
+        "title": "Heretic",
+        "overview": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.",
+        "release_date": "2024-10-31",
+        "popularity": 252.726,
+        "vote_average": 7.2,
+        "vote_count": 1217,
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "runtime": 111,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 10000000,
+        "revenue": 51913394,
+        "production_companies": [
+            "A24",
+            "Beck/Woods",
+            "Shiny Penny Productions",
+            "CatchLight Studios"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "Question everything.",
+        "homepage": "https://a24films.com/films/heretic",
+        "imdb_id": "tt28015403",
+        "poster_path": "https://image.tmdb.org/t/p/w500/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
+        "main_cast": [
+            "Hugh Grant",
+            "Sophie Thatcher",
+            "Chloe East",
+            "Topher Grace",
+            "Elle Young"
+        ],
+        "director": "Scott Beck",
+        "keywords": [
+            "faith",
+            "affectation",
+            "religion",
+            "cat and mouse",
+            "mormon missionary",
+            "eccentric man",
+            "women of faith",
+            "frightened"
         ]
     },
     {
@@ -4183,66 +4159,6 @@
         ]
     },
     {
-        "id": 348,
-        "title": "Alien",
-        "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
-        "release_date": "1979-05-25",
-        "popularity": 76.118,
-        "vote_average": 8.161,
-        "vote_count": 15080,
-        "genres": [
-            "Horror",
-            "Science Fiction"
-        ],
-        "runtime": 117,
-        "original_language": "en",
-        "spoken_languages": [
-            "English",
-            "Spanish"
-        ],
-        "status": "Released",
-        "budget": 11000000,
-        "revenue": 104931801,
-        "production_companies": [
-            "20th Century Fox",
-            "Brandywine Productions"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "In space, no one can hear you scream.",
-        "homepage": "https://www.20thcenturystudios.com/movies/alien",
-        "imdb_id": "tt0078748",
-        "poster_path": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
-        "main_cast": [
-            "Tom Skerritt",
-            "Sigourney Weaver",
-            "Veronica Cartwright",
-            "Harry Dean Stanton",
-            "John Hurt"
-        ],
-        "director": "Ridley Scott",
-        "keywords": [
-            "android",
-            "spacecraft",
-            "space marine",
-            "biology",
-            "dystopia",
-            "countdown",
-            "space suit",
-            "beheading",
-            "space travel",
-            "cowardice",
-            "alien",
-            "space",
-            "female protagonist",
-            "parasite",
-            "space opera",
-            "cosmos",
-            "xenomorph"
-        ]
-    },
-    {
         "id": 603692,
         "title": "John Wick: Chapter 4",
         "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
@@ -4440,63 +4356,11 @@
         ]
     },
     {
-        "id": 1138194,
-        "title": "Heretic",
-        "overview": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.",
-        "release_date": "2024-10-31",
-        "popularity": 252.726,
-        "vote_average": 7.2,
-        "vote_count": 1217,
-        "genres": [
-            "Horror",
-            "Thriller"
-        ],
-        "runtime": 111,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 10000000,
-        "revenue": 51913394,
-        "production_companies": [
-            "A24",
-            "Beck/Woods",
-            "Shiny Penny Productions",
-            "CatchLight Studios"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "Question everything.",
-        "homepage": "https://a24films.com/films/heretic",
-        "imdb_id": "tt28015403",
-        "poster_path": "https://image.tmdb.org/t/p/w500/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
-        "main_cast": [
-            "Hugh Grant",
-            "Sophie Thatcher",
-            "Chloe East",
-            "Topher Grace",
-            "Elle Young"
-        ],
-        "director": "Scott Beck",
-        "keywords": [
-            "faith",
-            "affectation",
-            "religion",
-            "cat and mouse",
-            "mormon missionary",
-            "eccentric man",
-            "women of faith",
-            "frightened"
-        ]
-    },
-    {
         "id": 122,
         "title": "The Lord of the Rings: The Return of the King",
         "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.\u200b",
         "release_date": "2003-12-17",
-        "popularity": 161.784,
+        "popularity": 139.769,
         "vote_average": 8.481,
         "vote_count": 24754,
         "genres": [
@@ -4569,7 +4433,6 @@
             "good versus evil",
             "sword making",
             "war",
-            "backstory",
             "creatures",
             "epic quest",
             "winged creatures",
@@ -4651,6 +4514,112 @@
             "admiring",
             "audacious",
             "commanding"
+        ]
+    },
+    {
+        "id": 993710,
+        "title": "Back in Action",
+        "overview": "Fifteen years after vanishing from the CIA to start a family, elite spies Matt and Emily jump back into the world of espionage when their cover is blown.",
+        "release_date": "2025-01-15",
+        "popularity": 478.381,
+        "vote_average": 6.5,
+        "vote_count": 1058,
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "runtime": 114,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "Polish"
+        ],
+        "status": "Released",
+        "budget": 0,
+        "revenue": 0,
+        "production_companies": [
+            "Chernin Entertainment",
+            "Exhibit A",
+            "Good One"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "They're living their best lies.",
+        "homepage": "https://www.netflix.com/title/81307099",
+        "imdb_id": "tt21191806",
+        "poster_path": "https://image.tmdb.org/t/p/w500/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",
+        "main_cast": [
+            "Jamie Foxx",
+            "Cameron Diaz",
+            "McKenna Roberts",
+            "Rylan Jackson",
+            "Kyle Chandler"
+        ],
+        "director": "Seth Gordon",
+        "keywords": [
+            "spy",
+            "affectation",
+            "aggressive",
+            "gun fight",
+            "zealous",
+            "hilarious",
+            "admiring",
+            "adoring",
+            "ambiguous",
+            "enchant",
+            "vibrant",
+            "spy action"
+        ]
+    },
+    {
+        "id": 1280672,
+        "title": "One of Them Days",
+        "overview": "Best friends and roommates Dreux and Alyssa are about to have One of Them Days. When they discover Alyssa\u2019s boyfriend has blown their rent money, the duo finds themselves going to extremes in a comical race against the clock to avoid eviction and keep their friendship intact.",
+        "release_date": "2025-01-16",
+        "popularity": 192.629,
+        "vote_average": 6.885,
+        "vote_count": 61,
+        "genres": [
+            "Comedy"
+        ],
+        "runtime": 97,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 14000000,
+        "revenue": 44081884,
+        "production_companies": [
+            "TriStar Pictures",
+            "HOORAE",
+            "MACRO",
+            "ColorCreative"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "",
+        "homepage": "https://oneofthemdays.movie",
+        "imdb_id": "tt32221196",
+        "poster_path": "https://image.tmdb.org/t/p/w500/hMJRFQarUL73K6FIbhvO4A8uEvm.jpg",
+        "main_cast": [
+            "Keke Palmer",
+            "SZA",
+            "Joshua David Neal",
+            "Aziza Scott",
+            "Patrick Cage"
+        ],
+        "director": "Lawrence Lamont",
+        "keywords": [
+            "roommates",
+            "female friendship",
+            "rent",
+            "best friends",
+            "hilarious",
+            "farcical",
+            "vibrant"
         ]
     },
     {
@@ -8049,7 +8018,7 @@
         "title": "The Silence of Marcos Tremmer",
         "overview": "Marcos Tremmer is a successful publicist who lives in Madrid, madly in love with his wife, Luc\u00eda. One day, Marcos discovers that a deadly disease will end his life in a few months.",
         "release_date": "2024-11-29",
-        "popularity": 8.299,
+        "popularity": 11.619,
         "vote_average": 8.7,
         "vote_count": 3,
         "genres": [
@@ -8148,7 +8117,7 @@
         "title": "The Silence of Marcos Tremmer",
         "overview": "Marcos Tremmer is a successful publicist who lives in Madrid, madly in love with his wife, Luc\u00eda. One day, Marcos discovers that a deadly disease will end his life in a few months.",
         "release_date": "2024-11-29",
-        "popularity": 8.299,
+        "popularity": 11.619,
         "vote_average": 8.7,
         "vote_count": 3,
         "genres": [
@@ -10786,9 +10755,9 @@
         "title": "The Witcher: Sirens of the Deep",
         "overview": "Geralt of Rivia, a mutated monster hunter, is hired to investigate a series of attacks in a seaside village and finds himself drawn into a centuries-old conflict between humans and merpeople. He must count on friends \u2014 old and new \u2014 to solve the mystery before the hostilities between the two kingdoms escalate into an all-out war.",
         "release_date": "2025-02-10",
-        "popularity": 246.951,
-        "vote_average": 6.98,
-        "vote_count": 128,
+        "popularity": 210.916,
+        "vote_average": 7.0,
+        "vote_count": 129,
         "genres": [
             "Animation",
             "Fantasy",
