@@ -74,18 +74,20 @@ jobs:
     - name: Delete Old Versions of Updated Files
       run: |
         cd CineMood3
-        while read file; do
-          if [ -f "../$file" ]; then rm -f "$file"; fi
-        done < <(cd .. && find . -type f ! -path "./.git/*" -printf "%P\n")
+        for file in "app.py" "config.py" "fetch_movies.py" "generate_embeddings.py" "store_in_chromadb.py" "requirements.txt"; do
+          if [ -f "$file" ]; then rm -f "$file"; fi
+        done
+        rm -rf chroma_db/*  # Remove old chroma_db contents but keep folder
 
     - name: Copy Updated Files to Hugging Face Repo
       run: |
-        rsync -av --exclude='.git' ./* CineMood3/
+        rsync -av --exclude='.git' ./chroma_db/ CineMood3/chroma_db/
+        rsync -av --exclude='.git' app.py config.py fetch_movies.py generate_embeddings.py store_in_chromadb.py requirements.txt CineMood3/
 
     - name: Configure Git LFS for Large Files
       run: |
         cd CineMood3
-        git lfs track "chroma.sqlite3"
+        git lfs track "chroma_db/chroma.sqlite3"
         git add .gitattributes
 
     - name: Commit and Push Updated Files to Hugging Face
@@ -93,9 +95,10 @@ jobs:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
       run: |
         cd CineMood3
-        git add .
-        git commit -m "Auto-update modified files from GitHub" || echo "No changes to commit"
+        git add chroma_db/ app.py config.py fetch_movies.py generate_embeddings.py store_in_chromadb.py requirements.txt
+        git commit -m "Auto-update selected files from GitHub" || echo "No changes to commit"
         git push https://user:$HF_TOKEN@huggingface.co/spaces/thanhtungvudata/CineMood3.git HEAD:main
+
 
 
 
