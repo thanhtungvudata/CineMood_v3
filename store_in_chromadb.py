@@ -43,11 +43,22 @@ valid_moods = [
     "thoughtful", "introspective", "brooding", "deep in thought"
 ]
 
+# **Initialize ChromaDB for moods and delete old data before inserting new ones**
+print("🔄 Resetting mood database before updating...")
+mood_store = Chroma(
+    persist_directory=chroma_path,
+    embedding_function=embedding_model,
+    collection_name="valid_moods"
+)
+mood_store.delete_collection()  # ✅ **Deletes old mood embeddings**
+print("✅ Previous mood data cleared.")
+
 # **Compute embeddings for valid moods**
 print("🔄 Generating embeddings for valid moods...")
 mood_texts = valid_moods
 mood_embeddings = embedding_model.embed_documents(mood_texts)
 
+# **Store new mood embeddings**
 mood_store = Chroma(
     persist_directory=chroma_path,
     embedding_function=embedding_model,
@@ -69,6 +80,16 @@ def safe_join(value):
     if isinstance(value, list):
         return ", ".join(map(str, value))
     return str(value)
+
+# **Initialize ChromaDB for movies and delete old data before inserting new ones**
+print("🔄 Resetting movie database before updating...")
+movie_store = Chroma(
+    persist_directory=chroma_path,
+    embedding_function=embedding_model,
+    collection_name="movies"
+)
+movie_store.delete_collection()  # ✅ **Deletes old movie embeddings**
+print("✅ Previous movie data cleared.")
 
 # **Convert movie metadata into LangChain Document format**
 print("🔄 Storing movies in ChromaDB...")
@@ -94,8 +115,9 @@ for index, movie in enumerate(movie_embeddings, start=1):
     documents.append(Document(page_content=page_content, metadata=doc_metadata))
     if index % 10 == 0 or index == total_movies:
         print(f"✅ Processed {index}/{total_movies} movies...")
-    time.sleep(0.05)
+    # time.sleep(0.05)
 
+# **Store new movie embeddings in ChromaDB**
 movie_store = Chroma.from_documents(
     documents,
     embedding_model,
