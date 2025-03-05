@@ -21,10 +21,10 @@ jobs:
     - name: Install Dependencies
       run: pip install -r requirements.txt
 
-    - name: Ensure ChromaDB Directory Exists
+    - name: Remove Old ChromaDB Before Storing New Data
       run: |
-        mkdir -p chroma_db  # Ensure chroma_db exists
-        ls -la  # Debugging: Verify the folder contents
+        rm -rf chroma_db/  # Remove old ChromaDB files
+        mkdir -p chroma_db  # Ensure the directory is recreated
 
     - name: Fetch Trending Movies
       env:
@@ -76,13 +76,11 @@ jobs:
         cd Cinemoodv3
         git lfs pull
 
-    - name: Remove Old Versions of Updated Files in Hugging Face
+    - name: Remove Old ChromaDB and Movie Files in Hugging Face Space
       run: |
         cd Cinemoodv3
-        for file in "trending_movies.json" "movie_embeddings.json"; do
-          if [ -f "$file" ]; then rm -f "$file"; fi
-        done
-        rm -rf chroma_db/*  # Remove old ChromaDB contents but keep the folder
+        rm -rf chroma_db/  # ✅ Remove old ChromaDB to prevent duplicates
+        rm -f trending_movies.json movie_embeddings.json  # Remove old movie files
 
     - name: Copy Updated Data to Hugging Face Repo
       run: |
