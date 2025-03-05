@@ -135,7 +135,7 @@ def run_app():
                 if not detect_moods:
                     st.warning("⚠️ Oh, I’m not quite sure I caught that mood! Could you share how you're feeling in another way? I'd love to find the perfect movie for you!")
                 else:
-                    st.success(f"🤖 Detected Moods: {', '.join(detect_moods)}")
+                    # st.success(f"🤖 Detected Moods: {', '.join(detect_moods)}")
 
                     # Use only the first mood for movie recommendations
                     top_movies = get_movie_recommendations(detect_moods[0])
