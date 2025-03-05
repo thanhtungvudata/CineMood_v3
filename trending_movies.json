@@ -524,6 +524,73 @@
         ]
     },
     {
+        "id": 933260,
+        "title": "The Substance",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "release_date": "2024-09-07",
+        "popularity": 722.223,
+        "vote_average": 7.1,
+        "vote_count": 4052,
+        "genres": [
+            "Horror",
+            "Science Fiction"
+        ],
+        "runtime": 141,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 17500000,
+        "revenue": 76506196,
+        "production_companies": [
+            "Working Title Films",
+            "Blacksmith",
+            "Working Title Films"
+        ],
+        "production_countries": [
+            "France",
+            "United Kingdom",
+            "United States of America"
+        ],
+        "tagline": "Become a better you.",
+        "homepage": "https://mubi.com/en/thesubstance",
+        "imdb_id": "tt17526714",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg",
+        "main_cast": [
+            "Demi Moore",
+            "Margaret Qualley",
+            "Dennis Quaid",
+            "Edward Hamilton-Clark",
+            "Gore Abrams"
+        ],
+        "director": "Coralie Fargeat",
+        "keywords": [
+            "new year's eve",
+            "capitalism",
+            "black market",
+            "identity",
+            "beauty",
+            "satire",
+            "aging",
+            "celebrity",
+            "female protagonist",
+            "los angeles, california",
+            "has been",
+            "aerobics",
+            "disfigurement",
+            "woman director",
+            "disturbed",
+            "beauty standards",
+            "insecure woman",
+            "toxic masculinity",
+            "drug",
+            "body horror",
+            "youth",
+            "actress"
+        ]
+    },
+    {
         "id": 1084199,
         "title": "Companion",
         "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
@@ -674,73 +741,6 @@
             "missing father",
             "political dissident",
             "biographical drama"
-        ]
-    },
-    {
-        "id": 933260,
-        "title": "The Substance",
-        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-        "release_date": "2024-09-07",
-        "popularity": 722.223,
-        "vote_average": 7.1,
-        "vote_count": 4052,
-        "genres": [
-            "Horror",
-            "Science Fiction"
-        ],
-        "runtime": 141,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 17500000,
-        "revenue": 76506196,
-        "production_companies": [
-            "Working Title Films",
-            "Blacksmith",
-            "Working Title Films"
-        ],
-        "production_countries": [
-            "France",
-            "United Kingdom",
-            "United States of America"
-        ],
-        "tagline": "Become a better you.",
-        "homepage": "https://mubi.com/en/thesubstance",
-        "imdb_id": "tt17526714",
-        "poster_path": "https://image.tmdb.org/t/p/w500/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg",
-        "main_cast": [
-            "Demi Moore",
-            "Margaret Qualley",
-            "Dennis Quaid",
-            "Edward Hamilton-Clark",
-            "Gore Abrams"
-        ],
-        "director": "Coralie Fargeat",
-        "keywords": [
-            "new year's eve",
-            "capitalism",
-            "black market",
-            "identity",
-            "beauty",
-            "satire",
-            "aging",
-            "celebrity",
-            "female protagonist",
-            "los angeles, california",
-            "has been",
-            "aerobics",
-            "disfigurement",
-            "woman director",
-            "disturbed",
-            "beauty standards",
-            "insecure woman",
-            "toxic masculinity",
-            "drug",
-            "body horror",
-            "youth",
-            "actress"
         ]
     },
     {
@@ -1175,6 +1175,59 @@
         ]
     },
     {
+        "id": 558449,
+        "title": "Gladiator II",
+        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "release_date": "2024-11-13",
+        "popularity": 729.732,
+        "vote_average": 6.766,
+        "vote_count": 2939,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "runtime": 148,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 310000000,
+        "revenue": 458718000,
+        "production_companies": [
+            "Paramount Pictures",
+            "Scott Free Productions",
+            "Lucy Fisher/Douglas Wick Productions"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "Prepare to be entertained.",
+        "homepage": "https://www.gladiator.movie",
+        "imdb_id": "tt9218128",
+        "poster_path": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "main_cast": [
+            "Paul Mescal",
+            "Denzel Washington",
+            "Pedro Pascal",
+            "Connie Nielsen",
+            "Joseph Quinn"
+        ],
+        "director": "Ridley Scott",
+        "keywords": [
+            "epic",
+            "gladiator",
+            "roman empire",
+            "ancient rome",
+            "sequel",
+            "evil tyrant",
+            "sword and sandal",
+            "sword fighting",
+            "second part"
+        ]
+    },
+    {
         "id": 426063,
         "title": "Nosferatu",
         "overview": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
@@ -1239,59 +1292,6 @@
             "period piece",
             "1830s",
             "nightmares"
-        ]
-    },
-    {
-        "id": 558449,
-        "title": "Gladiator II",
-        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
-        "release_date": "2024-11-13",
-        "popularity": 729.732,
-        "vote_average": 6.766,
-        "vote_count": 2939,
-        "genres": [
-            "Action",
-            "Adventure",
-            "Drama"
-        ],
-        "runtime": 148,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 310000000,
-        "revenue": 458718000,
-        "production_companies": [
-            "Paramount Pictures",
-            "Scott Free Productions",
-            "Lucy Fisher/Douglas Wick Productions"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "Prepare to be entertained.",
-        "homepage": "https://www.gladiator.movie",
-        "imdb_id": "tt9218128",
-        "poster_path": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
-        "main_cast": [
-            "Paul Mescal",
-            "Denzel Washington",
-            "Pedro Pascal",
-            "Connie Nielsen",
-            "Joseph Quinn"
-        ],
-        "director": "Ridley Scott",
-        "keywords": [
-            "epic",
-            "gladiator",
-            "roman empire",
-            "ancient rome",
-            "sequel",
-            "evil tyrant",
-            "sword and sandal",
-            "sword fighting",
-            "second part"
         ]
     },
     {
@@ -1718,59 +1718,6 @@
         ]
     },
     {
-        "id": 1241982,
-        "title": "Moana 2",
-        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
-        "release_date": "2024-11-21",
-        "popularity": 1861.245,
-        "vote_average": 7.1,
-        "vote_count": 1764,
-        "genres": [
-            "Animation",
-            "Adventure",
-            "Family",
-            "Comedy"
-        ],
-        "runtime": 99,
-        "original_language": "en",
-        "spoken_languages": [
-            "English",
-            "Italian"
-        ],
-        "status": "Released",
-        "budget": 150000000,
-        "revenue": 1044396565,
-        "production_companies": [
-            "Walt Disney Pictures",
-            "Walt Disney Animation Studios",
-            "Walt Disney Animation Studios"
-        ],
-        "production_countries": [
-            "Canada",
-            "United States of America"
-        ],
-        "tagline": "The ocean is calling them back.",
-        "homepage": "https://movies.disney.com/moana-2",
-        "imdb_id": "tt13622970",
-        "poster_path": "https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
-        "main_cast": [
-            "Auli\u02bbi Cravalho",
-            "Dwayne Johnson",
-            "Hual\u0101lai Chung",
-            "Rose Matafeo",
-            "David Fane"
-        ],
-        "director": "David G. Derrick Jr.",
-        "keywords": [
-            "sea",
-            "ocean",
-            "villain",
-            "musical",
-            "sequel",
-            "duringcreditsstinger"
-        ]
-    },
-    {
         "id": 1013850,
         "title": "A Real Pain",
         "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
@@ -1837,6 +1784,59 @@
             "witty",
             "appreciative",
             "compassionate"
+        ]
+    },
+    {
+        "id": 1241982,
+        "title": "Moana 2",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "release_date": "2024-11-21",
+        "popularity": 1861.245,
+        "vote_average": 7.1,
+        "vote_count": 1764,
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family",
+            "Comedy"
+        ],
+        "runtime": 99,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "Italian"
+        ],
+        "status": "Released",
+        "budget": 150000000,
+        "revenue": 1044396565,
+        "production_companies": [
+            "Walt Disney Pictures",
+            "Walt Disney Animation Studios",
+            "Walt Disney Animation Studios"
+        ],
+        "production_countries": [
+            "Canada",
+            "United States of America"
+        ],
+        "tagline": "The ocean is calling them back.",
+        "homepage": "https://movies.disney.com/moana-2",
+        "imdb_id": "tt13622970",
+        "poster_path": "https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+        "main_cast": [
+            "Auli\u02bbi Cravalho",
+            "Dwayne Johnson",
+            "Hual\u0101lai Chung",
+            "Rose Matafeo",
+            "David Fane"
+        ],
+        "director": "David G. Derrick Jr.",
+        "keywords": [
+            "sea",
+            "ocean",
+            "villain",
+            "musical",
+            "sequel",
+            "duringcreditsstinger"
         ]
     },
     {
@@ -2101,71 +2101,6 @@
         ]
     },
     {
-        "id": 1187417,
-        "title": "Rumours",
-        "overview": "En route to the annual G7 summit, the seven leaders of the world\u2019s wealthiest liberal democracies get lost in the woods and face increasing peril while attempting to draft a provisional statement regarding a global crisis.",
-        "release_date": "2024-10-18",
-        "popularity": 34.756,
-        "vote_average": 4.9,
-        "vote_count": 53,
-        "genres": [
-            "Comedy",
-            "Horror"
-        ],
-        "runtime": 104,
-        "original_language": "en",
-        "spoken_languages": [
-            "French",
-            "English",
-            "Swedish"
-        ],
-        "status": "Released",
-        "budget": 0,
-        "revenue": 450517,
-        "production_companies": [
-            "Buffalo Gal Pictures",
-            "Square Peg",
-            "Maze Pictures",
-            "ZDF/Arte",
-            "Orogen Entertainment",
-            "Thin Stuff Productions",
-            "Walking Down Broadway",
-            "Laokoon Filmgroup",
-            "Ludascripts",
-            "Aloe Entertainment"
-        ],
-        "production_countries": [
-            "Canada",
-            "Germany",
-            "Hungary",
-            "United States of America"
-        ],
-        "tagline": "The Official Motion Picture of the G7.",
-        "homepage": "",
-        "imdb_id": "tt30841606",
-        "poster_path": "https://image.tmdb.org/t/p/w500/lAjLzQDyUXxCH4tOBxkRYDbBpY.jpg",
-        "main_cast": [
-            "Cate Blanchett",
-            "Roy Dupuis",
-            "Nikki Amuka-Bird",
-            "Charles Dance",
-            "Takehiro Hira"
-        ],
-        "director": "Guy Maddin",
-        "keywords": [
-            "politician",
-            "satire",
-            "surrealism",
-            "woods",
-            "apocalypse",
-            "zombie",
-            "zombie apocalypse",
-            "horror comedy",
-            "g7",
-            "global crisis"
-        ]
-    },
-    {
         "id": 438631,
         "title": "Dune",
         "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
@@ -2246,51 +2181,6 @@
         ]
     },
     {
-        "id": 774370,
-        "title": "Dog Man",
-        "overview": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve\u2014and fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.",
-        "release_date": "2025-01-24",
-        "popularity": 626.647,
-        "vote_average": 7.728,
-        "vote_count": 136,
-        "genres": [
-            "Family",
-            "Animation",
-            "Comedy",
-            "Action"
-        ],
-        "runtime": 89,
-        "original_language": "en",
-        "spoken_languages": [],
-        "status": "Released",
-        "budget": 40000000,
-        "revenue": 88192145,
-        "production_companies": [
-            "DreamWorks Animation"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "Part dog. Part man. All hero.",
-        "homepage": "https://www.dreamworksdogman.com",
-        "imdb_id": "tt10954718",
-        "poster_path": "https://image.tmdb.org/t/p/w500/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg",
-        "main_cast": [
-            "Peter Hastings",
-            "Pete Davidson",
-            "Lil Rel Howery",
-            "Isla Fisher",
-            "Lucas Hopkins Calderon"
-        ],
-        "director": "Peter Hastings",
-        "keywords": [
-            "villain",
-            "based on children's book",
-            "police dog",
-            "human animal hybrid"
-        ]
-    },
-    {
         "id": 1224993,
         "title": "Dark Nuns",
         "overview": "Desperation drives two nuns to perform an exorcism no nun should attempt. With a possessed child at the mercy of evil and the opposition of the Catholic Church, they take on the dangerous forbidden rituals themselves, putting their immortal souls in grave danger. They must confront the terrifying cost of their sacrilegious actions, but one goal remains: the boy must be saved at all costs.",
@@ -2345,6 +2235,92 @@
             "spirit possession",
             "apathetic"
         ]
+    },
+    {
+        "id": 774370,
+        "title": "Dog Man",
+        "overview": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve\u2014and fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.",
+        "release_date": "2025-01-24",
+        "popularity": 626.647,
+        "vote_average": 7.728,
+        "vote_count": 136,
+        "genres": [
+            "Family",
+            "Animation",
+            "Comedy",
+            "Action"
+        ],
+        "runtime": 89,
+        "original_language": "en",
+        "spoken_languages": [],
+        "status": "Released",
+        "budget": 40000000,
+        "revenue": 88192145,
+        "production_companies": [
+            "DreamWorks Animation"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "Part dog. Part man. All hero.",
+        "homepage": "https://www.dreamworksdogman.com",
+        "imdb_id": "tt10954718",
+        "poster_path": "https://image.tmdb.org/t/p/w500/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg",
+        "main_cast": [
+            "Peter Hastings",
+            "Pete Davidson",
+            "Lil Rel Howery",
+            "Isla Fisher",
+            "Lucas Hopkins Calderon"
+        ],
+        "director": "Peter Hastings",
+        "keywords": [
+            "villain",
+            "based on children's book",
+            "police dog",
+            "human animal hybrid"
+        ]
+    },
+    {
+        "id": 1426142,
+        "title": "Sosyal Climbers",
+        "overview": "Stuck with a massive debt after falling for a scam, two wannabe socialites create elaborate fake identities to swindle the rich out of their money.",
+        "release_date": "2025-02-26",
+        "popularity": 114.316,
+        "vote_average": 5.0,
+        "vote_count": 5,
+        "genres": [
+            "Romance",
+            "Comedy"
+        ],
+        "runtime": 102,
+        "original_language": "tl",
+        "spoken_languages": [
+            "English",
+            "Tagalog"
+        ],
+        "status": "Released",
+        "budget": 0,
+        "revenue": 0,
+        "production_companies": [
+            "ABS-CBN Studios"
+        ],
+        "production_countries": [
+            "Philippines"
+        ],
+        "tagline": "True love. Fake lives.",
+        "homepage": "https://www.netflix.com/title/81765818",
+        "imdb_id": "tt35624097",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cr6y0nWdfPb3yZT9Iz63zTE1dQE.jpg",
+        "main_cast": [
+            "Maris Racal",
+            "Anthony Jennings",
+            "Ricky Davao",
+            "Carmi Martin",
+            "Bart Guingona"
+        ],
+        "director": "Jason Paul Laxamana",
+        "keywords": []
     },
     {
         "id": 120,
@@ -2469,6 +2445,67 @@
         ]
     },
     {
+        "id": 516729,
+        "title": "Paddington in Peru",
+        "overview": "Paddington travels to Peru to visit his beloved Aunt Lucy, who now resides at the Home for Retired Bears. With the Brown Family in tow, a thrilling adventure ensues when a mystery plunges them into an unexpected journey through the Amazon rainforest and up to the mountain peaks of Peru.",
+        "release_date": "2024-11-08",
+        "popularity": 359.264,
+        "vote_average": 6.811,
+        "vote_count": 188,
+        "genres": [
+            "Family",
+            "Adventure",
+            "Comedy"
+        ],
+        "runtime": 106,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "Spanish"
+        ],
+        "status": "Released",
+        "budget": 90000000,
+        "revenue": 164359000,
+        "production_companies": [
+            "Marmalade Pictures",
+            "Kinoshita Group",
+            "StudioCanal",
+            "Stage 6 Films"
+        ],
+        "production_countries": [
+            "United Kingdom",
+            "France",
+            "United States of America",
+            "Japan"
+        ],
+        "tagline": "A little bear goes a long way.",
+        "homepage": "https://www.paddingtoninperu.co.uk",
+        "imdb_id": "tt5822536",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
+        "main_cast": [
+            "Ben Whishaw",
+            "Hugh Bonneville",
+            "Emily Mortimer",
+            "Samuel Joslin",
+            "Madeleine Harris"
+        ],
+        "director": "Dougal Wilson",
+        "keywords": [
+            "sequel",
+            "bear",
+            "based on children's book",
+            "aunt nephew relationship",
+            "united kingdom",
+            "aftercreditsstinger",
+            "duringcreditsstinger",
+            "live action and animation",
+            "children's adventure",
+            "per\u00fa",
+            "anthropomorphic animal",
+            "family comedy"
+        ]
+    },
+    {
         "id": 1426142,
         "title": "Sosyal Climbers",
         "overview": "Stuck with a massive debt after falling for a scam, two wannabe socialites create elaborate fake identities to swindle the rich out of their money.",
@@ -2508,6 +2545,62 @@
         ],
         "director": "Jason Paul Laxamana",
         "keywords": []
+    },
+    {
+        "id": 912649,
+        "title": "Venom: The Last Dance",
+        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "release_date": "2024-10-22",
+        "popularity": 761.459,
+        "vote_average": 6.8,
+        "vote_count": 2957,
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ],
+        "runtime": 109,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 120000000,
+        "revenue": 478103649,
+        "production_companies": [
+            "Columbia Pictures",
+            "Pascal Pictures",
+            "Matt Tolmach Productions",
+            "Hutch Parker Entertainment",
+            "Arad Productions"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "'Til death do they part.",
+        "homepage": "https://venom.movie",
+        "imdb_id": "tt16366836",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+        "main_cast": [
+            "Tom Hardy",
+            "Chiwetel Ejiofor",
+            "Juno Temple",
+            "Rhys Ifans",
+            "Stephen Graham"
+        ],
+        "director": "Kelly Marcel",
+        "keywords": [
+            "hero",
+            "superhero",
+            "anti hero",
+            "villain",
+            "alien life-form",
+            "based on comic",
+            "sequel",
+            "aftercreditsstinger",
+            "woman director",
+            "modest"
+        ]
     },
     {
         "id": 671,
@@ -2571,67 +2664,6 @@
         ]
     },
     {
-        "id": 516729,
-        "title": "Paddington in Peru",
-        "overview": "Paddington travels to Peru to visit his beloved Aunt Lucy, who now resides at the Home for Retired Bears. With the Brown Family in tow, a thrilling adventure ensues when a mystery plunges them into an unexpected journey through the Amazon rainforest and up to the mountain peaks of Peru.",
-        "release_date": "2024-11-08",
-        "popularity": 359.264,
-        "vote_average": 6.811,
-        "vote_count": 188,
-        "genres": [
-            "Family",
-            "Adventure",
-            "Comedy"
-        ],
-        "runtime": 106,
-        "original_language": "en",
-        "spoken_languages": [
-            "English",
-            "Spanish"
-        ],
-        "status": "Released",
-        "budget": 90000000,
-        "revenue": 164359000,
-        "production_companies": [
-            "Marmalade Pictures",
-            "Kinoshita Group",
-            "StudioCanal",
-            "Stage 6 Films"
-        ],
-        "production_countries": [
-            "United Kingdom",
-            "France",
-            "United States of America",
-            "Japan"
-        ],
-        "tagline": "A little bear goes a long way.",
-        "homepage": "https://www.paddingtoninperu.co.uk",
-        "imdb_id": "tt5822536",
-        "poster_path": "https://image.tmdb.org/t/p/w500/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
-        "main_cast": [
-            "Ben Whishaw",
-            "Hugh Bonneville",
-            "Emily Mortimer",
-            "Samuel Joslin",
-            "Madeleine Harris"
-        ],
-        "director": "Dougal Wilson",
-        "keywords": [
-            "sequel",
-            "bear",
-            "based on children's book",
-            "aunt nephew relationship",
-            "united kingdom",
-            "aftercreditsstinger",
-            "duringcreditsstinger",
-            "live action and animation",
-            "children's adventure",
-            "per\u00fa",
-            "anthropomorphic animal",
-            "family comedy"
-        ]
-    },
-    {
         "id": 1272149,
         "title": "Bridget Jones: Mad About the Boy",
         "overview": "Bridget Jones navigates life as a widow and single mum with the help of her family, friends, and former lover, Daniel. Back to work and on the apps, she's pursued by a younger man and maybe \u2013 just maybe \u2013 her son's science teacher.",
@@ -2679,62 +2711,6 @@
             "female friendship",
             "romcom",
             "sequel"
-        ]
-    },
-    {
-        "id": 912649,
-        "title": "Venom: The Last Dance",
-        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
-        "release_date": "2024-10-22",
-        "popularity": 761.459,
-        "vote_average": 6.8,
-        "vote_count": 2957,
-        "genres": [
-            "Action",
-            "Science Fiction",
-            "Adventure"
-        ],
-        "runtime": 109,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 120000000,
-        "revenue": 478103649,
-        "production_companies": [
-            "Columbia Pictures",
-            "Pascal Pictures",
-            "Matt Tolmach Productions",
-            "Hutch Parker Entertainment",
-            "Arad Productions"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "'Til death do they part.",
-        "homepage": "https://venom.movie",
-        "imdb_id": "tt16366836",
-        "poster_path": "https://image.tmdb.org/t/p/w500/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
-        "main_cast": [
-            "Tom Hardy",
-            "Chiwetel Ejiofor",
-            "Juno Temple",
-            "Rhys Ifans",
-            "Stephen Graham"
-        ],
-        "director": "Kelly Marcel",
-        "keywords": [
-            "hero",
-            "superhero",
-            "anti hero",
-            "villain",
-            "alien life-form",
-            "based on comic",
-            "sequel",
-            "aftercreditsstinger",
-            "woman director",
-            "modest"
         ]
     },
     {
@@ -3159,58 +3135,6 @@
         ]
     },
     {
-        "id": 1138194,
-        "title": "Heretic",
-        "overview": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.",
-        "release_date": "2024-10-31",
-        "popularity": 224.569,
-        "vote_average": 7.157,
-        "vote_count": 1220,
-        "genres": [
-            "Horror",
-            "Thriller"
-        ],
-        "runtime": 111,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 10000000,
-        "revenue": 51913394,
-        "production_companies": [
-            "A24",
-            "Beck/Woods",
-            "Shiny Penny Productions",
-            "CatchLight Studios"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "Question everything.",
-        "homepage": "https://a24films.com/films/heretic",
-        "imdb_id": "tt28015403",
-        "poster_path": "https://image.tmdb.org/t/p/w500/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
-        "main_cast": [
-            "Hugh Grant",
-            "Sophie Thatcher",
-            "Chloe East",
-            "Topher Grace",
-            "Elle Young"
-        ],
-        "director": "Scott Beck",
-        "keywords": [
-            "faith",
-            "affectation",
-            "religion",
-            "cat and mouse",
-            "mormon missionary",
-            "eccentric man",
-            "women of faith",
-            "frightened"
-        ]
-    },
-    {
         "id": 533535,
         "title": "Deadpool & Wolverine",
         "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
@@ -3265,6 +3189,58 @@
             "marvel cinematic universe (mcu)",
             "mutants",
             "superhero teamup"
+        ]
+    },
+    {
+        "id": 1138194,
+        "title": "Heretic",
+        "overview": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.",
+        "release_date": "2024-10-31",
+        "popularity": 224.569,
+        "vote_average": 7.157,
+        "vote_count": 1220,
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "runtime": 111,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 10000000,
+        "revenue": 51913394,
+        "production_companies": [
+            "A24",
+            "Beck/Woods",
+            "Shiny Penny Productions",
+            "CatchLight Studios"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "Question everything.",
+        "homepage": "https://a24films.com/films/heretic",
+        "imdb_id": "tt28015403",
+        "poster_path": "https://image.tmdb.org/t/p/w500/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
+        "main_cast": [
+            "Hugh Grant",
+            "Sophie Thatcher",
+            "Chloe East",
+            "Topher Grace",
+            "Elle Young"
+        ],
+        "director": "Scott Beck",
+        "keywords": [
+            "faith",
+            "affectation",
+            "religion",
+            "cat and mouse",
+            "mormon missionary",
+            "eccentric man",
+            "women of faith",
+            "frightened"
         ]
     },
     {
@@ -3385,6 +3361,66 @@
         ]
     },
     {
+        "id": 348,
+        "title": "Alien",
+        "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+        "release_date": "1979-05-25",
+        "popularity": 76.118,
+        "vote_average": 8.161,
+        "vote_count": 15080,
+        "genres": [
+            "Horror",
+            "Science Fiction"
+        ],
+        "runtime": 117,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "Spanish"
+        ],
+        "status": "Released",
+        "budget": 11000000,
+        "revenue": 104931801,
+        "production_companies": [
+            "20th Century Fox",
+            "Brandywine Productions"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "In space, no one can hear you scream.",
+        "homepage": "https://www.20thcenturystudios.com/movies/alien",
+        "imdb_id": "tt0078748",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+        "main_cast": [
+            "Tom Skerritt",
+            "Sigourney Weaver",
+            "Veronica Cartwright",
+            "Harry Dean Stanton",
+            "John Hurt"
+        ],
+        "director": "Ridley Scott",
+        "keywords": [
+            "android",
+            "spacecraft",
+            "space marine",
+            "biology",
+            "dystopia",
+            "countdown",
+            "space suit",
+            "beheading",
+            "space travel",
+            "cowardice",
+            "alien",
+            "space",
+            "female protagonist",
+            "parasite",
+            "space opera",
+            "cosmos",
+            "xenomorph"
+        ]
+    },
+    {
         "id": 98,
         "title": "Gladiator",
         "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
@@ -3454,126 +3490,6 @@
             "maximus",
             "serene",
             "defiant"
-        ]
-    },
-    {
-        "id": 1022789,
-        "title": "Inside Out 2",
-        "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who\u2019ve long been running a successful operation by all accounts, aren\u2019t sure how to feel when Anxiety shows up. And it looks like she\u2019s not alone.",
-        "release_date": "2024-06-11",
-        "popularity": 342.751,
-        "vote_average": 7.559,
-        "vote_count": 5605,
-        "genres": [
-            "Animation",
-            "Adventure",
-            "Comedy",
-            "Family"
-        ],
-        "runtime": 97,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 200000000,
-        "revenue": 1698863816,
-        "production_companies": [
-            "Walt Disney Pictures",
-            "Pixar"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "Make room for new emotions.",
-        "homepage": "https://movies.disney.com/inside-out-2",
-        "imdb_id": "tt22022452",
-        "poster_path": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
-        "main_cast": [
-            "Amy Poehler",
-            "Maya Hawke",
-            "Kensington Tallman",
-            "Liza Lapira",
-            "Tony Hale"
-        ],
-        "director": "Kelsey Mann",
-        "keywords": [
-            "sadness",
-            "disgust",
-            "sequel",
-            "computer animation",
-            "teenage girl",
-            "fear",
-            "anger",
-            "envy",
-            "aftercreditsstinger",
-            "duringcreditsstinger",
-            "emotions",
-            "embarrasment",
-            "anxious",
-            "joy",
-            "anxiety",
-            "hopeful"
-        ]
-    },
-    {
-        "id": 1022789,
-        "title": "Inside Out 2",
-        "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who\u2019ve long been running a successful operation by all accounts, aren\u2019t sure how to feel when Anxiety shows up. And it looks like she\u2019s not alone.",
-        "release_date": "2024-06-11",
-        "popularity": 342.751,
-        "vote_average": 7.559,
-        "vote_count": 5605,
-        "genres": [
-            "Animation",
-            "Adventure",
-            "Comedy",
-            "Family"
-        ],
-        "runtime": 97,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 200000000,
-        "revenue": 1698863816,
-        "production_companies": [
-            "Walt Disney Pictures",
-            "Pixar"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "Make room for new emotions.",
-        "homepage": "https://movies.disney.com/inside-out-2",
-        "imdb_id": "tt22022452",
-        "poster_path": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
-        "main_cast": [
-            "Amy Poehler",
-            "Maya Hawke",
-            "Kensington Tallman",
-            "Liza Lapira",
-            "Tony Hale"
-        ],
-        "director": "Kelsey Mann",
-        "keywords": [
-            "sadness",
-            "disgust",
-            "sequel",
-            "computer animation",
-            "teenage girl",
-            "fear",
-            "anger",
-            "envy",
-            "aftercreditsstinger",
-            "duringcreditsstinger",
-            "emotions",
-            "embarrasment",
-            "anxious",
-            "joy",
-            "anxiety",
-            "hopeful"
         ]
     },
     {
@@ -4512,9 +4428,9 @@
         "title": "One of Them Days",
         "overview": "Best friends and roommates Dreux and Alyssa are about to have One of Them Days. When they discover Alyssa\u2019s boyfriend has blown their rent money, the duo finds themselves going to extremes in a comical race against the clock to avoid eviction and keep their friendship intact.",
         "release_date": "2025-01-16",
-        "popularity": 192.629,
-        "vote_average": 6.885,
-        "vote_count": 61,
+        "popularity": 185.392,
+        "vote_average": 6.871,
+        "vote_count": 62,
         "genres": [
             "Comedy"
         ],
@@ -4729,6 +4645,85 @@
             "duringcreditsstinger",
             "marvel cinematic universe (mcu)",
             "political thriller"
+        ]
+    },
+    {
+        "id": 121,
+        "title": "The Lord of the Rings: The Two Towers",
+        "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+        "release_date": "2002-12-18",
+        "popularity": 121.076,
+        "vote_average": 8.4,
+        "vote_count": 22288,
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "runtime": 179,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 79000000,
+        "revenue": 926287400,
+        "production_companies": [
+            "New Line Cinema",
+            "WingNut Films",
+            "The Saul Zaentz Company"
+        ],
+        "production_countries": [
+            "New Zealand",
+            "United States of America"
+        ],
+        "tagline": "The fellowship is broken. The power of darkness grows...",
+        "homepage": "http://www.lordoftherings.net/",
+        "imdb_id": "tt0167261",
+        "poster_path": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+        "main_cast": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen",
+            "Sean Astin",
+            "Andy Serkis"
+        ],
+        "director": "Peter Jackson",
+        "keywords": [
+            "mission",
+            "army",
+            "based on novel or book",
+            "orcs",
+            "elves",
+            "dwarf",
+            "magic",
+            "obsession",
+            "bravery",
+            "castle",
+            "reincarnation",
+            "sequel",
+            "battle",
+            "brutality",
+            "guide",
+            "split personality",
+            "marsh",
+            "fantasy world",
+            "wizard",
+            "journey",
+            "ring",
+            "live action and animation",
+            "hero's journey",
+            "high fantasy",
+            "wraith",
+            "sword and sorcery",
+            "complex",
+            "trekking",
+            "evil spell",
+            "good versus evil",
+            "creatures",
+            "trees",
+            "winged creatures",
+            "hobbits"
         ]
     },
     {
@@ -5374,82 +5369,46 @@
         ]
     },
     {
-        "id": 121,
-        "title": "The Lord of the Rings: The Two Towers",
-        "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
-        "release_date": "2002-12-18",
-        "popularity": 121.076,
-        "vote_average": 8.4,
-        "vote_count": 22288,
+        "id": 1422179,
+        "title": "The Wrong Track",
+        "overview": "When chaotic single mother Emilie hits a new low, she looks to her brother for help. He has a brilliant plan: to enter a cross-country ski marathon.",
+        "release_date": "2025-02-27",
+        "popularity": 114.111,
+        "vote_average": 7.278,
+        "vote_count": 9,
         "genres": [
-            "Adventure",
-            "Fantasy",
-            "Action"
+            "Comedy",
+            "Drama"
         ],
-        "runtime": 179,
-        "original_language": "en",
+        "runtime": 94,
+        "original_language": "no",
         "spoken_languages": [
-            "English"
+            "Norwegian"
         ],
         "status": "Released",
-        "budget": 79000000,
-        "revenue": 926287400,
+        "budget": 0,
+        "revenue": 0,
         "production_companies": [
-            "New Line Cinema",
-            "WingNut Films",
-            "The Saul Zaentz Company"
+            "Rubicon TV AS"
         ],
         "production_countries": [
-            "New Zealand",
-            "United States of America"
+            "Norway"
         ],
-        "tagline": "The fellowship is broken. The power of darkness grows...",
-        "homepage": "http://www.lordoftherings.net/",
-        "imdb_id": "tt0167261",
-        "poster_path": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+        "tagline": "",
+        "homepage": "https://www.netflix.com/title/81744811",
+        "imdb_id": "tt31828532",
+        "poster_path": "https://image.tmdb.org/t/p/w500/7uVdqyf7xiHeGjxhnRTKjGnO0Gm.jpg",
         "main_cast": [
-            "Elijah Wood",
-            "Ian McKellen",
-            "Viggo Mortensen",
-            "Sean Astin",
-            "Andy Serkis"
+            "Ada Eide",
+            "Trond Fausa Aurv\u00e5g",
+            "Marie Blokhus",
+            "Christian Rubeck",
+            "Saga Tuset Meisfjordskar"
         ],
-        "director": "Peter Jackson",
+        "director": "Hallvar Witz\u00f8",
         "keywords": [
-            "mission",
-            "army",
-            "based on novel or book",
-            "orcs",
-            "elves",
-            "dwarf",
-            "magic",
-            "obsession",
-            "bravery",
-            "castle",
-            "reincarnation",
-            "sequel",
-            "battle",
-            "brutality",
-            "guide",
-            "split personality",
-            "marsh",
-            "fantasy world",
-            "wizard",
-            "journey",
-            "ring",
-            "live action and animation",
-            "hero's journey",
-            "high fantasy",
-            "wraith",
-            "sword and sorcery",
-            "complex",
-            "trekking",
-            "evil spell",
-            "good versus evil",
-            "creatures",
-            "trees",
-            "winged creatures",
-            "hobbits"
+            "ski racing",
+            "sport"
         ]
     },
     {
@@ -5457,9 +5416,9 @@
         "title": "Bagman",
         "overview": "For centuries and across cultures, parents have warned their children of the legendary Bagman, who snatches innocent children and stuffs them into his vile, rotting bag\u2014never to be seen again. Patrick McKee narrowly escaped such an encounter as a boy, which left him with lasting scars throughout his adulthood. Now, Patrick\u2019s childhood tormentor has returned, threatening the safety of his wife Karina and son Jake.",
         "release_date": "2024-09-20",
-        "popularity": 179.579,
-        "vote_average": 6.2,
-        "vote_count": 254,
+        "popularity": 151.057,
+        "vote_average": 6.231,
+        "vote_count": 255,
         "genres": [
             "Horror",
             "Thriller"
@@ -5493,6 +5452,65 @@
         ],
         "director": "Colm McCarthy",
         "keywords": []
+    },
+    {
+        "id": 299534,
+        "title": "Avengers: Endgame",
+        "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+        "release_date": "2019-04-24",
+        "popularity": 115.617,
+        "vote_average": 8.2,
+        "vote_count": 26069,
+        "genres": [
+            "Adventure",
+            "Science Fiction",
+            "Action"
+        ],
+        "runtime": 181,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "Japanese",
+            "Xhosa"
+        ],
+        "status": "Released",
+        "budget": 356000000,
+        "revenue": 2799439100,
+        "production_companies": [
+            "Marvel Studios"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "Avenge the fallen.",
+        "homepage": "https://www.marvel.com/movies/avengers-endgame",
+        "imdb_id": "tt4154796",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+        "main_cast": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo",
+            "Chris Hemsworth",
+            "Scarlett Johansson"
+        ],
+        "director": "Anthony Russo",
+        "keywords": [
+            "superhero",
+            "time travel",
+            "space travel",
+            "time machine",
+            "based on comic",
+            "sequel",
+            "alien invasion",
+            "superhero team",
+            "marvel cinematic universe (mcu)",
+            "alternate timeline",
+            "father daughter relationship",
+            "sister sister relationship",
+            "awestruck",
+            "powerful",
+            "vibrant"
+        ]
     },
     {
         "id": 118340,
@@ -5606,6 +5624,61 @@
         ]
     },
     {
+        "id": 1278263,
+        "title": "The Seed of the Sacred Fig",
+        "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
+        "release_date": "2024-09-18",
+        "popularity": 108.193,
+        "vote_average": 7.622,
+        "vote_count": 226,
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Crime"
+        ],
+        "runtime": 167,
+        "original_language": "fr",
+        "spoken_languages": [
+            "Persian"
+        ],
+        "status": "Released",
+        "budget": 0,
+        "revenue": 5343031,
+        "production_companies": [
+            "Parallel 45",
+            "Run Way Pictures",
+            "ARTE France Cin\u00e9ma"
+        ],
+        "production_countries": [
+            "France",
+            "Germany"
+        ],
+        "tagline": "",
+        "homepage": "https://neonrated.com/films/the-seed-of-the-sacred-fig",
+        "imdb_id": "tt32178949",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg",
+        "main_cast": [
+            "Misagh Zare",
+            "Soheila Golestani",
+            "Mahsa Rostami",
+            "Setareh Maleki",
+            "Niousha Akhshi"
+        ],
+        "director": "Mohammad Rasoulof",
+        "keywords": [
+            "police brutality",
+            "husband wife relationship",
+            "court",
+            "judge",
+            "politics",
+            "paranoia",
+            "mistrust",
+            "family dynamics",
+            "mother daughter relationship",
+            "sister sister relationship"
+        ]
+    },
+    {
         "id": 19995,
         "title": "Avatar",
         "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
@@ -5684,49 +5757,6 @@
         ]
     },
     {
-        "id": 1422179,
-        "title": "The Wrong Track",
-        "overview": "When chaotic single mother Emilie hits a new low, she looks to her brother for help. He has a brilliant plan: to enter a cross-country ski marathon.",
-        "release_date": "2025-02-27",
-        "popularity": 114.111,
-        "vote_average": 7.278,
-        "vote_count": 9,
-        "genres": [
-            "Comedy",
-            "Drama"
-        ],
-        "runtime": 94,
-        "original_language": "no",
-        "spoken_languages": [
-            "Norwegian"
-        ],
-        "status": "Released",
-        "budget": 0,
-        "revenue": 0,
-        "production_companies": [
-            "Rubicon TV AS"
-        ],
-        "production_countries": [
-            "Norway"
-        ],
-        "tagline": "",
-        "homepage": "https://www.netflix.com/title/81744811",
-        "imdb_id": "tt31828532",
-        "poster_path": "https://image.tmdb.org/t/p/w500/7uVdqyf7xiHeGjxhnRTKjGnO0Gm.jpg",
-        "main_cast": [
-            "Ada Eide",
-            "Trond Fausa Aurv\u00e5g",
-            "Marie Blokhus",
-            "Christian Rubeck",
-            "Saga Tuset Meisfjordskar"
-        ],
-        "director": "Hallvar Witz\u00f8",
-        "keywords": [
-            "ski racing",
-            "sport"
-        ]
-    },
-    {
         "id": 335984,
         "title": "Blade Runner 2049",
         "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
@@ -5797,6 +5827,58 @@
             "cautionary",
             "audacious",
             "compassionate"
+        ]
+    },
+    {
+        "id": 1221404,
+        "title": "Crayon Shin-chan the Movie: Our Dinosaur Diary",
+        "overview": "Follow the friendship between the Nobara family's pet dog Shiro and a \"small dinosaur\". Their connection helps the growth of Shinnosuke and the Kusakabe Defense Squad.",
+        "release_date": "2024-08-09",
+        "popularity": 107.192,
+        "vote_average": 5.675,
+        "vote_count": 20,
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy",
+            "Family"
+        ],
+        "runtime": 106,
+        "original_language": "ja",
+        "spoken_languages": [
+            "Japanese"
+        ],
+        "status": "Released",
+        "budget": 0,
+        "revenue": 21478573,
+        "production_companies": [
+            "Shin-Ei Animation",
+            "Futabasha",
+            "Asatsu-DK",
+            "TV Asahi",
+            "TOHO"
+        ],
+        "production_countries": [
+            "Japan"
+        ],
+        "tagline": "When a brief encounter sparks a heartfelt bond.",
+        "homepage": "https://www.shinchan-movie.com/2024/",
+        "imdb_id": "tt30400536",
+        "poster_path": "https://image.tmdb.org/t/p/w500/n7YcOeqPOmvQ2PUatn4UqV5YStj.jpg",
+        "main_cast": [
+            "Yumiko Kobayashi",
+            "Miki Narahashi",
+            "Toshiyuki Morikawa",
+            "Satomi Korogi",
+            "Mari Mashiba"
+        ],
+        "director": "Shinobu Sasaki",
+        "keywords": [
+            "kindergarten",
+            "dinosaur",
+            "based on manga",
+            "seinen",
+            "anime"
         ]
     },
     {
@@ -6361,6 +6443,68 @@
         ]
     },
     {
+        "id": 917496,
+        "title": "Beetlejuice Beetlejuice",
+        "overview": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+        "release_date": "2024-09-04",
+        "popularity": 74.012,
+        "vote_average": 7.062,
+        "vote_count": 2348,
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Horror"
+        ],
+        "runtime": 105,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 100000000,
+        "revenue": 451100435,
+        "production_companies": [
+            "Warner Bros. Pictures",
+            "Geffen Pictures",
+            "Plan B Entertainment",
+            "Tim Burton Productions",
+            "Tommy Harper Productions",
+            "Domain Entertainment"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "The ghost with the most is back.",
+        "homepage": "https://www.beetlejuicemovie.com",
+        "imdb_id": "tt2049403",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+        "main_cast": [
+            "Michael Keaton",
+            "Winona Ryder",
+            "Catherine O'Hara",
+            "Jenna Ortega",
+            "Justin Theroux"
+        ],
+        "director": "Tim Burton",
+        "keywords": [
+            "afterlife",
+            "haunted house",
+            "sequel",
+            "paranormal",
+            "teenage girl",
+            "gothic",
+            "death",
+            "new england",
+            "ghost",
+            "horror comedy",
+            "unexpected death",
+            "mother daughter relationship",
+            "fantasy",
+            "fantasy comedy",
+            "ghoulish"
+        ]
+    },
+    {
         "id": 299536,
         "title": "Avengers: Infinity War",
         "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
@@ -6414,6 +6558,61 @@
             "aftercreditsstinger",
             "marvel cinematic universe (mcu)",
             "cosmic"
+        ]
+    },
+    {
+        "id": 284052,
+        "title": "Doctor Strange",
+        "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+        "release_date": "2016-10-25",
+        "popularity": 66.411,
+        "vote_average": 7.419,
+        "vote_count": 22364,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "runtime": 115,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 180000000,
+        "revenue": 676343174,
+        "production_companies": [
+            "Marvel Studios"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "The impossibilities are endless.",
+        "homepage": "https://www.marvel.com/movies/doctor-strange",
+        "imdb_id": "tt1211837",
+        "poster_path": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+        "main_cast": [
+            "Benedict Cumberbatch",
+            "Chiwetel Ejiofor",
+            "Rachel McAdams",
+            "Benedict Wong",
+            "Mads Mikkelsen"
+        ],
+        "director": "Scott Derrickson",
+        "keywords": [
+            "magic",
+            "superhero",
+            "training",
+            "time",
+            "based on comic",
+            "sorcerer",
+            "doctor",
+            "neurosurgeon",
+            "wizard",
+            "aftercreditsstinger",
+            "duringcreditsstinger",
+            "marvel cinematic universe (mcu)",
+            "suspenseful"
         ]
     },
     {
@@ -6736,58 +6935,6 @@
         ]
     },
     {
-        "id": 1221404,
-        "title": "Crayon Shin-chan the Movie: Our Dinosaur Diary",
-        "overview": "Follow the friendship between the Nobara family's pet dog Shiro and a \"small dinosaur\". Their connection helps the growth of Shinnosuke and the Kusakabe Defense Squad.",
-        "release_date": "2024-08-09",
-        "popularity": 107.192,
-        "vote_average": 5.675,
-        "vote_count": 20,
-        "genres": [
-            "Animation",
-            "Adventure",
-            "Comedy",
-            "Family"
-        ],
-        "runtime": 106,
-        "original_language": "ja",
-        "spoken_languages": [
-            "Japanese"
-        ],
-        "status": "Released",
-        "budget": 0,
-        "revenue": 21478573,
-        "production_companies": [
-            "Shin-Ei Animation",
-            "Futabasha",
-            "Asatsu-DK",
-            "TV Asahi",
-            "TOHO"
-        ],
-        "production_countries": [
-            "Japan"
-        ],
-        "tagline": "When a brief encounter sparks a heartfelt bond.",
-        "homepage": "https://www.shinchan-movie.com/2024/",
-        "imdb_id": "tt30400536",
-        "poster_path": "https://image.tmdb.org/t/p/w500/n7YcOeqPOmvQ2PUatn4UqV5YStj.jpg",
-        "main_cast": [
-            "Yumiko Kobayashi",
-            "Miki Narahashi",
-            "Toshiyuki Morikawa",
-            "Satomi Korogi",
-            "Mari Mashiba"
-        ],
-        "director": "Shinobu Sasaki",
-        "keywords": [
-            "kindergarten",
-            "dinosaur",
-            "based on manga",
-            "seinen",
-            "anime"
-        ]
-    },
-    {
         "id": 1892,
         "title": "Return of the Jedi",
         "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
@@ -6899,65 +7046,6 @@
             "mysterious",
             "christmas",
             "based on young adult novel"
-        ]
-    },
-    {
-        "id": 299534,
-        "title": "Avengers: Endgame",
-        "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-        "release_date": "2019-04-24",
-        "popularity": 116.248,
-        "vote_average": 8.2,
-        "vote_count": 26068,
-        "genres": [
-            "Adventure",
-            "Science Fiction",
-            "Action"
-        ],
-        "runtime": 181,
-        "original_language": "en",
-        "spoken_languages": [
-            "English",
-            "Japanese",
-            "Xhosa"
-        ],
-        "status": "Released",
-        "budget": 356000000,
-        "revenue": 2799439100,
-        "production_companies": [
-            "Marvel Studios"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "Avenge the fallen.",
-        "homepage": "https://www.marvel.com/movies/avengers-endgame",
-        "imdb_id": "tt4154796",
-        "poster_path": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
-        "main_cast": [
-            "Robert Downey Jr.",
-            "Chris Evans",
-            "Mark Ruffalo",
-            "Chris Hemsworth",
-            "Scarlett Johansson"
-        ],
-        "director": "Anthony Russo",
-        "keywords": [
-            "superhero",
-            "time travel",
-            "space travel",
-            "time machine",
-            "based on comic",
-            "sequel",
-            "alien invasion",
-            "superhero team",
-            "marvel cinematic universe (mcu)",
-            "alternate timeline",
-            "father daughter relationship",
-            "sister sister relationship",
-            "awestruck",
-            "powerful",
-            "vibrant"
         ]
     },
     {
@@ -7086,9 +7174,9 @@
         "title": "The Order",
         "overview": "A string of violent robberies in the Pacific Northwest leads veteran FBI agent Terry Husk into a white supremacist plot to overthrow the federal government.",
         "release_date": "2024-12-05",
-        "popularity": 81.265,
-        "vote_average": 6.642,
-        "vote_count": 451,
+        "popularity": 66.662,
+        "vote_average": 6.641,
+        "vote_count": 453,
         "genres": [
             "Crime",
             "Drama",
@@ -7136,61 +7224,6 @@
             "white supremacists",
             "1980s",
             "fbi agent"
-        ]
-    },
-    {
-        "id": 1278263,
-        "title": "The Seed of the Sacred Fig",
-        "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
-        "release_date": "2024-09-18",
-        "popularity": 108.193,
-        "vote_average": 7.622,
-        "vote_count": 226,
-        "genres": [
-            "Drama",
-            "Thriller",
-            "Crime"
-        ],
-        "runtime": 167,
-        "original_language": "fr",
-        "spoken_languages": [
-            "Persian"
-        ],
-        "status": "Released",
-        "budget": 0,
-        "revenue": 5343031,
-        "production_companies": [
-            "Parallel 45",
-            "Run Way Pictures",
-            "ARTE France Cin\u00e9ma"
-        ],
-        "production_countries": [
-            "France",
-            "Germany"
-        ],
-        "tagline": "",
-        "homepage": "https://neonrated.com/films/the-seed-of-the-sacred-fig",
-        "imdb_id": "tt32178949",
-        "poster_path": "https://image.tmdb.org/t/p/w500/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg",
-        "main_cast": [
-            "Misagh Zare",
-            "Soheila Golestani",
-            "Mahsa Rostami",
-            "Setareh Maleki",
-            "Niousha Akhshi"
-        ],
-        "director": "Mohammad Rasoulof",
-        "keywords": [
-            "police brutality",
-            "husband wife relationship",
-            "court",
-            "judge",
-            "politics",
-            "paranoia",
-            "mistrust",
-            "family dynamics",
-            "mother daughter relationship",
-            "sister sister relationship"
         ]
     },
     {
@@ -7247,6 +7280,45 @@
             "artic",
             "excited"
         ]
+    },
+    {
+        "id": 1391482,
+        "title": "WWE Elimination Chamber: Toronto",
+        "overview": "The 2025 Elimination Chamber (known as Elimination Chamber: Toronto) was the 15th Elimination Chamber professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It was held for wrestlers from the promotion's Raw and SmackDown brand divisions. The event took place on Saturday, March 1, 2025, at Rogers Centre in Toronto, Ontario, Canada.",
+        "release_date": "2025-03-01",
+        "popularity": 61.617,
+        "vote_average": 7.654,
+        "vote_count": 13,
+        "genres": [
+            "Family",
+            "Drama",
+            "Action"
+        ],
+        "runtime": 211,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 0,
+        "revenue": 0,
+        "production_companies": [
+            "World Wrestling Entertainment (WWE)"
+        ],
+        "production_countries": [],
+        "tagline": "",
+        "homepage": "",
+        "imdb_id": "tt34512232",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gQWQ3J3tnCKOBtwVtRD9vFUREyb.jpg",
+        "main_cast": [
+            "John Cena",
+            "Gionna Daddio",
+            "Phil Brooks",
+            "Bianca Crawford",
+            "Andrew Galloway"
+        ],
+        "director": "Unknown",
+        "keywords": []
     },
     {
         "id": 102899,
@@ -7494,6 +7566,61 @@
             "1940s",
             "commandant",
             "complicity"
+        ]
+    },
+    {
+        "id": 10138,
+        "title": "Iron Man 2",
+        "overview": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances \u2013 and confront powerful enemies.",
+        "release_date": "2010-04-28",
+        "popularity": 106.04,
+        "vote_average": 6.843,
+        "vote_count": 21223,
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ],
+        "runtime": 124,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "Russian",
+            "French"
+        ],
+        "status": "Released",
+        "budget": 200000000,
+        "revenue": 623933331,
+        "production_companies": [
+            "Marvel Studios",
+            "Fairview Entertainment",
+            "Marvel Entertainment"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "It's not the armor that makes the hero, but the man inside.",
+        "homepage": "https://www.marvel.com/movies/iron-man-2",
+        "imdb_id": "tt1228705",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+        "main_cast": [
+            "Robert Downey Jr.",
+            "Gwyneth Paltrow",
+            "Don Cheadle",
+            "Scarlett Johansson",
+            "Sam Rockwell"
+        ],
+        "director": "Jon Favreau",
+        "keywords": [
+            "technology",
+            "superhero",
+            "malibu",
+            "based on comic",
+            "revenge",
+            "aftercreditsstinger",
+            "marvel cinematic universe (mcu)",
+            "break out",
+            "excited"
         ]
     },
     {
@@ -7873,123 +8000,6 @@
         ]
     },
     {
-        "id": 917496,
-        "title": "Beetlejuice Beetlejuice",
-        "overview": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
-        "release_date": "2024-09-04",
-        "popularity": 74.012,
-        "vote_average": 7.062,
-        "vote_count": 2348,
-        "genres": [
-            "Comedy",
-            "Fantasy",
-            "Horror"
-        ],
-        "runtime": 105,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 100000000,
-        "revenue": 451100435,
-        "production_companies": [
-            "Warner Bros. Pictures",
-            "Geffen Pictures",
-            "Plan B Entertainment",
-            "Tim Burton Productions",
-            "Tommy Harper Productions",
-            "Domain Entertainment"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "The ghost with the most is back.",
-        "homepage": "https://www.beetlejuicemovie.com",
-        "imdb_id": "tt2049403",
-        "poster_path": "https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
-        "main_cast": [
-            "Michael Keaton",
-            "Winona Ryder",
-            "Catherine O'Hara",
-            "Jenna Ortega",
-            "Justin Theroux"
-        ],
-        "director": "Tim Burton",
-        "keywords": [
-            "afterlife",
-            "haunted house",
-            "sequel",
-            "paranormal",
-            "teenage girl",
-            "gothic",
-            "death",
-            "new england",
-            "ghost",
-            "horror comedy",
-            "unexpected death",
-            "mother daughter relationship",
-            "fantasy",
-            "fantasy comedy",
-            "ghoulish"
-        ]
-    },
-    {
-        "id": 284052,
-        "title": "Doctor Strange",
-        "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
-        "release_date": "2016-10-25",
-        "popularity": 66.411,
-        "vote_average": 7.419,
-        "vote_count": 22364,
-        "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
-        "runtime": 115,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 180000000,
-        "revenue": 676343174,
-        "production_companies": [
-            "Marvel Studios"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "The impossibilities are endless.",
-        "homepage": "https://www.marvel.com/movies/doctor-strange",
-        "imdb_id": "tt1211837",
-        "poster_path": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
-        "main_cast": [
-            "Benedict Cumberbatch",
-            "Chiwetel Ejiofor",
-            "Rachel McAdams",
-            "Benedict Wong",
-            "Mads Mikkelsen"
-        ],
-        "director": "Scott Derrickson",
-        "keywords": [
-            "magic",
-            "superhero",
-            "training",
-            "time",
-            "based on comic",
-            "sorcerer",
-            "doctor",
-            "neurosurgeon",
-            "wizard",
-            "aftercreditsstinger",
-            "duringcreditsstinger",
-            "marvel cinematic universe (mcu)",
-            "suspenseful"
-        ]
-    },
-    {
         "id": 786892,
         "title": "Furiosa: A Mad Max Saga",
         "overview": "As the world falls, young Furiosa is snatched from the Green Place of Many Mothers into the hands of a great biker horde led by the warlord Dementus. Sweeping through the wasteland, they encounter the citadel presided over by Immortan Joe. The two tyrants wage war for dominance, and Furiosa must survive many trials as she puts together the means to find her way home.",
@@ -8142,72 +8152,130 @@
         ]
     },
     {
-        "id": 447365,
-        "title": "Guardians of the Galaxy Vol. 3",
-        "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
-        "release_date": "2023-05-03",
-        "popularity": 111.236,
-        "vote_average": 8.0,
-        "vote_count": 7169,
+        "id": 807,
+        "title": "Se7en",
+        "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+        "release_date": "1995-09-22",
+        "popularity": 98.402,
+        "vote_average": 8.4,
+        "vote_count": 21446,
         "genres": [
-            "Science Fiction",
-            "Adventure",
-            "Action"
+            "Crime",
+            "Mystery",
+            "Thriller"
         ],
-        "runtime": 150,
+        "runtime": 127,
         "original_language": "en",
         "spoken_languages": [
             "English"
         ],
         "status": "Released",
-        "budget": 250000000,
-        "revenue": 845600000,
+        "budget": 33000000,
+        "revenue": 327311859,
+        "production_companies": [
+            "New Line Cinema",
+            "Juno Pix",
+            "Arnold Kopelson Productions",
+            "Cecchi Gori Group"
+        ],
+        "production_countries": [
+            "United States of America",
+            "Italy"
+        ],
+        "tagline": "Seven deadly sins. Seven ways to die.",
+        "homepage": "http://www.sevenmovie.com/",
+        "imdb_id": "tt0114369",
+        "poster_path": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+        "main_cast": [
+            "Morgan Freeman",
+            "Brad Pitt",
+            "Gwyneth Paltrow",
+            "John Cassini",
+            "Peter Crombie"
+        ],
+        "director": "David Fincher",
+        "keywords": [
+            "rage and hate",
+            "police",
+            "s.w.a.t.",
+            "sadism",
+            "self-fulfilling prophecy",
+            "psychopath",
+            "detective",
+            "investigation",
+            "insomnia",
+            "murder",
+            "serial killer",
+            "religion",
+            "shootout",
+            "corpse",
+            "biting",
+            "macabre",
+            "seven deadly sins",
+            "mysterious",
+            "depravity",
+            "neo-noir",
+            "anxious",
+            "sinister",
+            "ambiguous",
+            "ominous",
+            "seven: los siete pecados capitales"
+        ]
+    },
+    {
+        "id": 10195,
+        "title": "Thor",
+        "overview": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+        "release_date": "2011-04-21",
+        "popularity": 64.021,
+        "vote_average": 6.769,
+        "vote_count": 21356,
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "runtime": 115,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 150000000,
+        "revenue": 449326618,
         "production_companies": [
             "Marvel Studios",
-            "Kevin Feige Productions"
+            "Marvel Entertainment"
         ],
         "production_countries": [
             "United States of America"
         ],
-        "tagline": "Once more with feeling.",
-        "homepage": "https://www.marvel.com/movies/guardians-of-the-galaxy-volume-3",
-        "imdb_id": "tt6791350",
-        "poster_path": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+        "tagline": "Courage is immortal.",
+        "homepage": "https://www.marvel.com/movies/thor",
+        "imdb_id": "tt0800369",
+        "poster_path": "https://image.tmdb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
         "main_cast": [
-            "Chris Pratt",
-            "Zoe Salda\u00f1a",
-            "Dave Bautista",
-            "Karen Gillan",
-            "Pom Klementieff"
+            "Chris Hemsworth",
+            "Natalie Portman",
+            "Tom Hiddleston",
+            "Anthony Hopkins",
+            "Stellan Skarsg\u00e5rd"
         ],
-        "director": "James Gunn",
+        "director": "Kenneth Branagh",
         "keywords": [
-            "hero",
+            "new mexico",
             "superhero",
-            "melancholy",
-            "mad scientist",
+            "redemption",
+            "banishment",
             "based on comic",
-            "sequel",
-            "superhero team",
-            "space opera",
-            "raccoon",
+            "brother against brother",
+            "norse mythology",
             "aftercreditsstinger",
-            "duringcreditsstinger",
             "marvel cinematic universe (mcu)",
-            "hopeless",
-            "cosmic",
-            "outer space",
-            "chosen family",
-            "lighthearted",
-            "hilarious",
-            "cheerful",
-            "disheartening",
-            "empathetic",
-            "enthusiastic",
-            "euphoric",
-            "hopeful",
-            "straightforward",
-            "sympathetic"
+            "worlds collide",
+            "god of thunder",
+            "fantasy",
+            "egotistical"
         ]
     },
     {
@@ -8378,6 +8446,71 @@
             "impending divorce",
             "search for wife",
             "vehicle breakdown"
+        ]
+    },
+    {
+        "id": 58,
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "overview": "Captain Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
+        "release_date": "2006-07-06",
+        "popularity": 117.18,
+        "vote_average": 7.364,
+        "vote_count": 16189,
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "runtime": 151,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "Turkish",
+            "Greek",
+            "Mandarin"
+        ],
+        "status": "Released",
+        "budget": 200000000,
+        "revenue": 1066179747,
+        "production_companies": [
+            "Walt Disney Pictures",
+            "Jerry Bruckheimer Films",
+            "Second Mate Productions"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "Captain Jack is back!",
+        "homepage": "https://movies.disney.com/pirates-of-the-caribbean-dead-mans-chest",
+        "imdb_id": "tt0383574",
+        "poster_path": "https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+        "main_cast": [
+            "Johnny Depp",
+            "Orlando Bloom",
+            "Keira Knightley",
+            "Stellan Skarsg\u00e5rd",
+            "Bill Nighy"
+        ],
+        "director": "Gore Verbinski",
+        "keywords": [
+            "witch",
+            "daughter",
+            "ship",
+            "exotic island",
+            "bondage",
+            "monster",
+            "captain",
+            "fortune teller",
+            "compass",
+            "sword fight",
+            "pirate",
+            "cannibal",
+            "swashbuckler",
+            "kraken",
+            "aftercreditsstinger",
+            "based on theme park ride",
+            "incredulous",
+            "hilarious"
         ]
     },
     {
@@ -8632,63 +8765,6 @@
         ]
     },
     {
-        "id": 609681,
-        "title": "The Marvels",
-        "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol\u2019s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-        "release_date": "2023-11-08",
-        "popularity": 62.342,
-        "vote_average": 6.028,
-        "vote_count": 2850,
-        "genres": [
-            "Science Fiction",
-            "Adventure",
-            "Action"
-        ],
-        "runtime": 105,
-        "original_language": "en",
-        "spoken_languages": [
-            "English",
-            "Urdu"
-        ],
-        "status": "Released",
-        "budget": 274800000,
-        "revenue": 207089999,
-        "production_companies": [
-            "Marvel Studios",
-            "Kevin Feige Productions"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "Higher. Further. Faster. Together.",
-        "homepage": "https://www.marvel.com/movies/the-marvels",
-        "imdb_id": "tt10676048",
-        "poster_path": "https://image.tmdb.org/t/p/w500/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
-        "main_cast": [
-            "Brie Larson",
-            "Teyonah Parris",
-            "Iman Vellani",
-            "Samuel L. Jackson",
-            "Zawe Ashton"
-        ],
-        "director": "Nia DaCosta",
-        "keywords": [
-            "hero",
-            "superhero",
-            "space travel",
-            "based on comic",
-            "sequel",
-            "teenage girl",
-            "aftercreditsstinger",
-            "duringcreditsstinger",
-            "marvel cinematic universe (mcu)",
-            "woman director",
-            "space adventure",
-            "absurd",
-            "foreboding"
-        ]
-    },
-    {
         "id": 76341,
         "title": "Mad Max: Fury Road",
         "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
@@ -8851,6 +8927,55 @@
             "joyful",
             "mocking",
             "pretentious"
+        ]
+    },
+    {
+        "id": 324544,
+        "title": "In the Lost Lands",
+        "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where the sorceress and her guide, the drifter Boyce must outwit and outfight man and demon.",
+        "release_date": "2025-02-27",
+        "popularity": 87.231,
+        "vote_average": 8.0,
+        "vote_count": 2,
+        "genres": [
+            "Fantasy",
+            "Adventure",
+            "Action"
+        ],
+        "runtime": 101,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "German"
+        ],
+        "status": "Released",
+        "budget": 0,
+        "revenue": 0,
+        "production_companies": [
+            "Constantin Film",
+            "Spark Productions"
+        ],
+        "production_countries": [
+            "Germany",
+            "United States of America",
+            "Canada"
+        ],
+        "tagline": "",
+        "homepage": "https://inthelostlands.com",
+        "imdb_id": "tt4419684",
+        "poster_path": "https://image.tmdb.org/t/p/w500/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
+        "main_cast": [
+            "Milla Jovovich",
+            "Dave Bautista",
+            "Arly Jover",
+            "Amara Okereke",
+            "Fraser James"
+        ],
+        "director": "Paul W. S. Anderson",
+        "keywords": [
+            "sorcery",
+            "sorceress",
+            "high fantasy"
         ]
     },
     {
@@ -10018,71 +10143,6 @@
         ]
     },
     {
-        "id": 58,
-        "title": "Pirates of the Caribbean: Dead Man's Chest",
-        "overview": "Captain Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
-        "release_date": "2006-07-06",
-        "popularity": 117.18,
-        "vote_average": 7.364,
-        "vote_count": 16189,
-        "genres": [
-            "Adventure",
-            "Fantasy",
-            "Action"
-        ],
-        "runtime": 151,
-        "original_language": "en",
-        "spoken_languages": [
-            "English",
-            "Turkish",
-            "Greek",
-            "Mandarin"
-        ],
-        "status": "Released",
-        "budget": 200000000,
-        "revenue": 1066179747,
-        "production_companies": [
-            "Walt Disney Pictures",
-            "Jerry Bruckheimer Films",
-            "Second Mate Productions"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "Captain Jack is back!",
-        "homepage": "https://movies.disney.com/pirates-of-the-caribbean-dead-mans-chest",
-        "imdb_id": "tt0383574",
-        "poster_path": "https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
-        "main_cast": [
-            "Johnny Depp",
-            "Orlando Bloom",
-            "Keira Knightley",
-            "Stellan Skarsg\u00e5rd",
-            "Bill Nighy"
-        ],
-        "director": "Gore Verbinski",
-        "keywords": [
-            "witch",
-            "daughter",
-            "ship",
-            "exotic island",
-            "bondage",
-            "monster",
-            "captain",
-            "fortune teller",
-            "compass",
-            "sword fight",
-            "pirate",
-            "cannibal",
-            "swashbuckler",
-            "kraken",
-            "aftercreditsstinger",
-            "based on theme park ride",
-            "incredulous",
-            "hilarious"
-        ]
-    },
-    {
         "id": 9806,
         "title": "The Incredibles",
         "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
@@ -10384,55 +10444,6 @@
         ]
     },
     {
-        "id": 324544,
-        "title": "In the Lost Lands",
-        "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where the sorceress and her guide, the drifter Boyce must outwit and outfight man and demon.",
-        "release_date": "2025-02-27",
-        "popularity": 87.231,
-        "vote_average": 8.0,
-        "vote_count": 2,
-        "genres": [
-            "Fantasy",
-            "Adventure",
-            "Action"
-        ],
-        "runtime": 101,
-        "original_language": "en",
-        "spoken_languages": [
-            "English",
-            "German"
-        ],
-        "status": "Released",
-        "budget": 0,
-        "revenue": 0,
-        "production_companies": [
-            "Constantin Film",
-            "Spark Productions"
-        ],
-        "production_countries": [
-            "Germany",
-            "United States of America",
-            "Canada"
-        ],
-        "tagline": "",
-        "homepage": "https://inthelostlands.com",
-        "imdb_id": "tt4419684",
-        "poster_path": "https://image.tmdb.org/t/p/w500/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
-        "main_cast": [
-            "Milla Jovovich",
-            "Dave Bautista",
-            "Arly Jover",
-            "Amara Okereke",
-            "Fraser James"
-        ],
-        "director": "Paul W. S. Anderson",
-        "keywords": [
-            "sorcery",
-            "sorceress",
-            "high fantasy"
-        ]
-    },
-    {
         "id": 254,
         "title": "King Kong",
         "overview": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
@@ -10722,9 +10733,9 @@
         "title": "Transformers One",
         "overview": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
         "release_date": "2024-09-11",
-        "popularity": 263.499,
-        "vote_average": 8.1,
-        "vote_count": 1122,
+        "popularity": 205.139,
+        "vote_average": 8.095,
+        "vote_count": 1125,
         "genres": [
             "Animation",
             "Science Fiction",
@@ -11130,59 +11141,6 @@
         ],
         "director": "Danishka Esterhazy",
         "keywords": []
-    },
-    {
-        "id": 640146,
-        "title": "Ant-Man and the Wasp: Quantumania",
-        "overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
-        "release_date": "2023-02-15",
-        "popularity": 56.943,
-        "vote_average": 6.298,
-        "vote_count": 5167,
-        "genres": [
-            "Action",
-            "Adventure",
-            "Science Fiction"
-        ],
-        "runtime": 125,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 388369742,
-        "revenue": 476071180,
-        "production_companies": [
-            "Marvel Studios",
-            "Kevin Feige Productions"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "Witness the beginning of a new dynasty.",
-        "homepage": "https://www.marvel.com/movies/ant-man-and-the-wasp-quantumania",
-        "imdb_id": "tt10954600",
-        "poster_path": "https://image.tmdb.org/t/p/w500/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
-        "main_cast": [
-            "Paul Rudd",
-            "Evangeline Lilly",
-            "Michael Douglas",
-            "Michelle Pfeiffer",
-            "Jonathan Majors"
-        ],
-        "director": "Peyton Reed",
-        "keywords": [
-            "hero",
-            "superhero",
-            "ant",
-            "based on comic",
-            "sequel",
-            "alternate dimension",
-            "family",
-            "aftercreditsstinger",
-            "duringcreditsstinger",
-            "marvel cinematic universe (mcu)"
-        ]
     },
     {
         "id": 1232827,
