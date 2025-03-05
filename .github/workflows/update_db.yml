@@ -45,7 +45,7 @@ jobs:
         git push
 
   deploy-to-huggingface:
-    needs: update-database
+    needs: update-movies
     runs-on: ubuntu-latest
 
     steps:
@@ -57,20 +57,17 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y git-lfs
         git lfs install
-    
-    - name: Debug Hugging Face Authentication
+
+    - name: Authenticate and Clone Hugging Face Space with Git LFS
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
       run: |
-        echo "Testing Hugging Face API Authentication..."
-        curl -H "Authorization: Bearer $HF_TOKEN" https://huggingface.co/api/whoami-v2 || echo "❌ Failed to authenticate"
-
-
-    - name: Clone Hugging Face Space with Git LFS Support
-      env:
-        HF_TOKEN: ${{ secrets.HF_TOKEN }}
-      run: |
-        GIT_LFS_SKIP_SMUDGE=1 git clone https://$HF_TOKEN@huggingface.co/spaces/thanhtungvudata/CineMood3 CineMood3
+        git config --global credential.helper store
+        echo "https://user:$HF_TOKEN@huggingface.co" > ~/.git-credentials
+        git config --global credential.useHttpPath true
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "GitHub Actions"
+        GIT_LFS_SKIP_SMUDGE=1 git clone https://user:$HF_TOKEN@huggingface.co/spaces/thanhtungvudata/CineMood3 CineMood3
         cd CineMood3
         git lfs pull
 
@@ -87,7 +84,8 @@ jobs:
         git config --global user.name "GitHub Actions"
         git add .
         git commit -m "Auto-update from GitHub" || echo "No changes to commit"
-        git push https://$HF_TOKEN@huggingface.co/spaces/thanhtungvudata/CineMood3.git HEAD:main
+        git push https://user:$HF_TOKEN@huggingface.co/spaces/thanhtungvudata/CineMood3.git HEAD:main
+
 
 
 
