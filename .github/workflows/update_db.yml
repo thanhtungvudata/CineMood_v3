@@ -45,7 +45,7 @@ jobs:
         git push
 
   deploy-to-huggingface:
-    needs: update-database
+    needs: update-movies
     runs-on: ubuntu-latest
 
     steps:
@@ -71,29 +71,24 @@ jobs:
         cd CineMood3
         git lfs pull
 
-    - name: Configure Git LFS for Large Files
+    - name: Remove Old ChromaDB Files
       run: |
-        cd CineMood3
-        git lfs track "chroma.sqlite3"
-        git add .gitattributes
+        rm -rf CineMood3/chroma_db/*
+        mkdir -p CineMood3/chroma_db
 
-    - name: Copy Updated Data to Hugging Face Repo
+    - name: Copy Updated ChromaDB to Hugging Face Repo
       run: |
-        rsync -av --exclude='.git' ./trending_movies.json ./movie_embeddings.json ./chroma_db/ CineMood3/
+        rsync -av --exclude='.git' ./chroma_db/ CineMood3/chroma_db/
 
-    - name: Commit and Push Updates to Hugging Face
+    - name: Commit and Push Updated ChromaDB to Hugging Face
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
       run: |
         cd CineMood3
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git config --global user.name "GitHub Actions"
-        git lfs track "chroma.sqlite3"
-        git add .gitattributes
-        git add chroma.sqlite3
-        git add .
-        git commit -m "Auto-update from GitHub" || echo "No changes to commit"
+        git add chroma_db/
+        git commit -m "Auto-update ChromaDB from GitHub" || echo "No changes to commit"
         git push https://user:$HF_TOKEN@huggingface.co/spaces/thanhtungvudata/CineMood3.git HEAD:main
+
 
 
 
