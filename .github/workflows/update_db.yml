@@ -16,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: "3.10"
+        python-version: "3.11"
 
     - name: Install Dependencies
       run: pip install -r requirements.txt
@@ -27,15 +27,12 @@ jobs:
         ls -la  # Debugging: Verify the folder contents
 
     - name: Fetch Trending Movies
-      env:
       run: python fetch_movies.py
 
     - name: Generate Movie Embeddings
-      env:
       run: python generate_embeddings.py
 
     - name: Store Embeddings in ChromaDB
-      env:
       run: python store_in_chromadb.py
 
     - name: Commit and Push Updates to GitHub
