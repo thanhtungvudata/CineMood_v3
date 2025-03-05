@@ -72,13 +72,13 @@ jobs:
         git config --global credential.useHttpPath true
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "GitHub Actions"
-        GIT_LFS_SKIP_SMUDGE=1 git clone https://user:$HF_TOKEN@huggingface.co/spaces/thanhtungvudata/CineMood3 CineMood3
-        cd CineMood3
+        GIT_LFS_SKIP_SMUDGE=1 git clone https://user:$HF_TOKEN@huggingface.co/spaces/thanhtungvudata/Cinemoodv3 Cinemoodv3
+        cd Cinemoodv3
         git lfs pull
 
     - name: Remove Old Versions of Updated Files in Hugging Face
       run: |
-        cd CineMood3
+        cd Cinemoodv3
         for file in "trending_movies.json" "movie_embeddings.json"; do
           if [ -f "$file" ]; then rm -f "$file"; fi
         done
@@ -86,13 +86,13 @@ jobs:
 
     - name: Copy Updated Data to Hugging Face Repo
       run: |
-        mkdir -p CineMood3/chroma_db  # Ensure target directory exists
-        rsync -av --ignore-missing-args --exclude='.git' ./chroma_db/ CineMood3/chroma_db/
-        rsync -av --exclude='.git' trending_movies.json movie_embeddings.json CineMood3/
+        mkdir -p Cinemoodv3/chroma_db  # Ensure target directory exists
+        rsync -av --ignore-missing-args --exclude='.git' ./chroma_db/ Cinemoodv3/chroma_db/
+        rsync -av --exclude='.git' trending_movies.json movie_embeddings.json Cinemoodv3/
 
     - name: Configure Git LFS for Large Files
       run: |
-        cd CineMood3
+        cd Cinemoodv3
         git lfs track "chroma_db/chroma.sqlite3"
         git add .gitattributes
 
@@ -100,7 +100,7 @@ jobs:
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
       run: |
-        cd CineMood3
+        cd Cinemoodv3
         git add chroma_db/ trending_movies.json movie_embeddings.json
         git commit -m "Auto-update from GitHub" || echo "No changes to commit"
-        git push https://user:$HF_TOKEN@huggingface.co/spaces/thanhtungvudata/CineMood3.git HEAD:main
+        git push https://user:$HF_TOKEN@huggingface.co/spaces/thanhtungvudata/Cinemoodv3.git HEAD:main
