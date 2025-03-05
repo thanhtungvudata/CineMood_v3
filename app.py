@@ -123,6 +123,9 @@ def run_app():
     user_input = st.text_input("How are you feeling now?", placeholder="E.g., happy, nostalgic, adventurous, I am missing my lovely daughter, etc.")
 
     if st.button("🎥 Recommend Movies"):
+        st.write(f"ChromaDB Movies Collection Size: {vector_store._collection.count()}")
+        st.write(f"ChromaDB Moods Collection Size: {mood_store._collection.count()}")
+
         if not user_input:
             st.warning("⚠️ Please enter how you're feeling.")
         else:
