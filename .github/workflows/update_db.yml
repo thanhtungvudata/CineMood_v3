@@ -6,7 +6,7 @@ on:
   workflow_dispatch:  # Allows manual trigger from GitHub Actions
 
 jobs:
-  update-movies:
+  update-database:
     runs-on: ubuntu-latest
 
     steps:
@@ -45,7 +45,7 @@ jobs:
         git push
 
   deploy-to-huggingface:
-    needs: update-movies
+    needs: update-database
     runs-on: ubuntu-latest
 
     steps:
