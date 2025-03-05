@@ -1,85 +1,5 @@
 [
     {
-        "id": 1064213,
-        "title": "Anora",
-        "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
-        "release_date": "2024-10-14",
-        "popularity": 1016.68,
-        "vote_average": 7.091,
-        "vote_count": 1315,
-        "genres": [
-            "Drama",
-            "Comedy",
-            "Romance"
-        ],
-        "runtime": 139,
-        "original_language": "en",
-        "spoken_languages": [
-            "Armenian",
-            "English",
-            "Russian"
-        ],
-        "status": "Released",
-        "budget": 6000000,
-        "revenue": 40989193,
-        "production_companies": [
-            "Cre Film",
-            "FilmNation Entertainment"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "Love is a hustle.",
-        "homepage": "https://anora.film",
-        "imdb_id": "tt28607951",
-        "poster_path": "https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
-        "main_cast": [
-            "Mikey Madison",
-            "Mark Eydelshteyn",
-            "Yura Borisov",
-            "Karren Karagulian",
-            "Vache Tovmasyan"
-        ],
-        "director": "Sean Baker",
-        "keywords": [
-            "new year's eve",
-            "new york city",
-            "marriage",
-            "boardwalk",
-            "baptism",
-            "strip club",
-            "coney island",
-            "female protagonist",
-            "mansion",
-            "class differences",
-            "las vegas",
-            "lap dance",
-            "home invasion",
-            "drunk",
-            "brooklyn, new york city",
-            "screwball comedy",
-            "new york subway",
-            "hedonism",
-            "immaturity",
-            "city hall",
-            "exotic dancer",
-            "sex worker",
-            "naive children",
-            "meddling parents",
-            "annulment",
-            "strip show",
-            "russian oligarch",
-            "sex",
-            "party",
-            "vegas wedding",
-            "romantic dramedy",
-            "cinderella story",
-            "disgusted",
-            "female nudity",
-            "brighton beach"
-        ]
-    },
-    {
         "id": 549509,
         "title": "The Brutalist",
         "overview": "Escaping post-war Europe, visionary architect L\u00e1szl\u00f3 Toth arrives in America to rebuild his life. On his own in a strange new country, a wealthy industrialist recognizes his talent. But power and legacy come at a heavy cost...",
@@ -175,13 +95,93 @@
         ]
     },
     {
+        "id": 1064213,
+        "title": "Anora",
+        "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+        "release_date": "2024-10-14",
+        "popularity": 1016.68,
+        "vote_average": 7.091,
+        "vote_count": 1315,
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Romance"
+        ],
+        "runtime": 139,
+        "original_language": "en",
+        "spoken_languages": [
+            "Armenian",
+            "English",
+            "Russian"
+        ],
+        "status": "Released",
+        "budget": 6000000,
+        "revenue": 40989193,
+        "production_companies": [
+            "Cre Film",
+            "FilmNation Entertainment"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "Love is a hustle.",
+        "homepage": "https://anora.film",
+        "imdb_id": "tt28607951",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+        "main_cast": [
+            "Mikey Madison",
+            "Mark Eydelshteyn",
+            "Yura Borisov",
+            "Karren Karagulian",
+            "Vache Tovmasyan"
+        ],
+        "director": "Sean Baker",
+        "keywords": [
+            "new year's eve",
+            "new york city",
+            "marriage",
+            "boardwalk",
+            "baptism",
+            "strip club",
+            "coney island",
+            "female protagonist",
+            "mansion",
+            "class differences",
+            "las vegas",
+            "lap dance",
+            "home invasion",
+            "drunk",
+            "brooklyn, new york city",
+            "screwball comedy",
+            "new york subway",
+            "hedonism",
+            "immaturity",
+            "city hall",
+            "exotic dancer",
+            "sex worker",
+            "naive children",
+            "meddling parents",
+            "annulment",
+            "strip show",
+            "russian oligarch",
+            "sex",
+            "party",
+            "vegas wedding",
+            "romantic dramedy",
+            "cinderella story",
+            "disgusted",
+            "female nudity",
+            "brighton beach"
+        ]
+    },
+    {
         "id": 696506,
         "title": "Mickey 17",
-        "overview": "Mickey Barnes, an \u201cexpendable\u201d employee, is sent on a human expedition to colonize the ice world Niflheim. After one iteration dies, a new body is regenerated with most of his memories intact. With one regeneration, though, things go very wrong.",
+        "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job\u2026 to die, for a living.",
         "release_date": "2025-02-28",
         "popularity": 423.368,
         "vote_average": 7.6,
-        "vote_count": 21,
+        "vote_count": 22,
         "genres": [
             "Science Fiction",
             "Comedy",
@@ -207,7 +207,7 @@
             "United States of America"
         ],
         "tagline": "He's dying to save mankind.",
-        "homepage": "https://www.mickey17movie.com/",
+        "homepage": "https://www.mickey17movie.com",
         "imdb_id": "tt12299608",
         "poster_path": "https://image.tmdb.org/t/p/w500/lrCcovGRcuv8Z1v3ae1ZH5Ird05.jpg",
         "main_cast": [
@@ -231,131 +231,6 @@
             "scathing",
             "space sci-fi",
             "black comedy"
-        ]
-    },
-    {
-        "id": 823219,
-        "title": "Flow",
-        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
-        "release_date": "2024-08-29",
-        "popularity": 885.787,
-        "vote_average": 8.305,
-        "vote_count": 1277,
-        "genres": [
-            "Animation",
-            "Fantasy",
-            "Adventure"
-        ],
-        "runtime": 85,
-        "original_language": "lv",
-        "spoken_languages": [
-            "No Language"
-        ],
-        "status": "Released",
-        "budget": 3700000,
-        "revenue": 17496624,
-        "production_companies": [
-            "Dream Well Studio",
-            "Sacrebleu Productions",
-            "Take Five",
-            "ARTE France Cin\u00e9ma",
-            "RTBF"
-        ],
-        "production_countries": [
-            "Belgium",
-            "France",
-            "Latvia"
-        ],
-        "tagline": "Share in the beauty of togetherness.",
-        "homepage": "https://flowthemovie.com/",
-        "imdb_id": "tt4772188",
-        "poster_path": "https://image.tmdb.org/t/p/w500/imKSymKBK7o73sajciEmndJoVkR.jpg",
-        "main_cast": [],
-        "director": "Gints Zilbalodis",
-        "keywords": [
-            "ocean",
-            "cat",
-            "boat",
-            "dystopia",
-            "dog",
-            "golden retriever",
-            "flood",
-            "lemur",
-            "bird",
-            "3d animation",
-            "fantasy",
-            "capybara",
-            "adventure"
-        ]
-    },
-    {
-        "id": 1084199,
-        "title": "Companion",
-        "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
-        "release_date": "2025-01-22",
-        "popularity": 1222.243,
-        "vote_average": 7.1,
-        "vote_count": 619,
-        "genres": [
-            "Horror",
-            "Science Fiction",
-            "Thriller"
-        ],
-        "runtime": 97,
-        "original_language": "en",
-        "spoken_languages": [
-            "German",
-            "English",
-            "Spanish",
-            "Mandarin"
-        ],
-        "status": "Released",
-        "budget": 10000000,
-        "revenue": 34480388,
-        "production_companies": [
-            "BoulderLight Pictures",
-            "New Line Cinema",
-            "Vertigo Entertainment",
-            "Subconscious",
-            "Domain Entertainment",
-            "Warner Bros. Pictures"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "Find someone made just for you.",
-        "homepage": "https://www.findyourcompanion.com",
-        "imdb_id": "tt26584495",
-        "poster_path": "https://image.tmdb.org/t/p/w500/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
-        "main_cast": [
-            "Sophie Thatcher",
-            "Jack Quaid",
-            "Lukas Gage",
-            "Megan Suri",
-            "Harvey Guill\u00e9n"
-        ],
-        "director": "Drew Hancock",
-        "keywords": [
-            "artificial intelligence (a.i.)",
-            "cabin",
-            "robot",
-            "boyfriend girlfriend relationship",
-            "robot girl",
-            "weekend getaway",
-            "human android relationship",
-            "toxic relationship",
-            "incel",
-            "toxic masculinity",
-            "abusive relationship",
-            "malfunctioning android",
-            "white privilege",
-            "sentient machine",
-            "intense",
-            "sinister",
-            "sci-fi horror",
-            "human vs machines",
-            "cybernetics",
-            "android horror"
         ]
     },
     {
@@ -640,196 +515,6 @@
         ]
     },
     {
-        "id": 933260,
-        "title": "The Substance",
-        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-        "release_date": "2024-09-07",
-        "popularity": 970.749,
-        "vote_average": 7.1,
-        "vote_count": 4040,
-        "genres": [
-            "Horror",
-            "Science Fiction"
-        ],
-        "runtime": 141,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 17500000,
-        "revenue": 76506196,
-        "production_companies": [
-            "Working Title Films",
-            "Blacksmith",
-            "Working Title Films"
-        ],
-        "production_countries": [
-            "France",
-            "United Kingdom",
-            "United States of America"
-        ],
-        "tagline": "Become a better you.",
-        "homepage": "https://mubi.com/en/thesubstance",
-        "imdb_id": "tt17526714",
-        "poster_path": "https://image.tmdb.org/t/p/w500/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg",
-        "main_cast": [
-            "Demi Moore",
-            "Margaret Qualley",
-            "Dennis Quaid",
-            "Edward Hamilton-Clark",
-            "Gore Abrams"
-        ],
-        "director": "Coralie Fargeat",
-        "keywords": [
-            "new year's eve",
-            "capitalism",
-            "black market",
-            "identity",
-            "beauty",
-            "satire",
-            "aging",
-            "celebrity",
-            "female protagonist",
-            "los angeles, california",
-            "has been",
-            "aerobics",
-            "disfigurement",
-            "woman director",
-            "disturbed",
-            "beauty standards",
-            "insecure woman",
-            "toxic masculinity",
-            "drug",
-            "body horror",
-            "youth",
-            "actress"
-        ]
-    },
-    {
-        "id": 974950,
-        "title": "Emilia P\u00e9rez",
-        "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
-        "release_date": "2024-08-21",
-        "popularity": 393.985,
-        "vote_average": 6.8,
-        "vote_count": 1387,
-        "genres": [
-            "Drama",
-            "Thriller"
-        ],
-        "runtime": 132,
-        "original_language": "fr",
-        "spoken_languages": [
-            "Spanish",
-            "English"
-        ],
-        "status": "Released",
-        "budget": 26000000,
-        "revenue": 15366077,
-        "production_companies": [
-            "Why Not Productions",
-            "Path\u00e9",
-            "France 2 Cin\u00e9ma",
-            "Page 114",
-            "Saint Laurent Productions",
-            "Saint Laurent",
-            "Library Pictures International",
-            "Logical Content Ventures",
-            "Les Films du Fleuve",
-            "The Veterans",
-            "Vixens",
-            "Casa Kafka Pictures",
-            "Pimienta Films"
-        ],
-        "production_countries": [
-            "Belgium",
-            "France",
-            "United States of America",
-            "Mexico"
-        ],
-        "tagline": "Passion has a new name.",
-        "homepage": "https://www.netflix.com/title/81901696",
-        "imdb_id": "tt20221436",
-        "poster_path": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg",
-        "main_cast": [
-            "Zoe Salda\u00f1a",
-            "Karla Sof\u00eda Gasc\u00f3n",
-            "Selena Gomez",
-            "Adriana Paz",
-            "Edgar Ram\u00edrez"
-        ],
-        "director": "Jacques Audiard",
-        "keywords": [
-            "based on novel or book",
-            "musical",
-            "lawyer",
-            "drug lord",
-            "crime lord",
-            "questioning",
-            "based on opera",
-            "criminal organization",
-            "mexican cartel",
-            "transgender",
-            "self-redemption",
-            "admiring",
-            "amused",
-            "audacious",
-            "enchant"
-        ]
-    },
-    {
-        "id": 661539,
-        "title": "A Complete Unknown",
-        "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
-        "release_date": "2024-12-18",
-        "popularity": 257.467,
-        "vote_average": 7.2,
-        "vote_count": 599,
-        "genres": [
-            "Drama",
-            "Music"
-        ],
-        "runtime": 140,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 65000000,
-        "revenue": 110280739,
-        "production_companies": [
-            "Veritas Entertainment Group",
-            "Range Media Partners",
-            "The Picture Company",
-            "Turnpike Films",
-            "White Water",
-            "Searchlight Pictures"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "The ballad of a true original.",
-        "homepage": "https://www.searchlightpictures.com/a-complete-unknown",
-        "imdb_id": "tt11563598",
-        "poster_path": "https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg",
-        "main_cast": [
-            "Timoth\u00e9e Chalamet",
-            "Edward Norton",
-            "Elle Fanning",
-            "Monica Barbaro",
-            "Scoot McNairy"
-        ],
-        "director": "James Mangold",
-        "keywords": [
-            "based on novel or book",
-            "musician",
-            "biography",
-            "1960s",
-            "disdainful"
-        ]
-    },
-    {
         "id": 974576,
         "title": "Conclave",
         "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church\u2019s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
@@ -886,56 +571,54 @@
         ]
     },
     {
-        "id": 558449,
-        "title": "Gladiator II",
-        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
-        "release_date": "2024-11-13",
-        "popularity": 729.732,
-        "vote_average": 6.766,
-        "vote_count": 2939,
+        "id": 661539,
+        "title": "A Complete Unknown",
+        "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
+        "release_date": "2024-12-18",
+        "popularity": 257.467,
+        "vote_average": 7.2,
+        "vote_count": 599,
         "genres": [
-            "Action",
-            "Adventure",
-            "Drama"
+            "Drama",
+            "Music"
         ],
-        "runtime": 148,
+        "runtime": 140,
         "original_language": "en",
         "spoken_languages": [
             "English"
         ],
         "status": "Released",
-        "budget": 310000000,
-        "revenue": 458718000,
+        "budget": 65000000,
+        "revenue": 110280739,
         "production_companies": [
-            "Paramount Pictures",
-            "Scott Free Productions",
-            "Lucy Fisher/Douglas Wick Productions"
+            "Veritas Entertainment Group",
+            "Range Media Partners",
+            "The Picture Company",
+            "Turnpike Films",
+            "White Water",
+            "Searchlight Pictures"
         ],
         "production_countries": [
             "United States of America"
         ],
-        "tagline": "Prepare to be entertained.",
-        "homepage": "https://www.gladiator.movie",
-        "imdb_id": "tt9218128",
-        "poster_path": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "tagline": "The ballad of a true original.",
+        "homepage": "https://www.searchlightpictures.com/a-complete-unknown",
+        "imdb_id": "tt11563598",
+        "poster_path": "https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg",
         "main_cast": [
-            "Paul Mescal",
-            "Denzel Washington",
-            "Pedro Pascal",
-            "Connie Nielsen",
-            "Joseph Quinn"
+            "Timoth\u00e9e Chalamet",
+            "Edward Norton",
+            "Elle Fanning",
+            "Monica Barbaro",
+            "Scoot McNairy"
         ],
-        "director": "Ridley Scott",
+        "director": "James Mangold",
         "keywords": [
-            "epic",
-            "gladiator",
-            "roman empire",
-            "ancient rome",
-            "sequel",
-            "evil tyrant",
-            "sword and sandal",
-            "sword fighting",
-            "second part"
+            "based on novel or book",
+            "musician",
+            "biography",
+            "1960s",
+            "disdainful"
         ]
     },
     {
@@ -991,6 +674,61 @@
             "found family",
             "lost",
             "ambivalent"
+        ]
+    },
+    {
+        "id": 823219,
+        "title": "Flow",
+        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "release_date": "2024-08-29",
+        "popularity": 885.787,
+        "vote_average": 8.305,
+        "vote_count": 1277,
+        "genres": [
+            "Animation",
+            "Fantasy",
+            "Adventure"
+        ],
+        "runtime": 85,
+        "original_language": "lv",
+        "spoken_languages": [
+            "No Language"
+        ],
+        "status": "Released",
+        "budget": 3700000,
+        "revenue": 17496624,
+        "production_companies": [
+            "Dream Well Studio",
+            "Sacrebleu Productions",
+            "Take Five",
+            "ARTE France Cin\u00e9ma",
+            "RTBF"
+        ],
+        "production_countries": [
+            "Belgium",
+            "France",
+            "Latvia"
+        ],
+        "tagline": "Share in the beauty of togetherness.",
+        "homepage": "https://flowthemovie.com/",
+        "imdb_id": "tt4772188",
+        "poster_path": "https://image.tmdb.org/t/p/w500/imKSymKBK7o73sajciEmndJoVkR.jpg",
+        "main_cast": [],
+        "director": "Gints Zilbalodis",
+        "keywords": [
+            "ocean",
+            "cat",
+            "boat",
+            "dystopia",
+            "dog",
+            "golden retriever",
+            "flood",
+            "lemur",
+            "bird",
+            "3d animation",
+            "fantasy",
+            "capybara",
+            "adventure"
         ]
     },
     {
@@ -1144,6 +882,76 @@
         ]
     },
     {
+        "id": 1084199,
+        "title": "Companion",
+        "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+        "release_date": "2025-01-22",
+        "popularity": 1222.243,
+        "vote_average": 7.1,
+        "vote_count": 619,
+        "genres": [
+            "Horror",
+            "Science Fiction",
+            "Thriller"
+        ],
+        "runtime": 97,
+        "original_language": "en",
+        "spoken_languages": [
+            "German",
+            "English",
+            "Spanish",
+            "Mandarin"
+        ],
+        "status": "Released",
+        "budget": 10000000,
+        "revenue": 34480388,
+        "production_companies": [
+            "BoulderLight Pictures",
+            "New Line Cinema",
+            "Vertigo Entertainment",
+            "Subconscious",
+            "Domain Entertainment",
+            "Warner Bros. Pictures"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "Find someone made just for you.",
+        "homepage": "https://www.findyourcompanion.com",
+        "imdb_id": "tt26584495",
+        "poster_path": "https://image.tmdb.org/t/p/w500/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+        "main_cast": [
+            "Sophie Thatcher",
+            "Jack Quaid",
+            "Lukas Gage",
+            "Megan Suri",
+            "Harvey Guill\u00e9n"
+        ],
+        "director": "Drew Hancock",
+        "keywords": [
+            "artificial intelligence (a.i.)",
+            "cabin",
+            "robot",
+            "boyfriend girlfriend relationship",
+            "robot girl",
+            "weekend getaway",
+            "human android relationship",
+            "toxic relationship",
+            "incel",
+            "toxic masculinity",
+            "abusive relationship",
+            "malfunctioning android",
+            "white privilege",
+            "sentient machine",
+            "intense",
+            "sinister",
+            "sci-fi horror",
+            "human vs machines",
+            "cybernetics",
+            "android horror"
+        ]
+    },
+    {
         "id": 1000837,
         "title": "I'm Still Here",
         "overview": "In 1971, military dictatorship in Brazil reaches its height. The Paiva family \u2014 Rubens, Eunice, and their five children \u2014 live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.",
@@ -1227,51 +1035,70 @@
         ]
     },
     {
-        "id": 1226406,
-        "title": "Love Hurts",
-        "overview": "A realtor is pulled back into the life he left behind after his former partner-in-crime resurfaces with an ominous message. With his crime-lord brother also on his trail, he must confront his past and the history he never fully buried.",
-        "release_date": "2025-02-06",
-        "popularity": 136.955,
-        "vote_average": 6.0,
-        "vote_count": 81,
+        "id": 933260,
+        "title": "The Substance",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "release_date": "2024-09-07",
+        "popularity": 970.749,
+        "vote_average": 7.1,
+        "vote_count": 4040,
         "genres": [
-            "Action",
-            "Comedy",
-            "Romance"
+            "Horror",
+            "Science Fiction"
         ],
-        "runtime": 83,
+        "runtime": 141,
         "original_language": "en",
         "spoken_languages": [
             "English"
         ],
         "status": "Released",
-        "budget": 18000000,
-        "revenue": 16958671,
+        "budget": 17500000,
+        "revenue": 76506196,
         "production_companies": [
-            "87North Productions",
-            "Universal Pictures",
-            "dentsu"
+            "Working Title Films",
+            "Blacksmith",
+            "Working Title Films"
         ],
         "production_countries": [
+            "France",
+            "United Kingdom",
             "United States of America"
         ],
-        "tagline": "You can't break up with your past.",
-        "homepage": "http://www.lovehurtsmovie.com",
-        "imdb_id": "tt30788842",
-        "poster_path": "https://image.tmdb.org/t/p/w500/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg",
+        "tagline": "Become a better you.",
+        "homepage": "https://mubi.com/en/thesubstance",
+        "imdb_id": "tt17526714",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg",
         "main_cast": [
-            "Ke Huy Quan",
-            "Ariana DeBose",
-            "Mustafa Shakir",
-            "Lio Tipton",
-            "Daniel Wu"
+            "Demi Moore",
+            "Margaret Qualley",
+            "Dennis Quaid",
+            "Edward Hamilton-Clark",
+            "Gore Abrams"
         ],
-        "director": "Jonathan Eusebio",
+        "director": "Coralie Fargeat",
         "keywords": [
-            "sibling relationship",
-            "hitman",
-            "action comedy",
-            "hidden past"
+            "new year's eve",
+            "capitalism",
+            "black market",
+            "identity",
+            "beauty",
+            "satire",
+            "aging",
+            "celebrity",
+            "female protagonist",
+            "los angeles, california",
+            "has been",
+            "aerobics",
+            "disfigurement",
+            "woman director",
+            "disturbed",
+            "beauty standards",
+            "insecure woman",
+            "toxic masculinity",
+            "drug",
+            "body horror",
+            "youth",
+            "actress"
         ]
     },
     {
@@ -1396,54 +1223,6 @@
             "admiring",
             "familiar",
             "sarcastic"
-        ]
-    },
-    {
-        "id": 1356039,
-        "title": "Counterattack",
-        "overview": "When a hostage rescue mission creates a new enemy, Capt. Guerrero and his elite soldiers must face an ambush by a criminal group.",
-        "release_date": "2025-02-27",
-        "popularity": 112.244,
-        "vote_average": 8.5,
-        "vote_count": 188,
-        "genres": [
-            "Action",
-            "Adventure",
-            "Thriller"
-        ],
-        "runtime": 85,
-        "original_language": "es",
-        "spoken_languages": [
-            "Spanish"
-        ],
-        "status": "Released",
-        "budget": 0,
-        "revenue": 0,
-        "production_companies": [
-            "Draco Films"
-        ],
-        "production_countries": [
-            "Mexico"
-        ],
-        "tagline": "",
-        "homepage": "https://www.netflix.com/title/81936018",
-        "imdb_id": "tt23648788",
-        "poster_path": "https://image.tmdb.org/t/p/w500/lI2uFlSEkwXKljqiry7coaJ6wIS.jpg",
-        "main_cast": [
-            "Luis Alberti",
-            "No\u00e9 Hern\u00e1ndez",
-            "Leonardo Alonso",
-            "Luis Curiel",
-            "Guillermo Nava"
-        ],
-        "director": "Chava Cartas",
-        "keywords": [
-            "mexico",
-            "usa\u2013mexico border",
-            "special forces",
-            "military",
-            "narcos",
-            "murcielagos"
         ]
     },
     {
@@ -1621,6 +1400,78 @@
             "political thriller",
             "treaty",
             "international relations"
+        ]
+    },
+    {
+        "id": 974950,
+        "title": "Emilia P\u00e9rez",
+        "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
+        "release_date": "2024-08-21",
+        "popularity": 393.985,
+        "vote_average": 6.8,
+        "vote_count": 1387,
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "runtime": 132,
+        "original_language": "fr",
+        "spoken_languages": [
+            "Spanish",
+            "English"
+        ],
+        "status": "Released",
+        "budget": 26000000,
+        "revenue": 15366077,
+        "production_companies": [
+            "Why Not Productions",
+            "Path\u00e9",
+            "France 2 Cin\u00e9ma",
+            "Page 114",
+            "Saint Laurent Productions",
+            "Saint Laurent",
+            "Library Pictures International",
+            "Logical Content Ventures",
+            "Les Films du Fleuve",
+            "The Veterans",
+            "Vixens",
+            "Casa Kafka Pictures",
+            "Pimienta Films"
+        ],
+        "production_countries": [
+            "Belgium",
+            "France",
+            "United States of America",
+            "Mexico"
+        ],
+        "tagline": "Passion has a new name.",
+        "homepage": "https://www.netflix.com/title/81901696",
+        "imdb_id": "tt20221436",
+        "poster_path": "https://image.tmdb.org/t/p/w500/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg",
+        "main_cast": [
+            "Zoe Salda\u00f1a",
+            "Karla Sof\u00eda Gasc\u00f3n",
+            "Selena Gomez",
+            "Adriana Paz",
+            "Edgar Ram\u00edrez"
+        ],
+        "director": "Jacques Audiard",
+        "keywords": [
+            "based on novel or book",
+            "musical",
+            "lawyer",
+            "drug lord",
+            "crime lord",
+            "questioning",
+            "based on opera",
+            "criminal organization",
+            "mexican cartel",
+            "transgender",
+            "self-redemption",
+            "admiring",
+            "amused",
+            "audacious",
+            "enchant"
         ]
     },
     {
@@ -1941,56 +1792,51 @@
         ]
     },
     {
-        "id": 1241982,
-        "title": "Moana 2",
-        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
-        "release_date": "2024-11-21",
-        "popularity": 1861.245,
-        "vote_average": 7.1,
-        "vote_count": 1764,
+        "id": 1226406,
+        "title": "Love Hurts",
+        "overview": "A realtor is pulled back into the life he left behind after his former partner-in-crime resurfaces with an ominous message. With his crime-lord brother also on his trail, he must confront his past and the history he never fully buried.",
+        "release_date": "2025-02-06",
+        "popularity": 136.955,
+        "vote_average": 6.0,
+        "vote_count": 81,
         "genres": [
-            "Animation",
-            "Adventure",
-            "Family",
-            "Comedy"
+            "Action",
+            "Comedy",
+            "Romance"
         ],
-        "runtime": 99,
+        "runtime": 83,
         "original_language": "en",
         "spoken_languages": [
-            "English",
-            "Italian"
+            "English"
         ],
         "status": "Released",
-        "budget": 150000000,
-        "revenue": 1044396565,
+        "budget": 18000000,
+        "revenue": 16958671,
         "production_companies": [
-            "Walt Disney Pictures",
-            "Walt Disney Animation Studios",
-            "Walt Disney Animation Studios"
+            "87North Productions",
+            "Universal Pictures",
+            "dentsu"
         ],
         "production_countries": [
-            "Canada",
             "United States of America"
         ],
-        "tagline": "The ocean is calling them back.",
-        "homepage": "https://movies.disney.com/moana-2",
-        "imdb_id": "tt13622970",
-        "poster_path": "https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+        "tagline": "You can't break up with your past.",
+        "homepage": "http://www.lovehurtsmovie.com",
+        "imdb_id": "tt30788842",
+        "poster_path": "https://image.tmdb.org/t/p/w500/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg",
         "main_cast": [
-            "Auli\u02bbi Cravalho",
-            "Dwayne Johnson",
-            "Hual\u0101lai Chung",
-            "Rose Matafeo",
-            "David Fane"
+            "Ke Huy Quan",
+            "Ariana DeBose",
+            "Mustafa Shakir",
+            "Lio Tipton",
+            "Daniel Wu"
         ],
-        "director": "David G. Derrick Jr.",
+        "director": "Jonathan Eusebio",
         "keywords": [
-            "sea",
-            "ocean",
-            "villain",
-            "musical",
-            "sequel",
-            "duringcreditsstinger"
+            "sibling relationship",
+            "hitman",
+            "action comedy",
+            "hidden past"
         ]
     },
     {
@@ -2221,6 +2067,59 @@
         ]
     },
     {
+        "id": 558449,
+        "title": "Gladiator II",
+        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "release_date": "2024-11-13",
+        "popularity": 729.732,
+        "vote_average": 6.766,
+        "vote_count": 2939,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "runtime": 148,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 310000000,
+        "revenue": 458718000,
+        "production_companies": [
+            "Paramount Pictures",
+            "Scott Free Productions",
+            "Lucy Fisher/Douglas Wick Productions"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "Prepare to be entertained.",
+        "homepage": "https://www.gladiator.movie",
+        "imdb_id": "tt9218128",
+        "poster_path": "https://image.tmdb.org/t/p/w500/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+        "main_cast": [
+            "Paul Mescal",
+            "Denzel Washington",
+            "Pedro Pascal",
+            "Connie Nielsen",
+            "Joseph Quinn"
+        ],
+        "director": "Ridley Scott",
+        "keywords": [
+            "epic",
+            "gladiator",
+            "roman empire",
+            "ancient rome",
+            "sequel",
+            "evil tyrant",
+            "sword and sandal",
+            "sword fighting",
+            "second part"
+        ]
+    },
+    {
         "id": 1124620,
         "title": "The Monkey",
         "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
@@ -2298,63 +2197,51 @@
         ]
     },
     {
-        "id": 11,
-        "title": "Star Wars",
-        "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
-        "release_date": "1977-05-25",
-        "popularity": 107.66,
-        "vote_average": 8.202,
-        "vote_count": 20924,
+        "id": 1356039,
+        "title": "Counterattack",
+        "overview": "When a hostage rescue mission creates a new enemy, Capt. Guerrero and his elite soldiers must face an ambush by a criminal group.",
+        "release_date": "2025-02-27",
+        "popularity": 112.244,
+        "vote_average": 8.5,
+        "vote_count": 188,
         "genres": [
-            "Adventure",
             "Action",
-            "Science Fiction"
+            "Adventure",
+            "Thriller"
         ],
-        "runtime": 121,
-        "original_language": "en",
+        "runtime": 85,
+        "original_language": "es",
         "spoken_languages": [
-            "English"
+            "Spanish"
         ],
         "status": "Released",
-        "budget": 11000000,
-        "revenue": 775398007,
+        "budget": 0,
+        "revenue": 0,
         "production_companies": [
-            "Lucasfilm Ltd.",
-            "20th Century Fox"
+            "Draco Films"
         ],
         "production_countries": [
-            "United States of America"
+            "Mexico"
         ],
-        "tagline": "A long time ago in a galaxy far, far away...",
-        "homepage": "http://www.starwars.com/films/star-wars-episode-iv-a-new-hope",
-        "imdb_id": "tt0076759",
-        "poster_path": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+        "tagline": "",
+        "homepage": "https://www.netflix.com/title/81936018",
+        "imdb_id": "tt23648788",
+        "poster_path": "https://image.tmdb.org/t/p/w500/lI2uFlSEkwXKljqiry7coaJ6wIS.jpg",
         "main_cast": [
-            "Mark Hamill",
-            "Harrison Ford",
-            "Carrie Fisher",
-            "Peter Cushing",
-            "Alec Guinness"
+            "Luis Alberti",
+            "No\u00e9 Hern\u00e1ndez",
+            "Leonardo Alonso",
+            "Luis Curiel",
+            "Guillermo Nava"
         ],
-        "director": "George Lucas",
+        "director": "Chava Cartas",
         "keywords": [
-            "empire",
-            "galaxy",
-            "rebellion",
-            "android",
-            "hermit",
-            "smuggling (contraband)",
-            "freedom",
-            "rebel",
-            "rescue mission",
-            "space",
-            "planet",
-            "desert",
-            "super power",
-            "oppression",
-            "space opera",
-            "wizard",
-            "totalitarianism"
+            "mexico",
+            "usa\u2013mexico border",
+            "special forces",
+            "military",
+            "narcos",
+            "murcielagos"
         ]
     },
     {
@@ -2412,173 +2299,193 @@
         ]
     },
     {
-        "id": 1187417,
-        "title": "Rumours",
-        "overview": "En route to the annual G7 summit, the seven leaders of the world\u2019s wealthiest liberal democracies get lost in the woods and face increasing peril while attempting to draft a provisional statement regarding a global crisis.",
-        "release_date": "2024-10-18",
-        "popularity": 24.826,
-        "vote_average": 4.9,
-        "vote_count": 53,
-        "genres": [
-            "Comedy",
-            "Horror"
-        ],
-        "runtime": 104,
-        "original_language": "en",
-        "spoken_languages": [
-            "French",
-            "English",
-            "Swedish"
-        ],
-        "status": "Released",
-        "budget": 0,
-        "revenue": 450517,
-        "production_companies": [
-            "Buffalo Gal Pictures",
-            "Square Peg",
-            "Maze Pictures",
-            "ZDF/Arte",
-            "Orogen Entertainment",
-            "Thin Stuff Productions",
-            "Walking Down Broadway",
-            "Laokoon Filmgroup",
-            "Ludascripts",
-            "Aloe Entertainment"
-        ],
-        "production_countries": [
-            "Canada",
-            "Germany",
-            "Hungary",
-            "United States of America"
-        ],
-        "tagline": "The Official Motion Picture of the G7.",
-        "homepage": "",
-        "imdb_id": "tt30841606",
-        "poster_path": "https://image.tmdb.org/t/p/w500/lAjLzQDyUXxCH4tOBxkRYDbBpY.jpg",
-        "main_cast": [
-            "Cate Blanchett",
-            "Roy Dupuis",
-            "Nikki Amuka-Bird",
-            "Charles Dance",
-            "Takehiro Hira"
-        ],
-        "director": "Guy Maddin",
-        "keywords": [
-            "politician",
-            "satire",
-            "surrealism",
-            "woods",
-            "apocalypse",
-            "zombie",
-            "zombie apocalypse",
-            "horror comedy",
-            "g7",
-            "global crisis"
-        ]
-    },
-    {
-        "id": 774370,
-        "title": "Dog Man",
-        "overview": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve\u2014and fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.",
-        "release_date": "2025-01-24",
-        "popularity": 722.633,
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "release_date": "2024-12-19",
+        "popularity": 1976.892,
         "vote_average": 7.7,
-        "vote_count": 134,
+        "vote_count": 2048,
         "genres": [
-            "Family",
-            "Animation",
-            "Comedy",
-            "Action"
-        ],
-        "runtime": 89,
-        "original_language": "en",
-        "spoken_languages": [],
-        "status": "Released",
-        "budget": 40000000,
-        "revenue": 88192145,
-        "production_companies": [
-            "DreamWorks Animation"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "Part dog. Part man. All hero.",
-        "homepage": "https://www.dreamworksdogman.com",
-        "imdb_id": "tt10954718",
-        "poster_path": "https://image.tmdb.org/t/p/w500/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg",
-        "main_cast": [
-            "Peter Hastings",
-            "Pete Davidson",
-            "Lil Rel Howery",
-            "Isla Fisher",
-            "Lucas Hopkins Calderon"
-        ],
-        "director": "Peter Hastings",
-        "keywords": [
-            "villain",
-            "based on children's book",
-            "police dog",
-            "human animal hybrid"
-        ]
-    },
-    {
-        "id": 11,
-        "title": "Star Wars",
-        "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
-        "release_date": "1977-05-25",
-        "popularity": 107.66,
-        "vote_average": 8.202,
-        "vote_count": 20924,
-        "genres": [
-            "Adventure",
             "Action",
-            "Science Fiction"
+            "Science Fiction",
+            "Comedy",
+            "Family"
         ],
-        "runtime": 121,
+        "runtime": 110,
         "original_language": "en",
         "spoken_languages": [
             "English"
         ],
         "status": "Released",
-        "budget": 11000000,
-        "revenue": 775398007,
+        "budget": 122000000,
+        "revenue": 472518457,
         "production_companies": [
-            "Lucasfilm Ltd.",
-            "20th Century Fox"
+            "Paramount Pictures",
+            "Original Film",
+            "Marza Animation Planet",
+            "SEGA",
+            "Blur Studio",
+            "SEGA of America"
         ],
         "production_countries": [
+            "United States of America",
+            "Japan"
+        ],
+        "tagline": "New adventure. New rival.",
+        "homepage": "https://www.sonicthehedgehogmovie.com",
+        "imdb_id": "tt18259086",
+        "poster_path": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "main_cast": [
+            "Jim Carrey",
+            "Ben Schwartz",
+            "Keanu Reeves",
+            "Idris Elba",
+            "Colleen O'Shaughnessey"
+        ],
+        "director": "Jeff Fowler",
+        "keywords": [
+            "moon",
+            "sequel",
+            "based on video game",
+            "burlesque",
+            "dual role",
+            "aftercreditsstinger",
+            "duringcreditsstinger",
+            "hedgehog",
+            "live action and animation",
+            "grandfather grandson relationship",
+            "animal human friendship",
+            "anthropomorphic animal",
+            "loss and grief",
+            "amused",
+            "clich\u00e9",
+            "complicated",
+            "sceptical",
+            "sonic cinematic universe",
+            "sonic adventure 2"
+        ]
+    },
+    {
+        "id": 516729,
+        "title": "Paddington in Peru",
+        "overview": "Paddington travels to Peru to visit his beloved Aunt Lucy, who now resides at the Home for Retired Bears. With the Brown Family in tow, a thrilling adventure ensues when a mystery plunges them into an unexpected journey through the Amazon rainforest and up to the mountain peaks of Peru.",
+        "release_date": "2024-11-08",
+        "popularity": 425.621,
+        "vote_average": 6.824,
+        "vote_count": 185,
+        "genres": [
+            "Family",
+            "Adventure",
+            "Comedy"
+        ],
+        "runtime": 106,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "Spanish"
+        ],
+        "status": "Released",
+        "budget": 90000000,
+        "revenue": 164359000,
+        "production_companies": [
+            "Marmalade Pictures",
+            "Kinoshita Group",
+            "StudioCanal",
+            "Stage 6 Films"
+        ],
+        "production_countries": [
+            "United Kingdom",
+            "France",
+            "United States of America",
+            "Japan"
+        ],
+        "tagline": "A little bear goes a long way.",
+        "homepage": "https://www.paddingtoninperu.co.uk",
+        "imdb_id": "tt5822536",
+        "poster_path": "https://image.tmdb.org/t/p/w500/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
+        "main_cast": [
+            "Ben Whishaw",
+            "Hugh Bonneville",
+            "Emily Mortimer",
+            "Samuel Joslin",
+            "Madeleine Harris"
+        ],
+        "director": "Dougal Wilson",
+        "keywords": [
+            "sequel",
+            "bear",
+            "based on children's book",
+            "aunt nephew relationship",
+            "united kingdom",
+            "aftercreditsstinger",
+            "duringcreditsstinger",
+            "live action and animation",
+            "children's adventure",
+            "per\u00fa",
+            "anthropomorphic animal",
+            "family comedy"
+        ]
+    },
+    {
+        "id": 671,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard\u2014with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths\u2014and about the villain who's to blame.",
+        "release_date": "2001-11-16",
+        "popularity": 175.072,
+        "vote_average": 7.903,
+        "vote_count": 27950,
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "runtime": 152,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 125000000,
+        "revenue": 976475550,
+        "production_companies": [
+            "Warner Bros. Pictures",
+            "Heyday Films",
+            "1492 Pictures"
+        ],
+        "production_countries": [
+            "United Kingdom",
             "United States of America"
         ],
-        "tagline": "A long time ago in a galaxy far, far away...",
-        "homepage": "http://www.starwars.com/films/star-wars-episode-iv-a-new-hope",
-        "imdb_id": "tt0076759",
-        "poster_path": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+        "tagline": "Let the magic begin.",
+        "homepage": "https://www.warnerbros.com/movies/harry-potter-and-sorcerers-stone/",
+        "imdb_id": "tt0241527",
+        "poster_path": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
         "main_cast": [
-            "Mark Hamill",
-            "Harrison Ford",
-            "Carrie Fisher",
-            "Peter Cushing",
-            "Alec Guinness"
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Emma Watson",
+            "Richard Harris",
+            "Tom Felton"
         ],
-        "director": "George Lucas",
+        "director": "Chris Columbus",
         "keywords": [
-            "empire",
-            "galaxy",
-            "rebellion",
-            "android",
-            "hermit",
-            "smuggling (contraband)",
-            "freedom",
-            "rebel",
-            "rescue mission",
-            "space",
-            "planet",
-            "desert",
-            "super power",
-            "oppression",
-            "space opera",
+            "witch",
+            "school friend",
+            "friendship",
+            "london, england",
+            "based on novel or book",
+            "magic",
+            "boarding school",
+            "child hero",
+            "school of witchcraft",
+            "chosen one",
+            "school",
+            "ghost",
+            "fantasy world",
             "wizard",
-            "totalitarianism"
+            "based on young adult novel",
+            "owl",
+            "joyous"
         ]
     },
     {
@@ -2762,6 +2669,74 @@
             "farcical",
             "epic fantasy",
             "horsemen"
+        ]
+    },
+    {
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "release_date": "2024-12-19",
+        "popularity": 1976.892,
+        "vote_average": 7.7,
+        "vote_count": 2048,
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Comedy",
+            "Family"
+        ],
+        "runtime": 110,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 122000000,
+        "revenue": 472518457,
+        "production_companies": [
+            "Paramount Pictures",
+            "Original Film",
+            "Marza Animation Planet",
+            "SEGA",
+            "Blur Studio",
+            "SEGA of America"
+        ],
+        "production_countries": [
+            "United States of America",
+            "Japan"
+        ],
+        "tagline": "New adventure. New rival.",
+        "homepage": "https://www.sonicthehedgehogmovie.com",
+        "imdb_id": "tt18259086",
+        "poster_path": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "main_cast": [
+            "Jim Carrey",
+            "Ben Schwartz",
+            "Keanu Reeves",
+            "Idris Elba",
+            "Colleen O'Shaughnessey"
+        ],
+        "director": "Jeff Fowler",
+        "keywords": [
+            "moon",
+            "sequel",
+            "based on video game",
+            "burlesque",
+            "dual role",
+            "aftercreditsstinger",
+            "duringcreditsstinger",
+            "hedgehog",
+            "live action and animation",
+            "grandfather grandson relationship",
+            "animal human friendship",
+            "anthropomorphic animal",
+            "loss and grief",
+            "amused",
+            "clich\u00e9",
+            "complicated",
+            "sceptical",
+            "sonic cinematic universe",
+            "sonic adventure 2"
         ]
     },
     {
@@ -3169,6 +3144,62 @@
         ]
     },
     {
+        "id": 1224993,
+        "title": "Dark Nuns",
+        "overview": "Desperation drives two nuns to perform an exorcism no nun should attempt. With a possessed child at the mercy of evil and the opposition of the Catholic Church, they take on the dangerous forbidden rituals themselves, putting their immortal souls in grave danger. They must confront the terrifying cost of their sacrilegious actions, but one goal remains: the boy must be saved at all costs.",
+        "release_date": "2025-01-24",
+        "popularity": 25.781,
+        "vote_average": 5.6,
+        "vote_count": 9,
+        "genres": [
+            "Thriller",
+            "Horror",
+            "Mystery",
+            "Drama"
+        ],
+        "runtime": 115,
+        "original_language": "ko",
+        "spoken_languages": [
+            "Korean",
+            "Latin",
+            "Italian"
+        ],
+        "status": "Released",
+        "budget": 0,
+        "revenue": 0,
+        "production_companies": [
+            "Zip Cinema"
+        ],
+        "production_countries": [
+            "South Korea"
+        ],
+        "tagline": "We're ready to face the forbidden dark",
+        "homepage": "https://www.bricklink.com/v3/studio/design.page?idModel=643509",
+        "imdb_id": "tt32491690",
+        "poster_path": "https://image.tmdb.org/t/p/w500/2Abt2GgscAGtGAXTrhH44qPhugI.jpg",
+        "main_cast": [
+            "Song Hye-kyo",
+            "Jeon Yeo-been",
+            "Lee Jin-uk",
+            "Moon Woo-jin",
+            "Huh Joon-ho"
+        ],
+        "director": "Kwon Hyeok-jae",
+        "keywords": [
+            "nun",
+            "ritual",
+            "supernatural",
+            "exorcism",
+            "church",
+            "catholic",
+            "occult",
+            "dreary",
+            "suspense",
+            "spirit possession",
+            "apathetic"
+        ]
+    },
+    {
         "id": 1255795,
         "title": "Putin",
         "overview": "A portrait of a formidable political figure, unraveling the contrasting facets of an iron-fisted tyrant and a man haunted by fear.",
@@ -3342,118 +3373,6 @@
         ]
     },
     {
-        "id": 1224993,
-        "title": "Dark Nuns",
-        "overview": "Desperation drives two nuns to perform an exorcism no nun should attempt. With a possessed child at the mercy of evil and the opposition of the Catholic Church, they take on the dangerous forbidden rituals themselves, putting their immortal souls in grave danger. They must confront the terrifying cost of their sacrilegious actions, but one goal remains: the boy must be saved at all costs.",
-        "release_date": "2025-01-24",
-        "popularity": 25.781,
-        "vote_average": 5.6,
-        "vote_count": 9,
-        "genres": [
-            "Thriller",
-            "Horror",
-            "Mystery",
-            "Drama"
-        ],
-        "runtime": 115,
-        "original_language": "ko",
-        "spoken_languages": [
-            "Korean",
-            "Latin",
-            "Italian"
-        ],
-        "status": "Released",
-        "budget": 0,
-        "revenue": 0,
-        "production_companies": [
-            "Zip Cinema"
-        ],
-        "production_countries": [
-            "South Korea"
-        ],
-        "tagline": "We're ready to face the forbidden dark",
-        "homepage": "https://www.bricklink.com/v3/studio/design.page?idModel=643509",
-        "imdb_id": "tt32491690",
-        "poster_path": "https://image.tmdb.org/t/p/w500/2Abt2GgscAGtGAXTrhH44qPhugI.jpg",
-        "main_cast": [
-            "Song Hye-kyo",
-            "Jeon Yeo-been",
-            "Lee Jin-uk",
-            "Moon Woo-jin",
-            "Huh Joon-ho"
-        ],
-        "director": "Kwon Hyeok-jae",
-        "keywords": [
-            "nun",
-            "ritual",
-            "supernatural",
-            "exorcism",
-            "church",
-            "catholic",
-            "occult",
-            "dreary",
-            "suspense",
-            "spirit possession",
-            "apathetic"
-        ]
-    },
-    {
-        "id": 912649,
-        "title": "Venom: The Last Dance",
-        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
-        "release_date": "2024-10-22",
-        "popularity": 820.402,
-        "vote_average": 6.79,
-        "vote_count": 2955,
-        "genres": [
-            "Action",
-            "Science Fiction",
-            "Adventure"
-        ],
-        "runtime": 109,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 120000000,
-        "revenue": 478103649,
-        "production_companies": [
-            "Columbia Pictures",
-            "Pascal Pictures",
-            "Matt Tolmach Productions",
-            "Hutch Parker Entertainment",
-            "Arad Productions"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "'Til death do they part.",
-        "homepage": "https://venom.movie",
-        "imdb_id": "tt16366836",
-        "poster_path": "https://image.tmdb.org/t/p/w500/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
-        "main_cast": [
-            "Tom Hardy",
-            "Chiwetel Ejiofor",
-            "Juno Temple",
-            "Rhys Ifans",
-            "Stephen Graham"
-        ],
-        "director": "Kelly Marcel",
-        "keywords": [
-            "hero",
-            "superhero",
-            "anti hero",
-            "villain",
-            "alien life-form",
-            "based on comic",
-            "sequel",
-            "aftercreditsstinger",
-            "woman director",
-            "modest"
-        ]
-    },
-    {
         "id": 533535,
         "title": "Deadpool & Wolverine",
         "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
@@ -3511,359 +3430,39 @@
         ]
     },
     {
-        "id": 27205,
-        "title": "Inception",
-        "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
-        "release_date": "2010-07-15",
-        "popularity": 162.438,
-        "vote_average": 8.369,
-        "vote_count": 37122,
-        "genres": [
-            "Action",
-            "Science Fiction",
-            "Adventure"
-        ],
-        "runtime": 148,
-        "original_language": "en",
-        "spoken_languages": [
-            "English",
-            "French",
-            "Japanese",
-            "Swahili"
-        ],
-        "status": "Released",
-        "budget": 160000000,
-        "revenue": 839030630,
-        "production_companies": [
-            "Legendary Pictures",
-            "Syncopy",
-            "Warner Bros. Pictures"
-        ],
-        "production_countries": [
-            "United Kingdom",
-            "United States of America"
-        ],
-        "tagline": "Your mind is the scene of the crime.",
-        "homepage": "https://www.warnerbros.com/movies/inception",
-        "imdb_id": "tt1375666",
-        "poster_path": "https://image.tmdb.org/t/p/w500/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
-        "main_cast": [
-            "Leonardo DiCaprio",
-            "Joseph Gordon-Levitt",
-            "Ken Watanabe",
-            "Tom Hardy",
-            "Elliot Page"
-        ],
-        "director": "Christopher Nolan",
-        "keywords": [
-            "rescue",
-            "mission",
-            "dreams",
-            "airplane",
-            "paris, france",
-            "virtual reality",
-            "kidnapping",
-            "philosophy",
-            "spy",
-            "allegory",
-            "manipulation",
-            "car crash",
-            "heist",
-            "memory",
-            "architecture",
-            "los angeles, california",
-            "dream world",
-            "speculative",
-            "subconscious",
-            "suspenseful",
-            "awestruck",
-            "powerful"
-        ]
-    },
-    {
-        "id": 238,
-        "title": "The Godfather",
-        "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
-        "release_date": "1972-03-14",
-        "popularity": 177.805,
-        "vote_average": 8.7,
-        "vote_count": 21111,
-        "genres": [
-            "Drama",
-            "Crime"
-        ],
-        "runtime": 175,
-        "original_language": "en",
-        "spoken_languages": [
-            "English",
-            "Italian",
-            "Latin"
-        ],
-        "status": "Released",
-        "budget": 6000000,
-        "revenue": 245066411,
-        "production_companies": [
-            "Paramount Pictures",
-            "Alfran Productions"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "An offer you can't refuse.",
-        "homepage": "http://www.thegodfather.com/",
-        "imdb_id": "tt0068646",
-        "poster_path": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-        "main_cast": [
-            "Marlon Brando",
-            "Al Pacino",
-            "James Caan",
-            "Robert Duvall",
-            "Richard S. Castellano"
-        ],
-        "director": "Francis Ford Coppola",
-        "keywords": [
-            "based on novel or book",
-            "loss of loved one",
-            "love at first sight",
-            "italy",
-            "symbolism",
-            "patriarch",
-            "europe",
-            "organized crime",
-            "mafia",
-            "religion",
-            "lawyer",
-            "revenge motive",
-            "crime family",
-            "sicilian mafia",
-            "religious hypocrisy",
-            "macabre",
-            "gun violence",
-            "rise to power",
-            "dead horse",
-            "gang violence",
-            "aggressive",
-            "1940s",
-            "1950s",
-            "mafia war",
-            "vindictive",
-            "suspenseful",
-            "tense",
-            "admiring",
-            "audacious",
-            "commanding"
-        ]
-    },
-    {
-        "id": 1280672,
-        "title": "One of Them Days",
-        "overview": "Best friends and roommates Dreux and Alyssa are about to have One of Them Days. When they discover Alyssa\u2019s boyfriend has blown their rent money, the duo finds themselves going to extremes in a comical race against the clock to avoid eviction and keep their friendship intact.",
-        "release_date": "2025-01-16",
-        "popularity": 192.629,
-        "vote_average": 6.885,
-        "vote_count": 61,
-        "genres": [
-            "Comedy"
-        ],
-        "runtime": 97,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 14000000,
-        "revenue": 44081884,
-        "production_companies": [
-            "TriStar Pictures",
-            "HOORAE",
-            "MACRO",
-            "ColorCreative"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "",
-        "homepage": "https://oneofthemdays.movie",
-        "imdb_id": "tt32221196",
-        "poster_path": "https://image.tmdb.org/t/p/w500/hMJRFQarUL73K6FIbhvO4A8uEvm.jpg",
-        "main_cast": [
-            "Keke Palmer",
-            "SZA",
-            "Joshua David Neal",
-            "Aziza Scott",
-            "Patrick Cage"
-        ],
-        "director": "Lawrence Lamont",
-        "keywords": [
-            "roommates",
-            "female friendship",
-            "rent",
-            "best friends",
-            "hilarious",
-            "farcical",
-            "vibrant"
-        ]
-    },
-    {
-        "id": 98,
-        "title": "Gladiator",
-        "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
-        "release_date": "2000-05-04",
-        "popularity": 130.753,
-        "vote_average": 8.218,
-        "vote_count": 19417,
-        "genres": [
-            "Action",
-            "Drama",
-            "Adventure"
-        ],
-        "runtime": 155,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 103000000,
-        "revenue": 465361176,
-        "production_companies": [
-            "Universal Pictures",
-            "Scott Free Productions",
-            "Red Wagon Entertainment",
-            "Mill Film",
-            "DreamWorks Pictures"
-        ],
-        "production_countries": [
-            "United Kingdom",
-            "United States of America"
-        ],
-        "tagline": "What we do in life echoes in eternity.",
-        "homepage": "",
-        "imdb_id": "tt0172495",
-        "poster_path": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
-        "main_cast": [
-            "Russell Crowe",
-            "Joaquin Phoenix",
-            "Connie Nielsen",
-            "Oliver Reed",
-            "Richard Harris"
-        ],
-        "director": "Ridley Scott",
-        "keywords": [
-            "epic",
-            "gladiator",
-            "rome, italy",
-            "arena",
-            "senate",
-            "roman empire",
-            "parent child relationship",
-            "emperor",
-            "slavery",
-            "ancient rome",
-            "revenge",
-            "battlefield",
-            "slave auction",
-            "historical fiction",
-            "ancient world",
-            "combat",
-            "chariot",
-            "philosopher",
-            "barbarian horde",
-            "2nd century",
-            "successor",
-            "commodus",
-            "maximus",
-            "serene",
-            "defiant"
-        ]
-    },
-    {
-        "id": 329,
-        "title": "Jurassic Park",
-        "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
-        "release_date": "1993-06-11",
-        "popularity": 56.494,
-        "vote_average": 8.0,
-        "vote_count": 16564,
-        "genres": [
-            "Adventure",
-            "Science Fiction"
-        ],
-        "runtime": 127,
-        "original_language": "en",
-        "spoken_languages": [
-            "English",
-            "Spanish"
-        ],
-        "status": "Released",
-        "budget": 63000000,
-        "revenue": 920100000,
-        "production_companies": [
-            "Universal Pictures",
-            "Amblin Entertainment"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "An adventure 65 million years in the making.",
-        "homepage": "http://www.jurassicpark.com/",
-        "imdb_id": "tt0107290",
-        "poster_path": "https://image.tmdb.org/t/p/w500/fjTU1Bgh3KJu4aatZil3sofR2zC.jpg",
-        "main_cast": [
-            "Sam Neill",
-            "Laura Dern",
-            "Jeff Goldblum",
-            "Richard Attenborough",
-            "Bob Peck"
-        ],
-        "director": "Steven Spielberg",
-        "keywords": [
-            "exotic island",
-            "island",
-            "triceratops",
-            "brontosaurus",
-            "electric fence",
-            "dna",
-            "tyrannosaurus rex",
-            "paleontology",
-            "dinosaur",
-            "amusement park",
-            "theme park"
-        ]
-    },
-    {
-        "id": 615453,
-        "title": "Ne Zha",
-        "overview": "The Primus extracts a Mixed Yuan Bead into a Spirit Seed and a Demon Pill. The Spirit Seed can be reincarnated as a human to help King Zhou establish a new dynasty, whereas the Demon Pill will create a devil threatening humanity. Ne Zha is the one who is destined to be the hero, but instead he becomes a devil incarnate, because the Spirit Seed and a Demon Pill are switched.",
-        "release_date": "2019-07-26",
-        "popularity": 109.563,
-        "vote_average": 7.9,
-        "vote_count": 464,
+        "id": 980477,
+        "title": "Ne Zha 2",
+        "overview": "After the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies would soon be completely destroyed. Tai Yi Zhen Ren plans to use the Seven Colored Lotus to reshape their physical forms. But in the process of reshaping, they encounter numerous difficulties. Where will the fate of Ne Zha and Ao Bing go?",
+        "release_date": "2025-01-29",
+        "popularity": 226.098,
+        "vote_average": 7.8,
+        "vote_count": 112,
         "genres": [
             "Animation",
             "Fantasy",
             "Adventure"
         ],
-        "runtime": 110,
+        "runtime": 144,
         "original_language": "zh",
         "spoken_languages": [
             "Mandarin"
         ],
         "status": "Released",
-        "budget": 22000000,
-        "revenue": 742718496,
+        "budget": 80000000,
+        "revenue": 1990000000,
         "production_companies": [
+            "Chengdu Coco Cartoon",
             "Beijing Enlight Pictures",
-            "Horgos Coloroom Pictures",
-            "October Media",
-            "Chengdu Coco Cartoon"
+            "Chengdu Enlight Animation",
+            "Coloroom Pictures"
         ],
         "production_countries": [
             "China"
         ],
         "tagline": "",
-        "homepage": "https://www.wellgousa.com/films/ne-zha",
-        "imdb_id": "tt10627720",
-        "poster_path": "https://image.tmdb.org/t/p/w500/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg",
+        "homepage": "",
+        "imdb_id": "tt34956443",
+        "poster_path": "https://image.tmdb.org/t/p/w500/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
         "main_cast": [
             "L\u00fc Yanting",
             "Joseph",
@@ -3873,58 +3472,149 @@
         ],
         "director": "Yang Yu",
         "keywords": [
-            "magic",
-            "dragon",
-            "demon",
             "based on myths, legends or folklore",
             "3d animation",
             "nezha",
+            "chinese mythology",
             "donghua",
-            "amused",
             "na tra"
         ]
     },
     {
-        "id": 978796,
-        "title": "Bagman",
-        "overview": "For centuries and across cultures, parents have warned their children of the legendary Bagman, who snatches innocent children and stuffs them into his vile, rotting bag\u2014never to be seen again. Patrick McKee narrowly escaped such an encounter as a boy, which left him with lasting scars throughout his adulthood. Now, Patrick\u2019s childhood tormentor has returned, threatening the safety of his wife Karina and son Jake.",
-        "release_date": "2024-09-20",
-        "popularity": 179.579,
-        "vote_average": 6.2,
-        "vote_count": 254,
+        "id": 19995,
+        "title": "Avatar",
+        "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+        "release_date": "2009-12-15",
+        "popularity": 131.292,
+        "vote_average": 7.587,
+        "vote_count": 31969,
         "genres": [
-            "Horror",
-            "Thriller"
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Science Fiction"
         ],
-        "runtime": 92,
+        "runtime": 162,
         "original_language": "en",
         "spoken_languages": [
-            "English"
+            "English",
+            "Spanish"
         ],
         "status": "Released",
-        "budget": 14500000,
-        "revenue": 0,
+        "budget": 237000000,
+        "revenue": 2923706026,
         "production_companies": [
-            "Lionsgate",
-            "Temple Hill Entertainment",
-            "Media Capital Technologies"
+            "Dune Entertainment",
+            "Lightstorm Entertainment",
+            "20th Century Fox",
+            "Ingenious Media"
         ],
         "production_countries": [
+            "United States of America",
+            "United Kingdom"
+        ],
+        "tagline": "Enter the world of Pandora.",
+        "homepage": "https://www.avatar.com/movies/avatar",
+        "imdb_id": "tt0499549",
+        "poster_path": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+        "main_cast": [
+            "Sam Worthington",
+            "Zoe Salda\u00f1a",
+            "Sigourney Weaver",
+            "Stephen Lang",
+            "Michelle Rodriguez"
+        ],
+        "director": "James Cameron",
+        "keywords": [
+            "paraplegic",
+            "attachment to nature",
+            "culture clash",
+            "indigenous",
+            "space travel",
+            "space colony",
+            "tribe",
+            "alien planet",
+            "distant future",
+            "marine",
+            "battle",
+            "love affair",
+            "scientist",
+            "nature",
+            "native peoples",
+            "power relations",
+            "curious",
+            "tribal customs",
+            "shocking",
+            "tribal people",
+            "tribal chief",
+            "deity",
+            "spiritual community",
+            "22nd century",
+            "save the planet",
+            "racial discrimination",
+            "soldiers",
+            "loving",
+            "admiring",
+            "compassionate"
+        ]
+    },
+    {
+        "id": 1211472,
+        "title": "September 5",
+        "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
+        "release_date": "2024-11-07",
+        "popularity": 77.427,
+        "vote_average": 7.0,
+        "vote_count": 235,
+        "genres": [
+            "Thriller",
+            "Drama",
+            "History"
+        ],
+        "runtime": 95,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "Hebrew",
+            "German"
+        ],
+        "status": "Released",
+        "budget": 0,
+        "revenue": 852000,
+        "production_companies": [
+            "BerghausW\u00f6bke Filmproduktion",
+            "Projected Picture Works",
+            "Constantin Film",
+            "Edgar Reitz Filmproduktion"
+        ],
+        "production_countries": [
+            "Germany",
             "United States of America"
         ],
-        "tagline": "He's always closer than you think.",
-        "homepage": "",
-        "imdb_id": "tt21201300",
-        "poster_path": "https://image.tmdb.org/t/p/w500/53IK9rlZJbwFYbNnJZiLq7UWxkT.jpg",
+        "tagline": "",
+        "homepage": "https://www.september5movie.com",
+        "imdb_id": "tt28082769",
+        "poster_path": "https://image.tmdb.org/t/p/w500/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg",
         "main_cast": [
-            "Sam Claflin",
-            "Antonia Thomas",
-            "Car\u00e9ll Vincent Rhoden",
-            "Will Davis",
-            "Adelle Leonce"
+            "John Magaro",
+            "Leonie Benesch",
+            "Peter Sarsgaard",
+            "Ben Chaplin",
+            "Zinedine Soualem"
         ],
-        "director": "Colm McCarthy",
-        "keywords": []
+        "director": "Tim Fehlbaum",
+        "keywords": [
+            "palestinian-israeli conflict",
+            "1970s",
+            "journalism",
+            "munich, germany",
+            "based on true story",
+            "terrorism",
+            "hostage situation",
+            "television broadcast",
+            "moral dilemma",
+            "olympics"
+        ]
     },
     {
         "id": 1726,
@@ -4161,80 +3851,56 @@
         ]
     },
     {
-        "id": 120,
-        "title": "The Lord of the Rings: The Fellowship of the Ring",
-        "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
-        "release_date": "2001-12-18",
-        "popularity": 172.638,
-        "vote_average": 8.418,
-        "vote_count": 25672,
+        "id": 604685,
+        "title": "Den of Thieves 2: Pantera",
+        "overview": "Big Nick is back on the hunt in Europe and closing in on Donnie, who is embroiled in the treacherous and unpredictable world of diamond thieves and the infamous Panther mafia, as they plot a massive heist of the world's largest diamond exchange.",
+        "release_date": "2025-01-08",
+        "popularity": 191.886,
+        "vote_average": 6.7,
+        "vote_count": 297,
         "genres": [
-            "Adventure",
-            "Fantasy",
-            "Action"
+            "Action",
+            "Crime",
+            "Thriller"
         ],
-        "runtime": 179,
+        "runtime": 144,
         "original_language": "en",
         "spoken_languages": [
             "English"
         ],
         "status": "Released",
-        "budget": 93000000,
-        "revenue": 871368364,
+        "budget": 40000000,
+        "revenue": 54586117,
         "production_companies": [
-            "New Line Cinema",
-            "WingNut Films",
-            "The Saul Zaentz Company"
+            "Diamond Film Productions",
+            "G-BASE",
+            "Tucker Tooley Entertainment",
+            "Lionsgate",
+            "Entertainment One Features"
         ],
         "production_countries": [
-            "New Zealand",
+            "Canada",
             "United States of America"
         ],
-        "tagline": "One ring to rule them all.",
-        "homepage": "http://www.lordoftherings.net/",
-        "imdb_id": "tt0120737",
-        "poster_path": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+        "tagline": "The score isn't settled.",
+        "homepage": "https://www.denofthieves.movie",
+        "imdb_id": "tt8008948",
+        "poster_path": "https://image.tmdb.org/t/p/w500/p6Zz0gETvkC33Pst1h6sh9Js6x.jpg",
         "main_cast": [
-            "Elijah Wood",
-            "Ian McKellen",
-            "Viggo Mortensen",
-            "Sean Astin",
-            "Ian Holm"
+            "Gerard Butler",
+            "O'Shea Jackson Jr.",
+            "Evin Ahmad",
+            "Salvatore Esposito",
+            "Meadow Williams"
         ],
-        "director": "Peter Jackson",
+        "director": "Christian Gudegast",
         "keywords": [
-            "based on novel or book",
-            "orcs",
-            "elves",
-            "dwarf",
-            "magic",
-            "obsession",
-            "bravery",
-            "fireworks",
-            "mine",
-            "maze",
-            "mountain",
-            "castle",
-            "birthday party",
-            "battle",
-            "demon",
-            "blizzard",
-            "uncle nephew relationship",
-            "fantasy world",
-            "journey",
-            "ring",
-            "invisibility",
-            "live action and animation",
-            "hero's journey",
-            "wraith",
-            "sword and sorcery",
-            "trekking",
-            "good versus evil",
-            "creatures",
-            "awestruck",
-            "epic quest",
-            "hobbits",
-            "trolls"
+            "diamond",
+            "ex-cop",
+            "heist",
+            "vengeance",
+            "crime",
+            "vibrant"
         ]
     },
     {
@@ -4522,7 +4188,6 @@
             "good versus evil",
             "sword making",
             "war",
-            "backstory",
             "creatures",
             "epic quest",
             "winged creatures",
@@ -4530,6 +4195,51 @@
             "armies",
             "spirits",
             "army of the dead"
+        ]
+    },
+    {
+        "id": 774370,
+        "title": "Dog Man",
+        "overview": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve\u2014and fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.",
+        "release_date": "2025-01-24",
+        "popularity": 722.633,
+        "vote_average": 7.7,
+        "vote_count": 134,
+        "genres": [
+            "Family",
+            "Animation",
+            "Comedy",
+            "Action"
+        ],
+        "runtime": 89,
+        "original_language": "en",
+        "spoken_languages": [],
+        "status": "Released",
+        "budget": 40000000,
+        "revenue": 88192145,
+        "production_companies": [
+            "DreamWorks Animation"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "Part dog. Part man. All hero.",
+        "homepage": "https://www.dreamworksdogman.com",
+        "imdb_id": "tt10954718",
+        "poster_path": "https://image.tmdb.org/t/p/w500/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg",
+        "main_cast": [
+            "Peter Hastings",
+            "Pete Davidson",
+            "Lil Rel Howery",
+            "Isla Fisher",
+            "Lucas Hopkins Calderon"
+        ],
+        "director": "Peter Hastings",
+        "keywords": [
+            "villain",
+            "based on children's book",
+            "police dog",
+            "human animal hybrid"
         ]
     },
     {
@@ -4707,6 +4417,83 @@
         ]
     },
     {
+        "id": 120,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+        "release_date": "2001-12-18",
+        "popularity": 172.638,
+        "vote_average": 8.418,
+        "vote_count": 25672,
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "runtime": 179,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 93000000,
+        "revenue": 871368364,
+        "production_companies": [
+            "New Line Cinema",
+            "WingNut Films",
+            "The Saul Zaentz Company"
+        ],
+        "production_countries": [
+            "New Zealand",
+            "United States of America"
+        ],
+        "tagline": "One ring to rule them all.",
+        "homepage": "http://www.lordoftherings.net/",
+        "imdb_id": "tt0120737",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+        "main_cast": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen",
+            "Sean Astin",
+            "Ian Holm"
+        ],
+        "director": "Peter Jackson",
+        "keywords": [
+            "based on novel or book",
+            "orcs",
+            "elves",
+            "dwarf",
+            "magic",
+            "obsession",
+            "bravery",
+            "fireworks",
+            "mine",
+            "maze",
+            "mountain",
+            "castle",
+            "birthday party",
+            "battle",
+            "demon",
+            "blizzard",
+            "uncle nephew relationship",
+            "fantasy world",
+            "journey",
+            "ring",
+            "invisibility",
+            "live action and animation",
+            "hero's journey",
+            "wraith",
+            "sword and sorcery",
+            "trekking",
+            "good versus evil",
+            "creatures",
+            "awestruck",
+            "epic quest",
+            "hobbits",
+            "trolls"
+        ]
+    },
+    {
         "id": 76600,
         "title": "Avatar: The Way of Water",
         "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
@@ -4822,51 +4609,6 @@
         ]
     },
     {
-        "id": 774370,
-        "title": "Dog Man",
-        "overview": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve\u2014and fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.",
-        "release_date": "2025-01-24",
-        "popularity": 722.633,
-        "vote_average": 7.7,
-        "vote_count": 134,
-        "genres": [
-            "Family",
-            "Animation",
-            "Comedy",
-            "Action"
-        ],
-        "runtime": 89,
-        "original_language": "en",
-        "spoken_languages": [],
-        "status": "Released",
-        "budget": 40000000,
-        "revenue": 88192145,
-        "production_companies": [
-            "DreamWorks Animation"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "Part dog. Part man. All hero.",
-        "homepage": "https://www.dreamworksdogman.com",
-        "imdb_id": "tt10954718",
-        "poster_path": "https://image.tmdb.org/t/p/w500/89wNiexZdvLQ41OQWIsQy4O6jAQ.jpg",
-        "main_cast": [
-            "Peter Hastings",
-            "Pete Davidson",
-            "Lil Rel Howery",
-            "Isla Fisher",
-            "Lucas Hopkins Calderon"
-        ],
-        "director": "Peter Hastings",
-        "keywords": [
-            "villain",
-            "based on children's book",
-            "police dog",
-            "human animal hybrid"
-        ]
-    },
-    {
         "id": 1233575,
         "title": "Black Bag",
         "overview": "When his beloved wife is suspected of betraying the nation, an intelligence agent faces the ultimate test \u2013 loyalty to his marriage or his country.",
@@ -4908,55 +4650,6 @@
             "london, england",
             "husband wife relationship",
             "spy"
-        ]
-    },
-    {
-        "id": 1391385,
-        "title": "Uppercut",
-        "overview": "When Elliott, a tough ex-boxing champion, accepts the challenge to train Toni, the two mismatched characters form an unlikely alliance. Their sparring and Elliott's keen insights show the resilient young fighter that real strength comes from the challenges you overcome when life throws its biggest punches your way.",
-        "release_date": "2025-01-23",
-        "popularity": 10.298,
-        "vote_average": 3.8,
-        "vote_count": 3,
-        "genres": [
-            "Drama",
-            "Thriller"
-        ],
-        "runtime": 104,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 0,
-        "revenue": 0,
-        "production_companies": [
-            "Hello Moment Productions",
-            "Goodweird Studios",
-            "Penned Pictures",
-            "It's Just Us Productions",
-            "HowRU? Entertainment",
-            "Huffman Creative",
-            "GroupM Motion Entertainment"
-        ],
-        "production_countries": [
-            "Germany",
-            "United States of America"
-        ],
-        "tagline": "Two worlds collide. Two fighters unite.",
-        "homepage": "",
-        "imdb_id": "tt29603375",
-        "poster_path": "https://image.tmdb.org/t/p/w500/zv4jdLV7wuQGwhwAOeD7qzd8eSF.jpg",
-        "main_cast": [
-            "Ving Rhames",
-            "Luise Grossmann",
-            "Jordan E. Cooper",
-            "Joanna Cassidy",
-            "Scott Monahan"
-        ],
-        "director": "Torsten R\u00fcther",
-        "keywords": [
-            "boxing"
         ]
     },
     {
@@ -5325,6 +5018,85 @@
         ]
     },
     {
+        "id": 799766,
+        "title": "Better Man",
+        "overview": "Follow Robbie Williams' journey from childhood, to being the youngest member of chart-topping boyband Take That, through to his unparalleled achievements as a record-breaking solo artist \u2013 all the while confronting the challenges that stratospheric fame and success can bring.",
+        "release_date": "2024-12-06",
+        "popularity": 230.269,
+        "vote_average": 7.659,
+        "vote_count": 258,
+        "genres": [
+            "Music",
+            "Drama"
+        ],
+        "runtime": 136,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 110000000,
+        "revenue": 20120006,
+        "production_companies": [
+            "RocketScience",
+            "Facing East Entertainment",
+            "Sina Studios",
+            "Lost Bandits",
+            "Footloose Productions",
+            "VicScreen",
+            "RPW Productions",
+            "Azure Centrum",
+            "Partizan Films",
+            "Mid-March Media"
+        ],
+        "production_countries": [
+            "Australia",
+            "United Kingdom",
+            "United States of America",
+            "China",
+            "Cyprus"
+        ],
+        "tagline": "Fame makes monkeys of us all.",
+        "homepage": "https://www.bettermanmovie.com",
+        "imdb_id": "tt14260836",
+        "poster_path": "https://image.tmdb.org/t/p/w500/fbGCmMp0HlYnAPv28GOENPShezM.jpg",
+        "main_cast": [
+            "Robbie Williams",
+            "Jonno Davies",
+            "Steve Pemberton",
+            "Alison Steadman",
+            "Kate Mulvany"
+        ],
+        "director": "Michael Gracey",
+        "keywords": [
+            "depression",
+            "yacht",
+            "drug addiction",
+            "musical",
+            "biography",
+            "family abandonment",
+            "drugs",
+            "monkey",
+            "teenage boy",
+            "pop music",
+            "price of fame",
+            "girl group",
+            "boy band",
+            "1980s",
+            "1990s",
+            "arrested development",
+            "self-harm",
+            "father son relationship",
+            "mother son relationship",
+            "2000s",
+            "grandmother grandson relationship",
+            "based on real person",
+            "based on real events",
+            "\u0433\u043e\u043c\u043e\u0441\u0435\u043a\u0441\u0443\u0430\u043b",
+            "\u0433\u0435\u0439-\u043a\u043b\u0443\u0431"
+        ]
+    },
+    {
         "id": 12444,
         "title": "Harry Potter and the Deathly Hallows: Part 1",
         "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
@@ -5432,6 +5204,62 @@
         "keywords": []
     },
     {
+        "id": 912649,
+        "title": "Venom: The Last Dance",
+        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "release_date": "2024-10-22",
+        "popularity": 820.402,
+        "vote_average": 6.79,
+        "vote_count": 2955,
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+        ],
+        "runtime": 109,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 120000000,
+        "revenue": 478103649,
+        "production_companies": [
+            "Columbia Pictures",
+            "Pascal Pictures",
+            "Matt Tolmach Productions",
+            "Hutch Parker Entertainment",
+            "Arad Productions"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "'Til death do they part.",
+        "homepage": "https://venom.movie",
+        "imdb_id": "tt16366836",
+        "poster_path": "https://image.tmdb.org/t/p/w500/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+        "main_cast": [
+            "Tom Hardy",
+            "Chiwetel Ejiofor",
+            "Juno Temple",
+            "Rhys Ifans",
+            "Stephen Graham"
+        ],
+        "director": "Kelly Marcel",
+        "keywords": [
+            "hero",
+            "superhero",
+            "anti hero",
+            "villain",
+            "alien life-form",
+            "based on comic",
+            "sequel",
+            "aftercreditsstinger",
+            "woman director",
+            "modest"
+        ]
+    },
+    {
         "id": 9480,
         "title": "Daredevil",
         "overview": "A man blinded in a childhood accident fights crime using his superhumanly-elevated remaining senses.",
@@ -5488,6 +5316,64 @@
             "intense",
             "bold",
             "vibrant"
+        ]
+    },
+    {
+        "id": 1211472,
+        "title": "September 5",
+        "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
+        "release_date": "2024-11-07",
+        "popularity": 77.427,
+        "vote_average": 7.0,
+        "vote_count": 235,
+        "genres": [
+            "Thriller",
+            "Drama",
+            "History"
+        ],
+        "runtime": 95,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "Hebrew",
+            "German"
+        ],
+        "status": "Released",
+        "budget": 0,
+        "revenue": 852000,
+        "production_companies": [
+            "BerghausW\u00f6bke Filmproduktion",
+            "Projected Picture Works",
+            "Constantin Film",
+            "Edgar Reitz Filmproduktion"
+        ],
+        "production_countries": [
+            "Germany",
+            "United States of America"
+        ],
+        "tagline": "",
+        "homepage": "https://www.september5movie.com",
+        "imdb_id": "tt28082769",
+        "poster_path": "https://image.tmdb.org/t/p/w500/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg",
+        "main_cast": [
+            "John Magaro",
+            "Leonie Benesch",
+            "Peter Sarsgaard",
+            "Ben Chaplin",
+            "Zinedine Soualem"
+        ],
+        "director": "Tim Fehlbaum",
+        "keywords": [
+            "palestinian-israeli conflict",
+            "1970s",
+            "journalism",
+            "munich, germany",
+            "based on true story",
+            "terrorism",
+            "hostage situation",
+            "television broadcast",
+            "moral dilemma",
+            "olympics"
         ]
     },
     {
@@ -5676,72 +5562,6 @@
         ]
     },
     {
-        "id": 8587,
-        "title": "The Lion King",
-        "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
-        "release_date": "1994-06-15",
-        "popularity": 127.093,
-        "vote_average": 8.3,
-        "vote_count": 18574,
-        "genres": [
-            "Family",
-            "Animation",
-            "Drama"
-        ],
-        "runtime": 89,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 45000000,
-        "revenue": 763455561,
-        "production_companies": [
-            "Walt Disney Pictures",
-            "Walt Disney Feature Animation"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "The greatest adventure of all is finding our place in the Circle of Life.",
-        "homepage": "http://movies.disney.com/the-lion-king",
-        "imdb_id": "tt0110357",
-        "poster_path": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
-        "main_cast": [
-            "Matthew Broderick",
-            "Moira Kelly",
-            "Nathan Lane",
-            "Ernie Sabella",
-            "James Earl Jones"
-        ],
-        "director": "Roger Allers",
-        "keywords": [
-            "father murder",
-            "loss of loved one",
-            "africa",
-            "lion",
-            "cartoon",
-            "manipulation",
-            "villain",
-            "redemption",
-            "musical",
-            "uncle",
-            "murder",
-            "warthog",
-            "shaman",
-            "king",
-            "scar",
-            "family",
-            "hyena",
-            "meerkat",
-            "nature",
-            "mandrill",
-            "inspirational",
-            "comforting",
-            "powerful"
-        ]
-    },
-    {
         "id": 245891,
         "title": "John Wick",
         "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
@@ -5794,62 +5614,6 @@
             "dog",
             "retired",
             "widower"
-        ]
-    },
-    {
-        "id": 912649,
-        "title": "Venom: The Last Dance",
-        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
-        "release_date": "2024-10-22",
-        "popularity": 820.402,
-        "vote_average": 6.79,
-        "vote_count": 2955,
-        "genres": [
-            "Action",
-            "Science Fiction",
-            "Adventure"
-        ],
-        "runtime": 109,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 120000000,
-        "revenue": 478103649,
-        "production_companies": [
-            "Columbia Pictures",
-            "Pascal Pictures",
-            "Matt Tolmach Productions",
-            "Hutch Parker Entertainment",
-            "Arad Productions"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "'Til death do they part.",
-        "homepage": "https://venom.movie",
-        "imdb_id": "tt16366836",
-        "poster_path": "https://image.tmdb.org/t/p/w500/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
-        "main_cast": [
-            "Tom Hardy",
-            "Chiwetel Ejiofor",
-            "Juno Temple",
-            "Rhys Ifans",
-            "Stephen Graham"
-        ],
-        "director": "Kelly Marcel",
-        "keywords": [
-            "hero",
-            "superhero",
-            "anti hero",
-            "villain",
-            "alien life-form",
-            "based on comic",
-            "sequel",
-            "aftercreditsstinger",
-            "woman director",
-            "modest"
         ]
     },
     {
@@ -6043,66 +5807,63 @@
         ]
     },
     {
-        "id": 1771,
-        "title": "Captain America: The First Avenger",
-        "overview": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull \u2013 Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
-        "release_date": "2011-07-22",
-        "popularity": 73.95,
-        "vote_average": 7.0,
-        "vote_count": 21657,
+        "id": 11,
+        "title": "Star Wars",
+        "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+        "release_date": "1977-05-25",
+        "popularity": 107.66,
+        "vote_average": 8.202,
+        "vote_count": 20924,
         "genres": [
-            "Action",
             "Adventure",
+            "Action",
             "Science Fiction"
         ],
-        "runtime": 124,
+        "runtime": 121,
         "original_language": "en",
         "spoken_languages": [
-            "French",
-            "Norwegian",
             "English"
         ],
         "status": "Released",
-        "budget": 140000000,
-        "revenue": 370569774,
+        "budget": 11000000,
+        "revenue": 775398007,
         "production_companies": [
-            "Marvel Studios",
-            "Marvel Entertainment"
+            "Lucasfilm Ltd.",
+            "20th Century Fox"
         ],
         "production_countries": [
             "United States of America"
         ],
-        "tagline": "When patriots become heroes.",
-        "homepage": "https://www.marvel.com/movies/captain-america-the-first-avenger",
-        "imdb_id": "tt0458339",
-        "poster_path": "https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+        "tagline": "A long time ago in a galaxy far, far away...",
+        "homepage": "http://www.starwars.com/films/star-wars-episode-iv-a-new-hope",
+        "imdb_id": "tt0076759",
+        "poster_path": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
         "main_cast": [
-            "Chris Evans",
-            "Hayley Atwell",
-            "Sebastian Stan",
-            "Tommy Lee Jones",
-            "Hugo Weaving"
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher",
+            "Peter Cushing",
+            "Alec Guinness"
         ],
-        "director": "Joe Johnston",
+        "director": "George Lucas",
         "keywords": [
-            "new york city",
-            "nazi",
-            "superhero",
-            "world war ii",
-            "heroism",
-            "shield",
-            "based on comic",
-            "super soldier",
-            "period drama",
-            "brooklyn, new york city",
-            "aftercreditsstinger",
-            "marvel cinematic universe (mcu)",
-            "origin story",
-            "soldiers",
-            "war",
-            "celebratory",
-            "excited",
-            "hopeful"
+            "empire",
+            "galaxy",
+            "rebellion",
+            "android",
+            "hermit",
+            "smuggling (contraband)",
+            "freedom",
+            "rebel",
+            "rescue mission",
+            "space",
+            "planet",
+            "desert",
+            "super power",
+            "oppression",
+            "space opera",
+            "wizard",
+            "totalitarianism"
         ]
     },
     {
@@ -6601,75 +6362,75 @@
         ]
     },
     {
-        "id": 85,
-        "title": "Raiders of the Lost Ark",
-        "overview": "When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
-        "release_date": "1981-06-12",
-        "popularity": 212.399,
-        "vote_average": 7.921,
-        "vote_count": 12708,
+        "id": 98,
+        "title": "Gladiator",
+        "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+        "release_date": "2000-05-04",
+        "popularity": 130.753,
+        "vote_average": 8.218,
+        "vote_count": 19417,
         "genres": [
-            "Adventure",
-            "Action"
+            "Action",
+            "Drama",
+            "Adventure"
         ],
-        "runtime": 115,
+        "runtime": 155,
         "original_language": "en",
         "spoken_languages": [
-            "English",
-            "Spanish",
-            "German",
-            "Hebrew",
-            "Arabic",
-            "Nepali"
+            "English"
         ],
         "status": "Released",
-        "budget": 18000000,
-        "revenue": 389925971,
+        "budget": 103000000,
+        "revenue": 465361176,
         "production_companies": [
-            "Paramount Pictures",
-            "Lucasfilm Ltd."
+            "Universal Pictures",
+            "Scott Free Productions",
+            "Red Wagon Entertainment",
+            "Mill Film",
+            "DreamWorks Pictures"
         ],
         "production_countries": [
+            "United Kingdom",
             "United States of America"
         ],
-        "tagline": "If adventure has a name, it must be Indiana Jones!",
-        "homepage": "http://www.indianajones.com",
-        "imdb_id": "tt0082971",
-        "poster_path": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+        "tagline": "What we do in life echoes in eternity.",
+        "homepage": "",
+        "imdb_id": "tt0172495",
+        "poster_path": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
         "main_cast": [
-            "Harrison Ford",
-            "Karen Allen",
-            "Paul Freeman",
-            "John Rhys-Davies",
-            "Ronald Lacey"
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen",
+            "Oliver Reed",
+            "Richard Harris"
         ],
-        "director": "Steven Spielberg",
+        "director": "Ridley Scott",
         "keywords": [
-            "egypt",
-            "treasure",
-            "medallion",
-            "swastika",
-            "saving the world",
-            "nepal",
-            "himalaya mountain range",
-            "cairo",
-            "moses",
-            "hat",
-            "whip",
-            "leather jacket",
-            "mediterranean",
-            "ark of the covenant",
-            "ten commandments",
-            "nazi",
-            "excavation",
-            "riddle",
-            "treasure hunt",
-            "archaeologist",
-            "adventurer",
-            "archeology",
-            "religious history",
-            "1930s",
-            "dramatic"
+            "epic",
+            "gladiator",
+            "rome, italy",
+            "arena",
+            "senate",
+            "roman empire",
+            "parent child relationship",
+            "emperor",
+            "slavery",
+            "ancient rome",
+            "revenge",
+            "battlefield",
+            "slave auction",
+            "historical fiction",
+            "ancient world",
+            "combat",
+            "chariot",
+            "philosopher",
+            "barbarian horde",
+            "2nd century",
+            "successor",
+            "commodus",
+            "maximus",
+            "serene",
+            "defiant"
         ]
     },
     {
@@ -7470,85 +7231,6 @@
         ]
     },
     {
-        "id": 937287,
-        "title": "Challengers",
-        "overview": "Tennis player turned coach Tashi has taken her husband, Art, and transformed him into a world-famous Major champion. To jolt him out of his recent losing streak, she signs him up for a \"Challenger\" event \u2014 close to the lowest level of pro tournament \u2014 where he finds himself standing across the net from his former best friend and Tashi's former boyfriend.",
-        "release_date": "2024-04-18",
-        "popularity": 70.052,
-        "vote_average": 7.0,
-        "vote_count": 2055,
-        "genres": [
-            "Romance",
-            "Drama"
-        ],
-        "runtime": 132,
-        "original_language": "en",
-        "spoken_languages": [
-            "English",
-            "Romanian"
-        ],
-        "status": "Released",
-        "budget": 55000000,
-        "revenue": 94182533,
-        "production_companies": [
-            "Pascal Pictures",
-            "Why Are You Acting? Productions",
-            "Frenesy Film",
-            "Metro-Goldwyn-Mayer"
-        ],
-        "production_countries": [
-            "Italy",
-            "United States of America"
-        ],
-        "tagline": "Her game. Her rules.",
-        "homepage": "https://www.amazon.com/salp/challengers",
-        "imdb_id": "tt16426418",
-        "poster_path": "https://image.tmdb.org/t/p/w500/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
-        "main_cast": [
-            "Zendaya",
-            "Mike Faist",
-            "Josh O'Connor",
-            "Darnell Appling",
-            "Bryan Doo"
-        ],
-        "director": "Luca Guadagnino",
-        "keywords": [
-            "infidelity",
-            "husband wife relationship",
-            "love triangle",
-            "sports",
-            "tennis",
-            "competition",
-            "eroticism",
-            "atlanta",
-            "tennis player",
-            "male friendship",
-            "rivalry",
-            "interracial marriage",
-            "tennis court",
-            "ex-boyfriend ex-girlfriend relationship",
-            "knee injury",
-            "new rochelle, new york",
-            "aggressive",
-            "prodigy",
-            "tennis pro",
-            "2000s",
-            "codependency",
-            "2010s",
-            "gay theme",
-            "female coach",
-            "psychosexual",
-            "sports drama",
-            "power dynamics",
-            "tense",
-            "ambiguous",
-            "disgusted",
-            "\u0433\u0435\u0439-\u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436",
-            "\u043b\u0433\u0431\u0442\u043a",
-            "\u0433\u0435\u0439-\u043f\u043e\u0446\u0435\u043b\u0443\u0439"
-        ]
-    },
-    {
         "id": 667739,
         "title": "The Man from Toronto",
         "overview": "In a case of mistaken identity, the world\u2019s deadliest assassin, known as the Man from Toronto, and a New York City screw-up are forced to team up after being confused for each other at a rental cabin.",
@@ -7913,244 +7595,57 @@
         ]
     },
     {
-        "id": 1102493,
-        "title": "Small Things Like These",
-        "overview": "In 1985, while working as a coal merchant to support his family, Bill Furlong discovers disturbing secrets kept by the local convent and uncovers truths of his own; forcing him to confront his past and the complicit silence of a small Irish town controlled by the Catholic Church.",
-        "release_date": "2024-11-01",
-        "popularity": 30.693,
-        "vote_average": 6.8,
-        "vote_count": 183,
+        "id": 945961,
+        "title": "Alien: Romulus",
+        "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+        "release_date": "2024-08-13",
+        "popularity": 280.422,
+        "vote_average": 7.217,
+        "vote_count": 3394,
         "genres": [
-            "Drama"
-        ],
-        "runtime": 99,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 0,
-        "revenue": 10604490,
-        "production_companies": [
-            "Artists Equity",
-            "Big Things Films",
-            "Wilder Content",
-            "F\u00eds \u00c9ireann/Screen Ireland"
-        ],
-        "production_countries": [
-            "Belgium",
-            "Ireland",
-            "United States of America"
-        ],
-        "tagline": "",
-        "homepage": "https://www.lionsgatefilms.co.uk/releases/smallthingslikethese",
-        "imdb_id": "tt27196021",
-        "poster_path": "https://image.tmdb.org/t/p/w500/rdcO38cbWFg002nXg5QYtk7Tz4L.jpg",
-        "main_cast": [
-            "Cillian Murphy",
-            "Emily Watson",
-            "Michelle Fairley",
-            "Eileen Walsh",
-            "Zara Devlin"
-        ],
-        "director": "Tim Mielants",
-        "keywords": [
-            "small town",
-            "husband wife relationship",
-            "based on novel or book",
-            "choir",
-            "flashback",
-            "ireland",
-            "barbershop",
-            "catholicism",
-            "coal",
-            "merchant",
-            "christmas",
-            "abuse",
-            "1980s",
-            "complicity",
-            "convent",
-            "magdalene asylum"
-        ]
-    },
-    {
-        "id": 330459,
-        "title": "Rogue One: A Star Wars Story",
-        "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
-        "release_date": "2016-12-14",
-        "popularity": 42.172,
-        "vote_average": 7.493,
-        "vote_count": 15413,
-        "genres": [
-            "Action",
-            "Adventure",
+            "Horror",
             "Science Fiction"
         ],
-        "runtime": 133,
+        "runtime": 119,
         "original_language": "en",
         "spoken_languages": [
             "English"
         ],
         "status": "Released",
-        "budget": 200000000,
-        "revenue": 1056057273,
+        "budget": 80000000,
+        "revenue": 350865342,
         "production_companies": [
-            "Lucasfilm Ltd."
+            "20th Century Studios",
+            "Scott Free Productions",
+            "Brandywine Productions"
         ],
         "production_countries": [
             "United States of America"
         ],
-        "tagline": "A rebellion built on hope.",
-        "homepage": "https://www.starwars.com/films/rogue-one",
-        "imdb_id": "tt3748528",
-        "poster_path": "https://image.tmdb.org/t/p/w500/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+        "tagline": "In space, no one can hear you.",
+        "homepage": "https://www.20thcenturystudios.com/movies/alien-romulus",
+        "imdb_id": "tt18412256",
+        "poster_path": "https://image.tmdb.org/t/p/w500/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
         "main_cast": [
-            "Felicity Jones",
-            "Diego Luna",
-            "Alan Tudyk",
-            "Donnie Yen Chi-Tan",
-            "Jiang Wen"
+            "Cailee Spaeny",
+            "David Jonsson",
+            "Archie Renaux",
+            "Isabela Merced",
+            "Spike Fearn"
         ],
-        "director": "Gareth Edwards",
+        "director": "Fede \u00c1lvarez",
         "keywords": [
-            "rebellion",
-            "spacecraft",
-            "rebel",
-            "space battle",
-            "space travel",
-            "prequel",
-            "female protagonist",
-            "space western",
-            "suicide mission",
-            "robot",
-            "spin off",
-            "space opera",
-            "alien language",
-            "against the odds",
-            "blind man"
-        ]
-    },
-    {
-        "id": 324552,
-        "title": "John Wick: Chapter 2",
-        "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins\u2019 guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world\u2019s most dangerous killers.",
-        "release_date": "2017-02-08",
-        "popularity": 63.246,
-        "vote_average": 7.3,
-        "vote_count": 13267,
-        "genres": [
-            "Action",
-            "Thriller",
-            "Crime"
-        ],
-        "runtime": 122,
-        "original_language": "en",
-        "spoken_languages": [
-            "English",
-            "Hebrew",
-            "Italian",
-            "Russian"
-        ],
-        "status": "Released",
-        "budget": 40000000,
-        "revenue": 171539887,
-        "production_companies": [
-            "Thunder Road",
-            "87Eleven",
-            "Summit Entertainment"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "Never stab the devil in the back!",
-        "homepage": "https://johnwick.movie/film/john-wick/john-wick-chapter-2",
-        "imdb_id": "tt4425200",
-        "poster_path": "https://image.tmdb.org/t/p/w500/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
-        "main_cast": [
-            "Keanu Reeves",
-            "Common",
-            "Ian McShane",
-            "Laurence Fishburne",
-            "Riccardo Scamarcio"
-        ],
-        "director": "Chad Stahelski",
-        "keywords": [
-            "martial arts",
-            "assassin",
-            "hitman",
-            "italy",
-            "roof",
-            "secret organization",
+            "alien life-form",
             "sequel",
-            "revenge",
-            "shootout",
-            "handshake",
-            "neo-noir",
-            "guns",
-            "dark",
-            "dogs",
-            "roof-top"
-        ]
-    },
-    {
-        "id": 1102493,
-        "title": "Small Things Like These",
-        "overview": "In 1985, while working as a coal merchant to support his family, Bill Furlong discovers disturbing secrets kept by the local convent and uncovers truths of his own; forcing him to confront his past and the complicit silence of a small Irish town controlled by the Catholic Church.",
-        "release_date": "2024-11-01",
-        "popularity": 30.693,
-        "vote_average": 6.8,
-        "vote_count": 183,
-        "genres": [
-            "Drama"
-        ],
-        "runtime": 99,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 0,
-        "revenue": 10604490,
-        "production_companies": [
-            "Artists Equity",
-            "Big Things Films",
-            "Wilder Content",
-            "F\u00eds \u00c9ireann/Screen Ireland"
-        ],
-        "production_countries": [
-            "Belgium",
-            "Ireland",
-            "United States of America"
-        ],
-        "tagline": "",
-        "homepage": "https://www.lionsgatefilms.co.uk/releases/smallthingslikethese",
-        "imdb_id": "tt27196021",
-        "poster_path": "https://image.tmdb.org/t/p/w500/rdcO38cbWFg002nXg5QYtk7Tz4L.jpg",
-        "main_cast": [
-            "Cillian Murphy",
-            "Emily Watson",
-            "Michelle Fairley",
-            "Eileen Walsh",
-            "Zara Devlin"
-        ],
-        "director": "Tim Mielants",
-        "keywords": [
-            "small town",
-            "husband wife relationship",
-            "based on novel or book",
-            "choir",
-            "flashback",
-            "ireland",
-            "barbershop",
-            "catholicism",
-            "coal",
-            "merchant",
-            "christmas",
-            "abuse",
-            "1980s",
-            "complicity",
-            "convent",
-            "magdalene asylum"
+            "alien",
+            "space",
+            "alien contact",
+            "alien monster",
+            "alien encounter",
+            "space capsule",
+            "alien hostility",
+            "ambiguous",
+            "frightened"
         ]
     },
     {
@@ -8479,8 +7974,389 @@
         "overview": "The 2025 Elimination Chamber (known as Elimination Chamber: Toronto) was the 15th Elimination Chamber professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It was held for wrestlers from the promotion's Raw and SmackDown brand divisions. The event took place on Saturday, March 1, 2025, at Rogers Centre in Toronto, Ontario, Canada.",
         "release_date": "2025-03-01",
         "popularity": 61.617,
-        "vote_average": 8.125,
-        "vote_count": 12,
+        "vote_average": 7.654,
+        "vote_count": 13,
+        "genres": [
+            "Family",
+            "Drama",
+            "Action"
+        ],
+        "runtime": 211,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 0,
+        "revenue": 0,
+        "production_companies": [
+            "World Wrestling Entertainment (WWE)"
+        ],
+        "production_countries": [],
+        "tagline": "",
+        "homepage": "",
+        "imdb_id": "tt34512232",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gQWQ3J3tnCKOBtwVtRD9vFUREyb.jpg",
+        "main_cast": [
+            "John Cena",
+            "Gionna Daddio",
+            "Phil Brooks",
+            "Bianca Crawford",
+            "Andrew Galloway"
+        ],
+        "director": "Unknown",
+        "keywords": []
+    },
+    {
+        "id": 78,
+        "title": "Blade Runner",
+        "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+        "release_date": "1982-06-25",
+        "popularity": 57.412,
+        "vote_average": 7.9,
+        "vote_count": 13965,
+        "genres": [
+            "Science Fiction",
+            "Drama",
+            "Thriller"
+        ],
+        "runtime": 118,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "German",
+            "Cantonese",
+            "Japanese",
+            "Hungarian"
+        ],
+        "status": "Released",
+        "budget": 28000000,
+        "revenue": 41722424,
+        "production_companies": [
+            "Shaw Brothers",
+            "The Ladd Company",
+            "Warner Bros. Pictures"
+        ],
+        "production_countries": [
+            "United States of America",
+            "Hong Kong",
+            "United Kingdom"
+        ],
+        "tagline": "Man has made his match... now it's his problem.",
+        "homepage": "http://www.warnerbros.com/blade-runner",
+        "imdb_id": "tt0083658",
+        "poster_path": "https://image.tmdb.org/t/p/w500/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+        "main_cast": [
+            "Harrison Ford",
+            "Rutger Hauer",
+            "Sean Young",
+            "Edward James Olmos",
+            "M. Emmet Walsh"
+        ],
+        "director": "Ridley Scott",
+        "keywords": [
+            "android",
+            "flying car",
+            "bounty hunter",
+            "artificial intelligence (a.i.)",
+            "genetics",
+            "based on novel or book",
+            "dystopia",
+            "melancholy",
+            "futuristic",
+            "fugitive",
+            "cyberpunk",
+            "los angeles, california",
+            "alcoholic",
+            "tech noir",
+            "meditative",
+            "neo-noir",
+            "human cloning",
+            "blade runner",
+            "2010s",
+            "introspective"
+        ]
+    },
+    {
+        "id": 807,
+        "title": "Se7en",
+        "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+        "release_date": "1995-09-22",
+        "popularity": 98.402,
+        "vote_average": 8.4,
+        "vote_count": 21446,
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtime": 127,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 33000000,
+        "revenue": 327311859,
+        "production_companies": [
+            "New Line Cinema",
+            "Juno Pix",
+            "Arnold Kopelson Productions",
+            "Cecchi Gori Group"
+        ],
+        "production_countries": [
+            "United States of America",
+            "Italy"
+        ],
+        "tagline": "Seven deadly sins. Seven ways to die.",
+        "homepage": "http://www.sevenmovie.com/",
+        "imdb_id": "tt0114369",
+        "poster_path": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+        "main_cast": [
+            "Morgan Freeman",
+            "Brad Pitt",
+            "Gwyneth Paltrow",
+            "John Cassini",
+            "Peter Crombie"
+        ],
+        "director": "David Fincher",
+        "keywords": [
+            "rage and hate",
+            "police",
+            "s.w.a.t.",
+            "sadism",
+            "self-fulfilling prophecy",
+            "psychopath",
+            "detective",
+            "investigation",
+            "insomnia",
+            "murder",
+            "serial killer",
+            "religion",
+            "shootout",
+            "corpse",
+            "biting",
+            "macabre",
+            "seven deadly sins",
+            "mysterious",
+            "depravity",
+            "neo-noir",
+            "anxious",
+            "sinister",
+            "ambiguous",
+            "ominous",
+            "seven: los siete pecados capitales"
+        ]
+    },
+    {
+        "id": 569094,
+        "title": "Spider-Man: Across the Spider-Verse",
+        "overview": "After reuniting with Gwen Stacy, Brooklyn\u2019s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse\u2019s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+        "release_date": "2023-05-31",
+        "popularity": 150.457,
+        "vote_average": 8.347,
+        "vote_count": 7350,
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ],
+        "runtime": 140,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "Hindi",
+            "Italian",
+            "Spanish"
+        ],
+        "status": "Released",
+        "budget": 100000000,
+        "revenue": 690897910,
+        "production_companies": [
+            "Columbia Pictures",
+            "Sony Pictures Animation",
+            "Lord Miller",
+            "Pascal Pictures",
+            "Arad Productions",
+            "Marvel Entertainment"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "It's how you wear the mask that matters.",
+        "homepage": "https://www.sonypictures.com/movies/spidermanacrossthespiderverse",
+        "imdb_id": "tt9362722",
+        "poster_path": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+        "main_cast": [
+            "Shameik Moore",
+            "Hailee Steinfeld",
+            "Brian Tyree Henry",
+            "Luna Lauren Velez",
+            "Jake Johnson"
+        ],
+        "director": "Justin K. Thompson",
+        "keywords": [
+            "new york city",
+            "hero",
+            "sacrifice",
+            "superhero",
+            "villain",
+            "portal",
+            "based on comic",
+            "sequel",
+            "romance",
+            "alter ego",
+            "alternate dimension",
+            "india",
+            "parenting",
+            "family",
+            "alternate version",
+            "super power",
+            "brooklyn, new york city",
+            "superhero team",
+            "spider bite",
+            "super villain",
+            "cliffhanger",
+            "teenage romance",
+            "young heroes",
+            "teen superhero",
+            "teen social issues",
+            "chelsea",
+            "alternate universe",
+            "superhero teamup",
+            "female superhero",
+            "slow burn romance",
+            "interdimensional travel",
+            "sentimental",
+            "audacious",
+            "bold",
+            "defiant",
+            "exuberant"
+        ]
+    },
+    {
+        "id": 330,
+        "title": "The Lost World: Jurassic Park",
+        "overview": "Four years after Jurassic Park's genetically bred dinosaurs ran amok, multimillionaire John Hammond shocks chaos theorist Ian Malcolm by revealing that he has been breeding more beasties at a secret location. Malcolm, his paleontologist ladylove and a wildlife videographer join an expedition to document the lethal lizards' natural behavior in this action-packed thriller.",
+        "release_date": "1997-05-23",
+        "popularity": 2.976,
+        "vote_average": 6.5,
+        "vote_count": 8503,
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ],
+        "runtime": 129,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 73000000,
+        "revenue": 618638999,
+        "production_companies": [
+            "Universal Pictures",
+            "Amblin Entertainment"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "Something has survived.",
+        "homepage": "",
+        "imdb_id": "tt0119567",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jElpCJkSaRPYwIMwZY28gOKV7BK.jpg",
+        "main_cast": [
+            "Jeff Goldblum",
+            "Julianne Moore",
+            "Pete Postlethwaite",
+            "Arliss Howard",
+            "Richard Attenborough"
+        ],
+        "director": "Steven Spielberg",
+        "keywords": [
+            "exotic island",
+            "island",
+            "velociraptor",
+            "dna",
+            "tyrannosaurus rex",
+            "paleontology",
+            "san diego, california",
+            "sequel",
+            "dinosaur",
+            "creature",
+            "scientist",
+            "amusement park",
+            "theme park",
+            "costa rica",
+            "animal horror",
+            "father daughter relationship"
+        ]
+    },
+    {
+        "id": 351286,
+        "title": "Jurassic World: Fallen Kingdom",
+        "overview": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+        "release_date": "2018-06-06",
+        "popularity": 90.127,
+        "vote_average": 6.54,
+        "vote_count": 11937,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction",
+            "Thriller"
+        ],
+        "runtime": 129,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "Russian"
+        ],
+        "status": "Released",
+        "budget": 170000000,
+        "revenue": 1310466296,
+        "production_companies": [
+            "Amblin Entertainment",
+            "Universal Pictures"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "The park is gone.",
+        "homepage": "https://www.uphe.com/movies/jurassic-world-fallen-kingdom",
+        "imdb_id": "tt4881806",
+        "poster_path": "https://image.tmdb.org/t/p/w500/270MrJNqJovumHXGE6SSt0zwUIF.jpg",
+        "main_cast": [
+            "Chris Pratt",
+            "Bryce Dallas Howard",
+            "Rafe Spall",
+            "Justice Smith",
+            "Daniella Pineda"
+        ],
+        "director": "J.A. Bayona",
+        "keywords": [
+            "tyrannosaurus rex",
+            "volcano",
+            "rescue mission",
+            "sequel",
+            "wild animal",
+            "prehistoric creature",
+            "dinosaur",
+            "genetic engineering",
+            "aftercreditsstinger",
+            "monster island"
+        ]
+    },
+    {
+        "id": 1391482,
+        "title": "WWE Elimination Chamber: Toronto",
+        "overview": "The 2025 Elimination Chamber (known as Elimination Chamber: Toronto) was the 15th Elimination Chamber professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It was held for wrestlers from the promotion's Raw and SmackDown brand divisions. The event took place on Saturday, March 1, 2025, at Rogers Centre in Toronto, Ontario, Canada.",
+        "release_date": "2025-03-01",
+        "popularity": 61.617,
+        "vote_average": 7.654,
+        "vote_count": 13,
         "genres": [
             "Family",
             "Drama",
@@ -8598,62 +8474,6 @@
             "bewildered",
             "disgusted",
             "frightened"
-        ]
-    },
-    {
-        "id": 993710,
-        "title": "Back in Action",
-        "overview": "Fifteen years after vanishing from the CIA to start a family, elite spies Matt and Emily jump back into the world of espionage when their cover is blown.",
-        "release_date": "2025-01-15",
-        "popularity": 478.381,
-        "vote_average": 6.5,
-        "vote_count": 1058,
-        "genres": [
-            "Action",
-            "Comedy"
-        ],
-        "runtime": 114,
-        "original_language": "en",
-        "spoken_languages": [
-            "English",
-            "Polish"
-        ],
-        "status": "Released",
-        "budget": 0,
-        "revenue": 0,
-        "production_companies": [
-            "Chernin Entertainment",
-            "Exhibit A",
-            "Good One"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "They're living their best lies.",
-        "homepage": "https://www.netflix.com/title/81307099",
-        "imdb_id": "tt21191806",
-        "poster_path": "https://image.tmdb.org/t/p/w500/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",
-        "main_cast": [
-            "Jamie Foxx",
-            "Cameron Diaz",
-            "McKenna Roberts",
-            "Rylan Jackson",
-            "Kyle Chandler"
-        ],
-        "director": "Seth Gordon",
-        "keywords": [
-            "spy",
-            "affectation",
-            "aggressive",
-            "gun fight",
-            "zealous",
-            "hilarious",
-            "admiring",
-            "adoring",
-            "ambiguous",
-            "enchant",
-            "vibrant",
-            "spy action"
         ]
     },
     {
@@ -9276,134 +9096,6 @@
         ]
     },
     {
-        "id": 354912,
-        "title": "Coco",
-        "overview": "Despite his family\u2019s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
-        "release_date": "2017-10-27",
-        "popularity": 108.802,
-        "vote_average": 8.206,
-        "vote_count": 19786,
-        "genres": [
-            "Family",
-            "Animation",
-            "Music",
-            "Adventure"
-        ],
-        "runtime": 105,
-        "original_language": "en",
-        "spoken_languages": [
-            "English",
-            "Spanish"
-        ],
-        "status": "Released",
-        "budget": 175000000,
-        "revenue": 807816196,
-        "production_companies": [
-            "Pixar",
-            "Walt Disney Pictures"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "The celebration of a lifetime.",
-        "homepage": "https://www.pixar.com/feature-films/coco",
-        "imdb_id": "tt2380307",
-        "poster_path": "https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
-        "main_cast": [
-            "Anthony Gonzalez",
-            "Gael Garc\u00eda Bernal",
-            "Benjamin Bratt",
-            "Alanna Ubach",
-            "Renee Victor"
-        ],
-        "director": "Lee Unkrich",
-        "keywords": [
-            "skeleton",
-            "mexico",
-            "guitar",
-            "afterlife",
-            "musician",
-            "holiday",
-            "villain",
-            "singer",
-            "murderer",
-            "life after death",
-            "child",
-            "day of the dead",
-            "music",
-            "boy"
-        ]
-    },
-    {
-        "id": 105,
-        "title": "Back to the Future",
-        "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
-        "release_date": "1985-07-03",
-        "popularity": 77.172,
-        "vote_average": 8.318,
-        "vote_count": 20288,
-        "genres": [
-            "Adventure",
-            "Comedy",
-            "Science Fiction"
-        ],
-        "runtime": 116,
-        "original_language": "en",
-        "spoken_languages": [
-            "English"
-        ],
-        "status": "Released",
-        "budget": 19000000,
-        "revenue": 381109762,
-        "production_companies": [
-            "Universal Pictures",
-            "Amblin Entertainment"
-        ],
-        "production_countries": [
-            "United States of America"
-        ],
-        "tagline": "He was never in time for his classes. He wasn't in time for his dinner. Then one day...he wasn't in his time at all.",
-        "homepage": "http://www.backtothefuture.com/movies/backtothefuture1",
-        "imdb_id": "tt0088763",
-        "poster_path": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
-        "main_cast": [
-            "Michael J. Fox",
-            "Christopher Lloyd",
-            "Crispin Glover",
-            "Lea Thompson",
-            "Claudia Wells"
-        ],
-        "director": "Robert Zemeckis",
-        "keywords": [
-            "flying car",
-            "race against time",
-            "clock tower",
-            "car race",
-            "lightning",
-            "guitar",
-            "plutonium",
-            "inventor",
-            "journey in the past",
-            "invention",
-            "time travel",
-            "bullying",
-            "mad scientist",
-            "love",
-            "fish out of water",
-            "terrorism",
-            "teenage love",
-            "destiny",
-            "hidden identity",
-            "teenage life",
-            "changing the past or future",
-            "1950s",
-            "suspenseful",
-            "optimistic",
-            "cientifico loco",
-            "delorean"
-        ]
-    },
-    {
         "id": 286217,
         "title": "The Martian",
         "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
@@ -9717,55 +9409,6 @@
             "kink",
             "power dynamics",
             "employee boss relationship"
-        ]
-    },
-    {
-        "id": 1029235,
-        "title": "Azrael",
-        "overview": "In a world where no one speaks, a devout female hunts down a young woman who has escaped her imprisonment. Recaptured by its ruthless leaders, Azrael is due to be sacrificed to pacify an ancient evil deep within the surrounding wilderness.",
-        "release_date": "2024-09-27",
-        "popularity": 243.178,
-        "vote_average": 6.0,
-        "vote_count": 256,
-        "genres": [
-            "Action",
-            "Horror",
-            "Thriller"
-        ],
-        "runtime": 86,
-        "original_language": "en",
-        "spoken_languages": [
-            "Esperanto"
-        ],
-        "status": "Released",
-        "budget": 12000000,
-        "revenue": 631272,
-        "production_companies": [
-            "C2 Motion Picture Group",
-            "Homeless Bob Production",
-            "Traffic."
-        ],
-        "production_countries": [
-            "Estonia",
-            "United States of America"
-        ],
-        "tagline": "Many years after the rapture\u2026 Among the survivors, some are driven to renounce their sin of Speech.",
-        "homepage": "",
-        "imdb_id": "tt22173666",
-        "poster_path": "https://image.tmdb.org/t/p/w500/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
-        "main_cast": [
-            "Samara Weaving",
-            "Vic Carmen Sonne",
-            "Katariina Unt",
-            "Peter Christoffersen",
-            "Nathan Stewart-Jarrett"
-        ],
-        "director": "E.L. Katz",
-        "keywords": [
-            "sacrifice",
-            "aggressive",
-            "ancient evil",
-            "azrael"
         ]
     },
     {
@@ -10209,6 +9852,62 @@
         ],
         "director": "Kongkiat Khomsiri",
         "keywords": []
+    },
+    {
+        "id": 993710,
+        "title": "Back in Action",
+        "overview": "Fifteen years after vanishing from the CIA to start a family, elite spies Matt and Emily jump back into the world of espionage when their cover is blown.",
+        "release_date": "2025-01-15",
+        "popularity": 478.381,
+        "vote_average": 6.5,
+        "vote_count": 1058,
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "runtime": 114,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "Polish"
+        ],
+        "status": "Released",
+        "budget": 0,
+        "revenue": 0,
+        "production_companies": [
+            "Chernin Entertainment",
+            "Exhibit A",
+            "Good One"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "They're living their best lies.",
+        "homepage": "https://www.netflix.com/title/81307099",
+        "imdb_id": "tt21191806",
+        "poster_path": "https://image.tmdb.org/t/p/w500/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",
+        "main_cast": [
+            "Jamie Foxx",
+            "Cameron Diaz",
+            "McKenna Roberts",
+            "Rylan Jackson",
+            "Kyle Chandler"
+        ],
+        "director": "Seth Gordon",
+        "keywords": [
+            "spy",
+            "affectation",
+            "aggressive",
+            "gun fight",
+            "zealous",
+            "hilarious",
+            "admiring",
+            "adoring",
+            "ambiguous",
+            "enchant",
+            "vibrant",
+            "spy action"
+        ]
     },
     {
         "id": 1156619,
@@ -10826,69 +10525,53 @@
         ]
     },
     {
-        "id": 454626,
-        "title": "Sonic the Hedgehog",
-        "overview": "Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it\u2019s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic\u2019s unique power for world domination.",
-        "release_date": "2020-02-12",
-        "popularity": 124.039,
-        "vote_average": 7.308,
-        "vote_count": 9798,
+        "id": 118340,
+        "title": "Guardians of the Galaxy",
+        "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+        "release_date": "2014-07-30",
+        "popularity": 46.748,
+        "vote_average": 7.905,
+        "vote_count": 28309,
         "genres": [
             "Action",
             "Science Fiction",
-            "Comedy",
-            "Family"
+            "Adventure"
         ],
-        "runtime": 99,
+        "runtime": 121,
         "original_language": "en",
         "spoken_languages": [
             "English"
         ],
         "status": "Released",
-        "budget": 85000000,
-        "revenue": 319715683,
+        "budget": 170000000,
+        "revenue": 772776600,
         "production_companies": [
-            "Original Film",
-            "Blur Studio",
-            "Marza Animation Planet",
-            "Paramount Pictures",
-            "SEGA",
-            "SEGA of America"
+            "Marvel Studios"
         ],
         "production_countries": [
-            "Japan",
             "United States of America"
         ],
-        "tagline": "A whole new speed of hero.",
-        "homepage": "https://www.paramountmovies.com/movies/sonic-the-hedgehog",
-        "imdb_id": "tt3794354",
-        "poster_path": "https://image.tmdb.org/t/p/w500/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+        "tagline": "When things get bad, they'll do their worst.",
+        "homepage": "https://www.marvel.com/movies/guardians-of-the-galaxy",
+        "imdb_id": "tt2015381",
+        "poster_path": "https://image.tmdb.org/t/p/w500/jPrJPZKJVhvyJ4DmUTrDgmFN0yG.jpg",
         "main_cast": [
-            "Ben Schwartz",
-            "James Marsden",
-            "Tika Sumpter",
-            "Jim Carrey",
-            "Natasha Rothwell"
+            "Chris Pratt",
+            "Zoe Salda\u00f1a",
+            "Dave Bautista",
+            "Vin Diesel",
+            "Bradley Cooper"
         ],
-        "director": "Jeff Fowler",
+        "director": "James Gunn",
         "keywords": [
-            "friendship",
-            "video game",
-            "san francisco, california",
-            "road trip",
-            "cop",
-            "based on video game",
+            "spacecraft",
+            "based on comic",
+            "space",
+            "orphan",
+            "adventurer",
+            "aftercreditsstinger",
             "duringcreditsstinger",
-            "bar fight",
-            "hedgehog",
-            "live action and animation",
-            "live action remake",
-            "playful",
-            "flossing",
-            "joyous",
-            "adoring",
-            "joyful",
-            "sonic cinematic universe"
+            "marvel cinematic universe (mcu)"
         ]
     },
     {
@@ -11206,51 +10889,134 @@
         ]
     },
     {
-        "id": 926670,
-        "title": "Henry Danger: The Movie",
-        "overview": "Henry Hart meets a superfan\u2014eager to fight crime with Kid Danger\u2014who comes into possession of a device that can open up alternate realities. Facing a wild ride, Henry will need his best friend Jasper and his new superfan sidekick to find his way out or be stuck in another dimension forever.",
-        "release_date": "2025-01-17",
-        "popularity": 380.353,
-        "vote_average": 8.3,
-        "vote_count": 147,
+        "id": 672,
+        "title": "Harry Potter and the Chamber of Secrets",
+        "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione\u2019s magical abilities and courage.",
+        "release_date": "2002-11-13",
+        "popularity": 150.694,
+        "vote_average": 7.711,
+        "vote_count": 22335,
         "genres": [
-            "Action",
-            "Comedy",
-            "Family",
-            "Science Fiction"
+            "Adventure",
+            "Fantasy"
         ],
-        "runtime": 86,
+        "runtime": 161,
         "original_language": "en",
         "spoken_languages": [
-            "English",
-            "Spanish"
+            "English"
         ],
         "status": "Released",
-        "budget": 0,
-        "revenue": 0,
+        "budget": 100000000,
+        "revenue": 876688482,
         "production_companies": [
-            "Yes, Yes Coffee.",
-            "Nickelodeon Productions"
+            "Warner Bros. Pictures",
+            "Heyday Films",
+            "1492 Pictures",
+            "MIRACLE Productions"
+        ],
+        "production_countries": [
+            "United Kingdom",
+            "United States of America",
+            "Germany"
+        ],
+        "tagline": "Something evil has returned to Hogwarts!",
+        "homepage": "https://www.warnerbros.com/movies/harry-potter-and-chamber-secrets/",
+        "imdb_id": "tt0295297",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+        "main_cast": [
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Emma Watson",
+            "Kenneth Branagh",
+            "Toby Jones"
+        ],
+        "director": "Chris Columbus",
+        "keywords": [
+            "witch",
+            "flying car",
+            "elves",
+            "magic",
+            "sword",
+            "diary",
+            "child hero",
+            "school of witchcraft",
+            "giant spider",
+            "black magic",
+            "giant snake",
+            "ghost",
+            "child driving car",
+            "wizard",
+            "aftercreditsstinger",
+            "christmas",
+            "based on young adult novel"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Apocalypse Now",
+        "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+        "release_date": "1979-05-19",
+        "popularity": 51.241,
+        "vote_average": 8.273,
+        "vote_count": 8376,
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "runtime": 147,
+        "original_language": "en",
+        "spoken_languages": [
+            "Khmer",
+            "English",
+            "French",
+            "Vietnamese"
+        ],
+        "status": "Released",
+        "budget": 31500000,
+        "revenue": 150000000,
+        "production_companies": [
+            "United Artists",
+            "American Zoetrope"
         ],
         "production_countries": [
             "United States of America"
         ],
-        "tagline": "Danger... Like you've never seen before.",
-        "homepage": "",
-        "imdb_id": "tt7787524",
-        "poster_path": "https://image.tmdb.org/t/p/w500/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg",
+        "tagline": "This is the end...",
+        "homepage": "http://www.apocalypsenow.com",
+        "imdb_id": "tt0078788",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
         "main_cast": [
-            "Jace Norman",
-            "Sean Ryan Fox",
-            "Ella Anderson",
-            "Michael D. Cohen",
-            "Frankie Grande"
+            "Martin Sheen",
+            "Marlon Brando",
+            "Albert Hall",
+            "Frederic Forrest",
+            "Laurence Fishburne"
         ],
-        "director": "Joe Menendez",
+        "director": "Francis Ford Coppola",
         "keywords": [
-            "superhero",
-            "supervillain",
-            "based on tv series"
+            "guerrilla warfare",
+            "epic",
+            "vietnam war",
+            "journalist",
+            "mission",
+            "vietnam",
+            "vietcong",
+            "central intelligence agency (cia)",
+            "cambodia",
+            "army",
+            "drug abuse",
+            "based on novel or book",
+            "secret mission",
+            "insanity",
+            "surrealism",
+            "tribe",
+            "green beret",
+            "jungle",
+            "descent into madness",
+            "brutality",
+            "riverboat",
+            "military",
+            "anti war"
         ]
     },
     {
@@ -11339,6 +11105,62 @@
             "christmas horror",
             "christmas",
             "supernatural horror"
+        ]
+    },
+    {
+        "id": 299536,
+        "title": "Avengers: Infinity War",
+        "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+        "release_date": "2018-04-25",
+        "popularity": 247.095,
+        "vote_average": 8.237,
+        "vote_count": 30233,
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ],
+        "runtime": 149,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "Xhosa"
+        ],
+        "status": "Released",
+        "budget": 300000000,
+        "revenue": 2052415039,
+        "production_companies": [
+            "Marvel Studios"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "An entire universe. Once and for all.",
+        "homepage": "https://www.marvel.com/movies/avengers-infinity-war",
+        "imdb_id": "tt4154756",
+        "poster_path": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+        "main_cast": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Chris Hemsworth",
+            "Josh Brolin",
+            "Mark Ruffalo"
+        ],
+        "director": "Joe Russo",
+        "keywords": [
+            "sacrifice",
+            "magic",
+            "superhero",
+            "based on comic",
+            "space",
+            "battlefield",
+            "genocide",
+            "magical object",
+            "super power",
+            "superhero team",
+            "aftercreditsstinger",
+            "marvel cinematic universe (mcu)",
+            "cosmic"
         ]
     },
     {
@@ -11523,6 +11345,83 @@
         ]
     },
     {
+        "id": 597,
+        "title": "Titanic",
+        "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fianc\u00e9. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death\u2014on its first and last voyage\u2014on April 15, 1912.",
+        "release_date": "1997-11-18",
+        "popularity": 151.192,
+        "vote_average": 7.906,
+        "vote_count": 25743,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "runtime": 194,
+        "original_language": "en",
+        "spoken_languages": [
+            "English",
+            "French",
+            "German",
+            "Swedish",
+            "Italian",
+            "Russian"
+        ],
+        "status": "Released",
+        "budget": 200000000,
+        "revenue": 2264162353,
+        "production_companies": [
+            "Paramount Pictures",
+            "20th Century Fox",
+            "Lightstorm Entertainment"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "Nothing on Earth could come between them.",
+        "homepage": "https://www.paramountmovies.com/movies/titanic",
+        "imdb_id": "tt0120338",
+        "poster_path": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+        "main_cast": [
+            "Leonardo DiCaprio",
+            "Kate Winslet",
+            "Billy Zane",
+            "Kathy Bates",
+            "Frances Fisher"
+        ],
+        "director": "James Cameron",
+        "keywords": [
+            "epic",
+            "ship",
+            "drowning",
+            "panic",
+            "shipwreck",
+            "evacuation",
+            "iceberg",
+            "titanic",
+            "forbidden love",
+            "ocean liner",
+            "based on true story",
+            "rich woman poor man",
+            "love",
+            "tragedy",
+            "tragic love",
+            "disaster",
+            "historical fiction",
+            "class differences",
+            "love affair",
+            "historical event",
+            "lifeboat",
+            "star crossed lovers",
+            "sinking ship",
+            "steerage",
+            "rich snob",
+            "disaster movie",
+            "1910s",
+            "sunken ship",
+            "romantic"
+        ]
+    },
+    {
         "id": 578,
         "title": "Jaws",
         "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled hunter embark on a desperate quest to destroy the beast before it strikes again.",
@@ -11648,6 +11547,143 @@
             "oslo, norway",
             "time paradox",
             "kyiv (kiev), ukraine"
+        ]
+    },
+    {
+        "id": 1724,
+        "title": "The Incredible Hulk",
+        "overview": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+        "release_date": "2008-06-12",
+        "popularity": 99.86,
+        "vote_average": 6.217,
+        "vote_count": 11927,
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ],
+        "runtime": 114,
+        "original_language": "en",
+        "spoken_languages": [
+            "Portuguese",
+            "Spanish",
+            "English"
+        ],
+        "status": "Released",
+        "budget": 150000000,
+        "revenue": 264770996,
+        "production_companies": [
+            "Marvel Studios",
+            "Valhalla Motion Pictures",
+            "Marvel Entertainment"
+        ],
+        "production_countries": [
+            "United States of America"
+        ],
+        "tagline": "You'll like him when he's angry.",
+        "homepage": "https://www.marvel.com/movies/the-incredible-hulk",
+        "imdb_id": "tt0800080",
+        "poster_path": "https://image.tmdb.org/t/p/w500/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+        "main_cast": [
+            "Edward Norton",
+            "Liv Tyler",
+            "Tim Roth",
+            "William Hurt",
+            "Tim Blake Nelson"
+        ],
+        "director": "Louis Leterrier",
+        "keywords": [
+            "new york city",
+            "rio de janeiro",
+            "superhero",
+            "based on comic",
+            "fugitive",
+            "on the run",
+            "super soldier",
+            "scientist",
+            "virginia",
+            "military",
+            "super villain",
+            "marvel cinematic universe (mcu)",
+            "angry",
+            "radical transformation",
+            "good versus evil",
+            "hopeful"
+        ]
+    },
+    {
+        "id": 929590,
+        "title": "Civil War",
+        "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+        "release_date": "2024-04-10",
+        "popularity": 132.281,
+        "vote_average": 6.869,
+        "vote_count": 3373,
+        "genres": [
+            "War",
+            "Action",
+            "Drama"
+        ],
+        "runtime": 109,
+        "original_language": "en",
+        "spoken_languages": [
+            "English"
+        ],
+        "status": "Released",
+        "budget": 50000000,
+        "revenue": 126542249,
+        "production_companies": [
+            "DNA Films",
+            "IPR.VC",
+            "A24"
+        ],
+        "production_countries": [
+            "Finland",
+            "United Kingdom",
+            "United States of America"
+        ],
+        "tagline": "Welcome to the frontline.",
+        "homepage": "https://a24films.com/films/civil-war",
+        "imdb_id": "tt17279496",
+        "poster_path": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+        "main_cast": [
+            "Kirsten Dunst",
+            "Wagner Moura",
+            "Cailee Spaeny",
+            "Stephen McKinley Henderson",
+            "Nelson Lee"
+        ],
+        "director": "Alex Garland",
+        "keywords": [
+            "sniper",
+            "new york city",
+            "race against time",
+            "washington dc, usa",
+            "the white house",
+            "civil war",
+            "post-traumatic stress disorder (ptsd)",
+            "photographer",
+            "journalism",
+            "dystopia",
+            "war photographer",
+            "road trip",
+            "president",
+            "female protagonist",
+            "soldier",
+            "fictional war",
+            "photojournalism",
+            "xenophobia",
+            "assassination of president",
+            "suicide bombing",
+            "usa politics",
+            "war trauma",
+            "mass grave",
+            "war journalism",
+            "charlottesville",
+            "near future",
+            "violence",
+            "ominous",
+            "urgent"
         ]
     }
 ]
