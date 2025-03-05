@@ -1,4 +1,4 @@
-name: Auto-Update Movies Weekly & Deploy to Hugging Face
+name: Auto-Update Vector Database Weekly & Deploy to Hugging Face
 
 on:
   schedule:
@@ -6,7 +6,48 @@ on:
   workflow_dispatch:  # Allows manual trigger from GitHub Actions
 
 jobs:
-  update-movies:
+  update-database:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
+
+    - name: Install Dependencies
+      run: pip install -r requirements.txt
+
+    - name: Ensure ChromaDB Directory Exists
+      run: |
+        mkdir -p chroma_db  # Ensure chroma_db exists
+        ls -la  # Debugging: Verify the folder contents
+
+    - name: Fetch Trending Movies
+      env:
+      run: python fetch_movies.py
+
+    - name: Generate Movie Embeddings
+      env:
+      run: python generate_embeddings.py
+
+    - name: Store Embeddings in ChromaDB
+      env:
+      run: python store_in_chromadb.py
+
+    - name: Commit and Push Updates to GitHub
+      run: |
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add trending_movies.json movie_embeddings.json chroma_db/
+        git commit -m "Auto-update movies database [skip ci]" || echo "No changes to commit"
+        git push
+
+  deploy-to-huggingface:
+    needs: update-database
     runs-on: ubuntu-latest
 
     steps:
@@ -19,18 +60,7 @@ jobs:
         sudo apt-get install -y git-lfs
         git lfs install
 
-    - name: Ensure ChromaDB Directory Exists
-      run: |
-        mkdir -p chroma_db  # Ensure chroma_db exists
-        ls -la  # Debugging: List contents to verify
-
-    - name: Run Movie Update Scripts
-      run: |
-        python fetch_movies.py
-        python generate_embeddings.py
-        python store_in_chromadb.py
-
-    - name: Authenticate and Clone Hugging Face Space with Git LFS
+    - name: Clone Hugging Face Space
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
       run: |
@@ -39,35 +69,35 @@ jobs:
         git config --global credential.useHttpPath true
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "GitHub Actions"
-        GIT_LFS_SKIP_SMUDGE=1 git clone https://user:$HF_TOKEN@huggingface.co/spaces/thanhtungvudata/CineMoodv3 CineMoodv3
-        cd CineMoodv3
+        GIT_LFS_SKIP_SMUDGE=1 git clone https://user:$HF_TOKEN@huggingface.co/spaces/thanhtungvudata/CineMood3 CineMood3
+        cd CineMood3
         git lfs pull
 
-    - name: Remove Old Versions of Updated Files
+    - name: Remove Old Versions of Updated Files in Hugging Face
       run: |
-        cd CineMoodv3
-        for file in "app.py" "config.py" "fetch_movies.py" "generate_embeddings.py" "store_in_chromadb.py" "requirements.txt"; do
+        cd CineMood3
+        for file in "trending_movies.json" "movie_embeddings.json"; do
           if [ -f "$file" ]; then rm -f "$file"; fi
         done
         rm -rf chroma_db/*  # Remove old ChromaDB contents but keep the folder
 
-    - name: Copy Updated Files to Hugging Face Repo
+    - name: Copy Updated Data to Hugging Face Repo
       run: |
-        mkdir -p CineMoodv3/chroma_db  # Ensure target directory exists
-        rsync -av --ignore-missing-args --exclude='.git' ./chroma_db/ CineMoodv3/chroma_db/
-        rsync -av --exclude='.git' app.py config.py fetch_movies.py generate_embeddings.py store_in_chromadb.py requirements.txt CineMoodv3/
+        mkdir -p CineMood3/chroma_db  # Ensure target directory exists
+        rsync -av --ignore-missing-args --exclude='.git' ./chroma_db/ CineMood3/chroma_db/
+        rsync -av --exclude='.git' trending_movies.json movie_embeddings.json CineMood3/
 
     - name: Configure Git LFS for Large Files
       run: |
-        cd CineMoodv3
+        cd CineMood3
         git lfs track "chroma_db/chroma.sqlite3"
         git add .gitattributes
 
-    - name: Commit and Push Updated Files to Hugging Face
+    - name: Commit and Push Updates to Hugging Face
       env:
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
       run: |
-        cd CineMoodv3
-        git add chroma_db/ app.py config.py fetch_movies.py generate_embeddings.py store_in_chromadb.py requirements.txt
-        git commit -m "Auto-update modified files from GitHub" || echo "No changes to commit"
-        git push https://user:$HF_TOKEN@huggingface.co/spaces/thanhtungvudata/CineMoodv3.git HEAD:main
+        cd CineMood3
+        git add chroma_db/ trending_movies.json movie_embeddings.json
+        git commit -m "Auto-update from GitHub" || echo "No changes to commit"
+        git push https://user:$HF_TOKEN@huggingface.co/spaces/thanhtungvudata/CineMood3.git HEAD:main
