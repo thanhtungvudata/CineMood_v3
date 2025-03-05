@@ -16,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: "3.11"
+        python-version: "3.10"
 
     - name: Install Dependencies
       run: pip install -r requirements.txt
@@ -27,12 +27,18 @@ jobs:
         ls -la  # Debugging: Verify the folder contents
 
     - name: Fetch Trending Movies
+      env:
+        TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
       run: python fetch_movies.py
 
     - name: Generate Movie Embeddings
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: python generate_embeddings.py
 
     - name: Store Embeddings in ChromaDB
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: python store_in_chromadb.py
 
     - name: Commit and Push Updates to GitHub
@@ -41,7 +47,7 @@ jobs:
         git config --global user.name "GitHub Actions"
         git add trending_movies.json movie_embeddings.json chroma_db/
         git commit -m "Auto-update movies database [skip ci]" || echo "No changes to commit"
-        git push
+        git push origin main
 
   deploy-to-huggingface:
     needs: update-database
