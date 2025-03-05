@@ -57,6 +57,14 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y git-lfs
         git lfs install
+    
+    - name: Debug Hugging Face Authentication
+      env:
+        HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      run: |
+        echo "Testing Hugging Face API Authentication..."
+        curl -H "Authorization: Bearer $HF_TOKEN" https://huggingface.co/api/whoami-v2 || echo "❌ Failed to authenticate"
+
 
     - name: Clone Hugging Face Space with Git LFS Support
       env:
