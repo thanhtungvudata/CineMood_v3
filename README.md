@@ -2,6 +2,11 @@
 
 **CineMood_v3** is a movie recommendation system that leverages embeddings and a vector database to suggest movies based on user preferences, trends, and semantic similarity. The project incorporates the **Retrieval-Augmented Generation (RAG) method** to enhance movie recommendations by dynamically retrieving relevant information before generating responses.
 
+## 🚀 Demo
+
+🎭 **Try the app:** [CineMoodv3: RAG Mood-Based Movie Recommendation](https://huggingface.co/spaces/thanhtungvudata/cinemoodv3)  
+📝 **Blog post:** [Building a RAG Mood-Based Trending Movie Recommendation App](https://medium.com/@tungvu_37498/building-a-rag-mood-based-trending-movie-recommendation-app-8bb9ea17213d)
+
 ---
 
 ## ✨ Overview
