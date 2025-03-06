@@ -1,16 +1,18 @@
-# CineMood_v3 🎮🎭
+# CineMood_v3 🎬🎭
 
-**CineMood_v3** is a movie recommendation system that leverages embeddings and a vector database to suggest movies based on user preferences, trends, and semantic similarity.
+**CineMood_v3** is a movie recommendation system that leverages embeddings and a vector database to suggest movies based on user preferences, trends, and semantic similarity. The project incorporates the **Retrieval-Augmented Generation (RAG) method** to enhance movie recommendations by dynamically retrieving relevant information before generating responses.
 
 ---
 
 ## ✨ Overview
 CineMood_v3 fetches trending movie data from public sources, generates vector embeddings for each movie, and stores those embeddings in a ChromaDB instance for fast similarity-based lookups. A Streamlit web application provides an interactive user interface to browse and discover movies based on various criteria.
 
+This project applies **RAG (Retrieval-Augmented Generation)** to improve recommendation accuracy. By combining a retrieval system (ChromaDB) with an AI-based generation model, the app provides more contextual and relevant movie recommendations based on user queries.
+
 ---
 
 ## 🚀 Features
-1. **Fetch latest movies** 🎮  
+1. **Fetch latest movies** 📽️  
    Retrieves trending movies from online sources (e.g., TMDB API).
 
 2. **Generate embeddings** 🧠  
@@ -19,15 +21,21 @@ CineMood_v3 fetches trending movie data from public sources, generates vector em
 3. **Store and search efficiently** 🔍  
    Utilizes [ChromaDB](https://docs.trychroma.com/) to manage and query embeddings at scale.
 
-4. **Auto-update database** 🔄  
+4. **RAG-Based Recommendations** 🔗  
+   Enhances recommendations by retrieving relevant movie descriptions and generating personalized suggestions.
+
+5. **Auto-update database** 🔄  
    Automated GitHub Actions keep the movie data and embeddings fresh.
 
-5. **Streamlit-based Web App** 🌐  
+6. **Streamlit-based Web App** 🌐  
    Offers a user-friendly interface to browse, search, and discover movie recommendations.
+
+7. **Deploy on Hugging Face Spaces** 🚀  
+   Easily accessible through [Hugging Face Spaces](https://huggingface.co/spaces/) for public use.
 
 ---
 
-## 📚 Project Structure
+## 📂 Project Structure
 ```
 CineMood_v3
 ├── .github/workflows/
@@ -91,12 +99,17 @@ CineMood_v3
    ```
    - This script populates the ChromaDB instance (in `chroma_db/`) with your newly generated embeddings.
 
-4. **Run the Streamlit app**:
+4. **Run the Streamlit app locally**:
    ```bash
    streamlit run app.py
    ```
    - This will launch the CineMood_v3 web interface in your browser.  
    - Explore trending movies, search via semantic similarity, and find recommendations.
+
+5. **Deploy on Hugging Face Spaces**:
+   - Push your repository to [Hugging Face Spaces](https://huggingface.co/spaces/).
+   - Ensure the `requirements.txt` includes all dependencies.
+   - Access the app from the provided Hugging Face URL.
 
 ---
 
@@ -108,7 +121,7 @@ CineMood_v3
 
 ---
 
-## 🐟 License
+## 📜 License
 This project is licensed under the **MIT License**.  
 See [LICENSE](LICENSE) for full details.
 
@@ -121,8 +134,10 @@ See [LICENSE](LICENSE) for full details.
    Integrate cast, crew, and genre data for more refined search and filtering.
 3. **Model Fine-Tuning**  
    Experiment with different embedding models or fine-tune existing ones for higher recommendation accuracy.
-4. **Deployment Options**  
-   Deploy the app to platforms like Hugging Face Spaces, AWS, or Heroku for broader access.
+4. **Extended Deployment Options**  
+   Deploy the app to platforms like AWS, Heroku, or Hugging Face Spaces for broader accessibility.
+5. **Advanced RAG Enhancements**  
+   Improve Retrieval-Augmented Generation by incorporating user preferences and contextual metadata.
 
 ---
 
@@ -136,8 +151,14 @@ Pull requests are welcome! If you have ideas for improvements, open an issue to 
 - [OpenAI](https://platform.openai.com/) or other NLP libraries for embedding generation.
 - [ChromaDB](https://docs.trychroma.com/) for vector database services.
 - [Streamlit](https://streamlit.io/) for the interactive UI framework.
+- [Hugging Face Spaces](https://huggingface.co/spaces/) for hosting the app.
 
 ---
 
-### 🚀 Enjoy discovering and recommending movies with **CineMood_v3**!
+💡 **Built with ❤️ by [Thanh Tung Vu](https://thanhtungvudata.github.io/).**  
+🌟 Star this repo if you find it useful!
+
+---
+
+🚀 **Enjoy mood-based movie recommendations! Let me know what you think! 🎬😊**
 
